@@ -13,7 +13,7 @@ __Welcome to Microsoft Azure LUIS PHP SDK__. This repository contains Azure LUIS
 
 ```php
 // from LUIS Profile -> Settings -> Authoring Resources
-$primaryKey = 'adf3a523084e45d7a43aacf1490d73fe';
+$primaryKey = '';
 $location = 'westeurope';
 
 // Luis Client
