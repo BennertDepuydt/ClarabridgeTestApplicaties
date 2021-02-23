@@ -20,17 +20,17 @@ $endpointKey = "";
 // The endpoint URI below is for the West US region.
 // If your subscription is in a different region, update accordingly.
 $endpoint = "";
+$endpoint2 = "";
 
 // The LUIS query term
-$term = "hi";
-function CreateIntent($url, $key) {
+function CreateIntent($url,$key, $name) {
     // Prepare HTTP request
     // NOTE: Use the key 'http' even if you are making an HTTPS request. See:
     // http://php.net/manual/en/function.stream-context-create.php
 
 
     $postData = array(
-        'name' => 'BookFlight'
+        'name' => $name
     );
 
     $headers = "Ocp-Apim-Subscription-Key: $key\r\n";
@@ -41,40 +41,57 @@ function CreateIntent($url, $key) {
         'content' => http_build_query($postData),
 
     ));
-    // build query string
-    $subscription_key = "";
-    $qs = http_build_query( array (
-            "subscription-key" => $subscription_key,
-        )
-    );
-
-    $url = $url;
-
     print($url);
 
     // Perform the Web request and get the JSON response
     $context = stream_context_create($options);
 
-    $result = file_get_contents($url, false, $context);
+    return file_get_contents($url, false, $context);
 
+}
+function createExamples($url,$key, $name, $text){
+    $postData = array(
+        'text' => $text,
+        'intentName' => $name,
+    );
 
+    $headers = "Ocp-Apim-Subscription-Key: $key\r\n";
+    $options = array ( 'http' => array (
+        'method' => 'POST',
+        'header' => $headers,
+        'ignore_errors' => true,
+        'content' => http_build_query($postData),
 
-    return $result;
+    ));
+     print($url);
+
+    // Perform the Web request and get the JSON response
+    $context = stream_context_create($options);
+
+    return file_get_contents($url, false, $context);
+
 }
 
 // check length of key
 if (strlen($endpointKey) == 32) {
 
-    print("LUIS Query: " . $term . "\n");
 
 
-    $json = CreateIntent($endpoint, $endpointKey);
+    $strJsonFileContents = file_get_contents("intents.json");
+    // Convert to array
+    $array = json_decode($strJsonFileContents, true);
 
-    print("\nJSON Response:\n\n");
-    print(json_encode(json_decode($json), JSON_PRETTY_PRINT));
-    print("\n");
-    print($term);
 
+    for($i=0;$i < count($array); $i++){
+        $json = CreateIntent($endpoint, $endpointKey,$array[$i]["intent"]);
+        print(json_encode(json_decode($json), JSON_PRETTY_PRINT));
+        print("\n");
+        for($j=0;$j < count($array[$i]["example_phrases"]); $j++){
+            $json2 = createExamples($endpoint2, $endpointKey, $array[$i]["intent"], $array[$i]["example_phrases"][$j]);
+            print(json_encode(json_decode($json2), JSON_PRETTY_PRINT));
+            print("\n");
+        }
+    }
 
 } else {
 
