@@ -66,7 +66,6 @@ if (strlen($endpointKey) == 32) {
         print("\nJSON Response:\n\n");
         print(json_encode(json_decode($json), JSON_PRETTY_PRINT));
         print("\n");
-        print($term);
         $fp = fopen('results.json', 'a');
         fwrite($fp, json_encode(json_decode($json), JSON_PRETTY_PRINT));
         fclose($fp);
