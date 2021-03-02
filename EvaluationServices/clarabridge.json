@@ -1,0 +1,5569 @@
+[
+  {
+    "title": "I'm angry with your service",
+    "content": "I'm angry with your service",
+    "clarabridgeModelTags": [
+      "Emotions (basic) \u00bb Anger"
+    ]
+  },
+  {
+    "title": "Change Booking",
+    "content": "Change Booking",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Changes"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "My flight number is 00918452",
+    "content": "My flight number is 00918452",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Are cats allowed in the cabin?",
+    "content": "Are cats allowed in the cabin?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Special Needs",
+      "Transportation \u00bb Special Needs \u00bb Pets"
+    ]
+  },
+  {
+    "title": "The riyadh flight is canceled?",
+    "content": "The riyadh flight is canceled?",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "Can you check the flight to Riyadh please?",
+    "content": "Can you check the flight to Riyadh please?",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Airport Experience"
+    ]
+  },
+  {
+    "title": "Hey there, I've lost my luggage.... I need it ASAP as I'm on holiday and have no clothes here..",
+    "content": "Hey there, I've lost my luggage.... I need it ASAP as I'm on holiday and have no clothes here..",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Baggage \u00bb Lost-stolen",
+      "Transportation \u00bb Baggage"
+    ]
+  },
+  {
+    "title": "@clara_lines Hi there, can you help me?",
+    "content": "@clara_lines Hi there, can you help me?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "<twitter:privacy_url>https:\/\/www.clarabridge.com\/privacy-policy\/<\/twitter:privacy_url> <twitter:dm_id>1359069145451679748<\/twitter:dm_id> <twitter:question_variant_id>3<\/twitter:question_variant_id> <twitter:from_user_id>1183385285633159168<\/twitter:from_user_id> <twitter:to_user_id>830050199552872448<\/twitter:to_user_id> <twitter:response>{\"score\":{\"created_at\":\"Tue Feb 09 09:18:36 +0000 2021\",\"value\":5}}<\/twitter:response> <twitter:id>1359069145409724416<\/twitter:id>",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\u0645\u0631\u062d\u0628\u0627 \u0647\u0644 \u064a\u0645\u0643\u0646\u0643 \u0645\u0633\u0627\u0639\u062f\u062a\u064a \u0641\u064a \u0627\u0644\u062d\u062c\u0632\u061f",
+    "content": "\u0645\u0631\u062d\u0628\u0627 \u0647\u0644 \u064a\u0645\u0643\u0646\u0643 \u0645\u0633\u0627\u0639\u062f\u062a\u064a \u0641\u064a \u0627\u0644\u062d\u062c\u0632\u061f",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Get Started",
+    "content": "Get Started",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello?",
+    "content": "Hello?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "1234FGH",
+    "content": "1234FGH",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I need to rebook my flight from TX to FL",
+    "content": "I need to rebook my flight from TX to FL",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Changes",
+      "Airline Journey \u00bb Irrops Handling \u00bb Irrops - Quality Of Rebooking",
+      "Airline Journey \u00bb Irrops Handling"
+    ]
+  },
+  {
+    "title": "Hi! I need help",
+    "content": "Hi! I need help",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi there! I have a question about my flight to Hungary",
+    "content": "Hi there! I have a question about my flight to Hungary",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey, do you fly to japan?",
+    "content": "Hey, do you fly to japan?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi",
+    "content": "Hi",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hola Claralines, estoy intentando reservar en vuestra p\u00e1gina web pero no funciona!",
+    "content": "Hola Claralines, estoy intentando reservar en vuestra p\u00e1gina web pero no funciona!",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Digital Experience",
+      "Airline Journey \u00bb Digital Experience \u00bb Website Experience"
+    ]
+  },
+  {
+    "title": "3456",
+    "content": "3456",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\ude21Cancelled",
+    "content": "\ud83d\ude21Cancelled",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc94Delay\/Cancellation",
+    "content": "\ud83d\udc94Delay\/Cancellation",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi Claralines, I'm trying to book a flight through your website but I can\u00b4t!",
+    "content": "Hi Claralines, I'm trying to book a flight through your website but I can\u00b4t!",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Airline Journey \u00bb Digital Experience \u00bb Website Experience \u00bb Website Experience - Reservations",
+      "Airline Journey \u00bb Digital Experience \u00bb Website Experience",
+      "Airline Journey \u00bb Digital Experience",
+      "Transportation \u00bb Ticketing-reservations \u00bb Online"
+    ]
+  },
+  {
+    "title": "4567",
+    "content": "4567",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\ude21Cancelled",
+    "content": "\ud83d\ude21Cancelled",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc94Delay\/Cancellation",
+    "content": "\ud83d\udc94Delay\/Cancellation",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "Hi",
+    "content": "Hi",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello!",
+    "content": "Hello!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Roscamlaura1@gmail.com",
+    "content": "Roscamlaura1@gmail.com",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "My order is lost",
+    "content": "My order is lost",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hallo",
+    "content": "Hallo",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Het",
+    "content": "Het",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello",
+    "content": "Hello",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi there, I haven't received my booking information??",
+    "content": "Hi there, I haven't received my booking information??",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Notifications"
+    ]
+  },
+  {
+    "title": "Talk to Human",
+    "content": "Talk to Human",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "45283",
+    "content": "45283",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello",
+    "content": "Hello",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey there, I still haven't received my booking information and I paid for my flight last week..",
+    "content": "Hey there, I still haven't received my booking information and I paid for my flight last week..",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations \u00bb Cost",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Travel Experience \u00bb Notifications"
+    ]
+  },
+  {
+    "title": "Thanks",
+    "content": "Thanks",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Are you still serving food on the flights?",
+    "content": "Are you still serving food on the flights?",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Onboard Product And Service \u00bb Food And Beverage \u00bb Fandb - Food",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb Food And Beverage",
+      "Airline Journey \u00bb Onboard Product And Service",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb Food And Beverage \u00bb Fandb - Food \u00bb Quantity Of Food"
+    ]
+  },
+  {
+    "title": "I don't know yet",
+    "content": "I don't know yet",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Time to fly again???",
+    "content": "Time to fly again???",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Heeey",
+    "content": "Heeey",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "hello i have a question",
+    "content": "hello i have a question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello, this is a tes message from Rozhin.",
+    "content": "Hello, this is a tes message from Rozhin.",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Flying out from Netherlands to Jamaica, do you need a pcr test to onboard?",
+    "content": "Flying out from Netherlands to Jamaica, do you need a pcr test to onboard?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "What are the rules for flying with your dog? I would like to have him with me in the cabin",
+    "content": "What are the rules for flying with your dog? I would like to have him with me in the cabin",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Special Needs",
+      "Transportation \u00bb Special Needs \u00bb Pets"
+    ]
+  },
+  {
+    "title": "\ud83c\udf0d Find Destination",
+    "content": "\ud83c\udf0d Find Destination",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi Claralines",
+    "content": "Hi Claralines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello! I have flights for next Sunday but I have to be in quarentine, how can I change them?",
+    "content": "Hello! I have flights for next Sunday but I have to be in quarentine, how can I change them?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Changes"
+    ]
+  },
+  {
+    "title": "Hi there",
+    "content": "Hi there",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi there",
+    "content": "Hi there",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "12345 and my destination was Barcelona",
+    "content": "12345 and my destination was Barcelona",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\ude21Cancelled",
+    "content": "\ud83d\ude21Cancelled",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc94Delay\/Cancellation",
+    "content": "\ud83d\udc94Delay\/Cancellation",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi Claralines - can you send me my refund for the previous flights cancellation? Thanks.",
+    "content": "Hi Claralines - can you send me my refund for the previous flights cancellation? Thanks.",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience \u00bb Cancellations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Refunds",
+      "Transportation \u00bb Ticketing-reservations",
+      "Airline Journey \u00bb Irrops Handling"
+    ]
+  },
+  {
+    "title": "2pm please. thanks",
+    "content": "2pm please. thanks",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I am flying from DC",
+    "content": "I am flying from DC",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I am hoping to leave tomorrow afternoon",
+    "content": "I am hoping to leave tomorrow afternoon",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello. I need flight times to get to Dallas",
+    "content": "Hello. I need flight times to get to Dallas",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Get Started",
+    "content": "Get Started",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "hello",
+    "content": "hello",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Delayed",
+    "content": "Delayed",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience"
+    ]
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi.. my flight number is 123ABC and I was flying to Miami",
+    "content": "Hi.. my flight number is 123ABC and I was flying to Miami",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\ude21Cancelled",
+    "content": "\ud83d\ude21Cancelled",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc94Delay\/Cancellation",
+    "content": "\ud83d\udc94Delay\/Cancellation",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Get Started",
+    "content": "Get Started",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello!",
+    "content": "Hello!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi there, can you help me?",
+    "content": "Hi there, can you help me?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi there, can you help me?",
+    "content": "Hi there, can you help me?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey I need some help!",
+    "content": "Hey I need some help!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "12345",
+    "content": "12345",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Change Booking",
+    "content": "Change Booking",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Changes"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi Claralines. I wanted to cancel my upcoming flight. How do I do that?",
+    "content": "Hi Claralines. I wanted to cancel my upcoming flight. How do I do that?",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Ticketing-reservations \u00bb Cancellation",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "Hello, I need help changing a flight!",
+    "content": "Hello, I need help changing a flight!",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations \u00bb Changes",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Thanks",
+    "content": "Thanks",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "LAX",
+    "content": "LAX",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\udf0d Find Destination",
+    "content": "\ud83c\udf0d Find Destination",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Test",
+    "content": "Test",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Get Started",
+    "content": "Get Started",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Test",
+    "content": "<facebook:message>Test<\/facebook:message>",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "test request",
+    "content": "test request",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Get Started",
+    "content": "Get Started",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\u23f0Delayed",
+    "content": "\u23f0Delayed",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience"
+    ]
+  },
+  {
+    "title": "\u0a06\u0a30\u0a21\u0a30 \u0a35\u0a3f\u0a71\u0a1a \u0a26\u0a47\u0a30\u0a40 \u0a39\u0a4b\u0a08 \u0a2a\u0a30 \u0a2a\u0a40\u0a1c\u0a3c\u0a3e \u0a38\u0a3c\u0a3e\u0a28\u0a26\u0a3e\u0a30 \u0a38\u0a40!",
+    "content": "\u0a06\u0a30\u0a21\u0a30 \u0a35\u0a3f\u0a71\u0a1a \u0a26\u0a47\u0a30\u0a40 \u0a39\u0a4b\u0a08 \u0a2a\u0a30 \u0a2a\u0a40\u0a1c\u0a3c\u0a3e \u0a38\u0a3c\u0a3e\u0a28\u0a26\u0a3e\u0a30 \u0a38\u0a40!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Test",
+    "content": "Test",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Pizza was okay",
+    "content": "Pizza was okay",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Onboard Product And Service",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb Food And Beverage",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb Food And Beverage \u00bb Fandb - Food"
+    ]
+  },
+  {
+    "title": "Order is delayed but pizza was awesome!",
+    "content": "Order is delayed but pizza was awesome!",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Airline Journey \u00bb Onboard Product And Service",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb Food And Beverage",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb Food And Beverage \u00bb Fandb - Food",
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience"
+    ]
+  },
+  {
+    "title": "Hey do you fly to dubai?",
+    "content": "Hey do you fly to dubai?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Yeme\u011fim \u00e7ok ge\u00e7 geldi \u00e7ok ac\u0131kt\u0131m",
+    "content": "Yeme\u011fim \u00e7ok ge\u00e7 geldi \u00e7ok ac\u0131kt\u0131m",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "My flight number is 9274",
+    "content": "My flight number is 9274",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "My food came so delayed on the flight! I was starving..",
+    "content": "My food came so delayed on the flight! I was starving..",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Airline Journey \u00bb Onboard Product And Service",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb Food And Beverage",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb Food And Beverage \u00bb Fandb - Food",
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience"
+    ]
+  },
+  {
+    "title": "can you fix the food on the flight its horrible!",
+    "content": "can you fix the food on the flight its horrible!",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Onboard Product And Service \u00bb Food And Beverage \u00bb Fandb - Food \u00bb Quality Of Food",
+      "Airline Journey \u00bb Onboard Product And Service",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb Food And Beverage",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb Food And Beverage \u00bb Fandb - Food",
+      "Transportation \u00bb Food",
+      "Transportation \u00bb Food \u00bb Quality",
+      "Emotions (basic) \u00bb Disgust"
+    ]
+  },
+  {
+    "title": "I need some help!",
+    "content": "I need some help!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "1123",
+    "content": "1123",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Change Booking",
+    "content": "Change Booking",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Changes"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Beware, Claralines gave me such a difficult time with changing my flight time! Make sure you know before booking with them. ",
+    "content": "<facebook:message>Beware, Claralines gave me such a difficult time with changing my flight time! Make sure you know before booking with them. <\/facebook:message>",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations \u00bb Changes",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "Cool! Amazing Claralines. I loveeee flying with you guys. ",
+    "content": "<facebook:message>Cool! Amazing Claralines. I loveeee flying with you guys. <\/facebook:message>",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello ",
+    "content": "Hello ",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "When will you fly again?",
+    "content": "When will you fly again?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi Claralines, when will you fly again?",
+    "content": "Hi Claralines, when will you fly again?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Puedes ayudarme?",
+    "content": "Puedes ayudarme?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Tengo una pregunta sobre sus ventas al Caribe",
+    "content": "Tengo una pregunta sobre sus ventas al Caribe",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hola",
+    "content": "Hola",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Do you fly to Dubai still?",
+    "content": "Do you fly to Dubai still?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "you can help me by switching back to how it used to be..",
+    "content": "you can help me by switching back to how it used to be..",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "The food on the plane was so bad!! \ud83d\ude1f",
+    "content": "The food on the plane was so bad!! \ud83d\ude1f",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Food",
+      "Emotions (basic) \u00bb Disgust",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb Food And Beverage \u00bb Fandb - Food \u00bb Quality Of Food",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb Food And Beverage \u00bb Fandb - Food",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb Food And Beverage",
+      "Airline Journey \u00bb Onboard Product And Service",
+      "Transportation \u00bb Food \u00bb Quality"
+    ]
+  },
+  {
+    "title": "Hello! With the new restrictions, do I need a negative test to fly to Spain?",
+    "content": "Hello! With the new restrictions, do I need a negative test to fly to Spain?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello there, - is it true that you have a flexible booking policy due to Covid?",
+    "content": "Hello there, - is it true that you have a flexible booking policy due to Covid?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello",
+    "content": "Hello",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "123ABC",
+    "content": "123ABC",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi Claralines! I need to cancel my flight",
+    "content": "Hi Claralines! I need to cancel my flight",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Ticketing-reservations \u00bb Cancellation",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "hello",
+    "content": "hello",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Get Started",
+    "content": "Get Started",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi, can you help me?",
+    "content": "Hi, can you help me?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I have a question",
+    "content": "I have a question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey!",
+    "content": "Hey!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi Claralines!",
+    "content": "Hi Claralines!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Thanks",
+    "content": "Thanks",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Can you help",
+    "content": "Can you help",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello",
+    "content": "Hello",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi",
+    "content": "Hi",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello",
+    "content": "Hello",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Sorry I now need to change this to Miami!",
+    "content": "Sorry I now need to change this to Miami!",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations \u00bb Changes",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "Hi Claralines - your phone number has been unreachable every time ive tried to call. Can you help change my flight to Panama City? ",
+    "content": "Hi Claralines - your phone number has been unreachable every time ive tried to call. Can you help change my flight to Panama City? ",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Call Center \u00bb Call Center - Wait Time",
+      "Airline Journey \u00bb Call Center",
+      "Transportation \u00bb Ticketing-reservations \u00bb Changes",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "Are there any covid measures I should be careful of?",
+    "content": "Are there any covid measures I should be careful of?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Thanks do you fly to KSA?",
+    "content": "Thanks do you fly to KSA?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi, can you help me with a flight detail please?",
+    "content": "Hi, can you help me with a flight detail please?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello, can you please reply?",
+    "content": "Hello, can you please reply?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "4567",
+    "content": "4567",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\ude21Cancelled",
+    "content": "\ud83d\ude21Cancelled",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc94Delay\/Cancellation",
+    "content": "\ud83d\udc94Delay\/Cancellation",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Very happy with this",
+    "content": "<twitter:privacy_url>https:\/\/www.clarabridge.com\/privacy-policy\/<\/twitter:privacy_url> <twitter:dm_id>1341304386849566724<\/twitter:dm_id> <twitter:question_variant_id>3<\/twitter:question_variant_id> <twitter:from_user_id>1183385285633159168<\/twitter:from_user_id> <twitter:to_user_id>3306352779<\/twitter:to_user_id> <twitter:response>{\"score\":{\"created_at\":\"Tue Dec 22 08:50:58 +0000 2020\",\"value\":5},\"text\":{\"created_at\":\"Tue Dec 22 08:51:07 +0000 2020\",\"value\":\"Very happy with this\"}}<\/twitter:response> <twitter:id>1341304386807541766<\/twitter:id>",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd1a\ud83c\udffbCarry-On Baggage",
+    "content": "\ud83e\udd1a\ud83c\udffbCarry-On Baggage",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\uddf3 Baggage Question",
+    "content": "\ud83e\uddf3 Baggage Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Awesome work!",
+    "content": "Awesome work!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi Claralines! I have a couple of questions for you",
+    "content": "Hi Claralines! I have a couple of questions for you",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Okay, perfect! Thank you for the quick response",
+    "content": "Okay, perfect! Thank you for the quick response",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi \ud83d\udc4b\ud83c\udffc Do you fly to Jordan during the holidays? Thanks!",
+    "content": "Hi \ud83d\udc4b\ud83c\udffc Do you fly to Jordan during the holidays? Thanks!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Thank you for your support",
+    "content": "Thank you for your support",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi! Do you fly to Barcelona?",
+    "content": "Hi! Do you fly to Barcelona?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello, and do you fly to Brussels?",
+    "content": "Hello, and do you fly to Brussels?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Do you fly to switzerland?",
+    "content": "Do you fly to switzerland?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Do you fly from Amsterdam to Istanbul?",
+    "content": "Do you fly from Amsterdam to Istanbul?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Thanks",
+    "content": "Thanks",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey \ud83d\udc4b my product smells bad",
+    "content": "Hey \ud83d\udc4b my product smells bad",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Aircraft Experience",
+      "Airline Journey \u00bb Aircraft Experience \u00bb Cabin Condition \u00bb Condition - Odor-ventilation",
+      "Airline Journey \u00bb Aircraft Experience \u00bb Cabin Condition",
+      "Transportation \u00bb Facilities \u00bb Odor",
+      "Transportation \u00bb Facilities"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Any christmas campaigns for 2021?",
+    "content": "Any christmas campaigns for 2021?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Are there flights from Amsterdam now that there is a stricter lockdown situation?",
+    "content": "Are there flights from Amsterdam now that there is a stricter lockdown situation?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Tengo una problema",
+    "content": "Tengo una problema",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hola Claralines!!",
+    "content": "Hola Claralines!!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "6547",
+    "content": "6547",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\ude21Cancelled",
+    "content": "\ud83d\ude21Cancelled",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc94Delay\/Cancellation",
+    "content": "\ud83d\udc94Delay\/Cancellation",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello, is there a flight tomorrow t Brussels?",
+    "content": "Hello, is there a flight tomorrow t Brussels?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "You are there",
+    "content": "You are there",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Help",
+    "content": "Help",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey",
+    "content": "Hey",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\u0645\u0631\u062d\u0628\u0627 \u0643\u064a\u0641 \u0627\u0644\u062d\u0627\u0644",
+    "content": "\u0645\u0631\u062d\u0628\u0627 \u0643\u064a\u0641 \u0627\u0644\u062d\u0627\u0644",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Are you flying to Barcelona?",
+    "content": "Are you flying to Barcelona?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "45678",
+    "content": "45678",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\u23f0Delayed",
+    "content": "\u23f0Delayed",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc94Delay\/Cancellation",
+    "content": "\ud83d\udc94Delay\/Cancellation",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello",
+    "content": "Hello",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello!",
+    "content": "Hello!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey",
+    "content": "Hey",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "45654",
+    "content": "45654",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\ude21Cancelled",
+    "content": "\ud83d\ude21Cancelled",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc94Delay\/Cancellation",
+    "content": "\ud83d\udc94Delay\/Cancellation",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi ClaraLines team! I just found out I am sitting next to someone on my flight to Boston. I find that unacceptable in these covid-19 times! I'd like to request a refund! \ud83d\ude21",
+    "content": "Hi ClaraLines team! I just found out I am sitting next to someone on my flight to Boston. I find that unacceptable in these covid-19 times! I'd like to request a refund! \ud83d\ude21",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Refunds"
+    ]
+  },
+  {
+    "title": "Do you fly to cuba?",
+    "content": "Do you fly to cuba?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc94Delay\/Cancellation",
+    "content": "\ud83d\udc94Delay\/Cancellation",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "Hey, can you help me?",
+    "content": "Hey, can you help me?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Japan please",
+    "content": "Japan please",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Still trying to find my lost bag! Convinced your employees stole it at this point.",
+    "content": "Still trying to find my lost bag! Convinced your employees stole it at this point.",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Baggage \u00bb Lost-stolen",
+      "Transportation \u00bb Baggage",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb In-flight - Flight Attendants",
+      "Airline Journey \u00bb Onboard Product And Service",
+      "Transportation \u00bb Baggage \u00bb Retrieval"
+    ]
+  },
+  {
+    "title": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc Human Agent",
+    "content": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc Human Agent",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Onboard Product And Service \u00bb In-flight - Flight Attendants",
+      "Airline Journey \u00bb Onboard Product And Service"
+    ]
+  },
+  {
+    "title": "Hey! What kind of drinks do you offer onboard?",
+    "content": "Hey! What kind of drinks do you offer onboard?",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Onboard Product And Service \u00bb Food And Beverage \u00bb Fandb - Beverages",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb Food And Beverage \u00bb Fandb - Beverages \u00bb Beverages - Offered Drink",
+      "Airline Journey \u00bb Onboard Product And Service",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb Food And Beverage"
+    ]
+  },
+  {
+    "title": "I want to cancel my flight!!!",
+    "content": "I want to cancel my flight!!!",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Ticketing-reservations \u00bb Cancellation"
+    ]
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I need help rebooking my flight",
+    "content": "I need help rebooking my flight",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Airline Journey \u00bb Irrops Handling \u00bb Irrops - Quality Of Rebooking \u00bb Rebooking- Staff Competence",
+      "Airline Journey \u00bb Irrops Handling \u00bb Irrops - Quality Of Rebooking",
+      "Transportation \u00bb Ticketing-reservations \u00bb Changes",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "Hello",
+    "content": "Hello",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Get Started",
+    "content": "Get Started",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Are middle seats booked?",
+    "content": "Are middle seats booked?",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Aircraft Experience",
+      "Airline Journey \u00bb Aircraft Experience \u00bb Cabin Condition",
+      "Airline Journey \u00bb Aircraft Experience \u00bb Cabin Condition \u00bb Condition - Seat Cushion"
+    ]
+  },
+  {
+    "title": "Hello! I was just wondering about your refund policy regarding Covid ?",
+    "content": "Hello! I was just wondering about your refund policy regarding Covid ?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Refunds"
+    ]
+  },
+  {
+    "title": "Get Started",
+    "content": "Get Started",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello! I have a question about my upcoming flight with Claralines",
+    "content": "Hello! I have a question about my upcoming flight with Claralines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Are you keeping the middle seats open??",
+    "content": "Are you keeping the middle seats open??",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Aircraft Experience",
+      "Airline Journey \u00bb Aircraft Experience \u00bb Cabin Condition",
+      "Airline Journey \u00bb Aircraft Experience \u00bb Cabin Condition \u00bb Condition - Seat Cushion"
+    ]
+  },
+  {
+    "title": "@clara_lines I just tested positive for covid_19. Can I get a refund if I can proof this with a medical statement from my doctor?",
+    "content": "@clara_lines I just tested positive for covid_19. Can I get a refund if I can proof this with a medical statement from my doctor?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Refunds"
+    ]
+  },
+  {
+    "title": "Are you flying to Brussels in December 16th?",
+    "content": "Are you flying to Brussels in December 16th?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "hi! I'm hoping you can help me obtain a refund?",
+    "content": "hi! I'm hoping you can help me obtain a refund?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Refunds"
+    ]
+  },
+  {
+    "title": "OMG! Is this what I think it is?? A giveaway?? \ud83e\udd29\ud83e\udd73",
+    "content": "OMG! Is this what I think it is?? A giveaway?? \ud83e\udd29\ud83e\udd73",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey!!!",
+    "content": "Hey!!!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "When is this campaign? \ud83e\udd73",
+    "content": "<facebook:message>When is this campaign? \ud83e\udd73<\/facebook:message>",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "New Booking",
+    "content": "New Booking",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey can someone help me very quickly",
+    "content": "Hey can someone help me very quickly",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\u0627\u0642\u0648\u0644 \u0628\u0633 \u0645\u0648\u0635\u0644\u064a\u0646\u0647\u0627 \u0628\u0627\u0631\u062f\u0647 \u0648\u0627\u0644\u0628\u064a\u0628\u0633\u064a \u062d\u0627\u0631 \u0648\u0627\u0644\u0641\u0631\u0627\u064a\u0632 \u0628\u0627\u0631\u062f \u0633\u0644\u0627\u0645\u0627\u0627\u062a !!!!!! \u062c\u0648\u0639\u0627\u0646\u064a\u0646 \u062a\u0631\u0627 \u0648\u0634 \u0647\u0627\u0644\u062a\u0648\u0635\u064a\u0644 \u0627\u0644\u0641\u0627\u0634\u0644",
+    "content": "\u0627\u0642\u0648\u0644 \u0628\u0633 \u0645\u0648\u0635\u0644\u064a\u0646\u0647\u0627 \u0628\u0627\u0631\u062f\u0647 \u0648\u0627\u0644\u0628\u064a\u0628\u0633\u064a \u062d\u0627\u0631 \u0648\u0627\u0644\u0641\u0631\u0627\u064a\u0632 \u0628\u0627\u0631\u062f \u0633\u0644\u0627\u0645\u0627\u0627\u062a !!!!!! \u062c\u0648\u0639\u0627\u0646\u064a\u0646 \u062a\u0631\u0627 \u0648\u0634 \u0647\u0627\u0644\u062a\u0648\u0635\u064a\u0644 \u0627\u0644\u0641\u0627\u0634\u0644",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello?",
+    "content": "Hello?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "just wanted to say thank you for your support last time",
+    "content": "just wanted to say thank you for your support last time",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey your colleague chris has helped me last time can he help me again?",
+    "content": "Hey your colleague chris has helped me last time can he help me again?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "No he recibido todav\u00eda el reembolso de mi compra",
+    "content": "No he recibido todav\u00eda el reembolso de mi compra",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Is this offer still available?",
+    "content": "Is this offer still available?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello",
+    "content": "Hello",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "123",
+    "content": "123",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi",
+    "content": "Hi",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Amazing, is this the VIP lounge area? \ud83e\udd29",
+    "content": "Amazing, is this the VIP lounge area? \ud83e\udd29",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Airport Experience"
+    ]
+  },
+  {
+    "title": "\ud83d\ude2e",
+    "content": "\ud83d\ude2e",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I want to travel again!!",
+    "content": "I want to travel again!!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udcaf",
+    "content": "\ud83d\udcaf",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi Claralines - i'm trying to rebook my flight through the website, but i'm getting an error message in the process. What should I do?",
+    "content": "Hi Claralines - i'm trying to rebook my flight through the website, but i'm getting an error message in the process. What should I do?",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Airline Journey \u00bb Irrops Handling \u00bb Irrops - Communication",
+      "Airline Journey \u00bb Digital Experience",
+      "Airline Journey \u00bb Irrops Handling \u00bb Irrops - Quality Of Rebooking \u00bb Rebooking Channel",
+      "Airline Journey \u00bb Irrops Handling \u00bb Irrops - Quality Of Rebooking",
+      "Airline Journey \u00bb Digital Experience \u00bb Website Experience",
+      "Transportation \u00bb Ticketing-reservations \u00bb Changes",
+      "Transportation \u00bb Ticketing-reservations \u00bb Online",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc Talk to a Human",
+    "content": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc Talk to a Human",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc Talk to a Human",
+    "content": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc Talk to a Human",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi Claralines - i'm trying to rebook my flight through the website, but i'm getting an error message in the process. What should I do?",
+    "content": "Hi Claralines - i'm trying to rebook my flight through the website, but i'm getting an error message in the process. What should I do?",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Airline Journey \u00bb Irrops Handling \u00bb Irrops - Communication",
+      "Airline Journey \u00bb Digital Experience",
+      "Airline Journey \u00bb Irrops Handling \u00bb Irrops - Quality Of Rebooking \u00bb Rebooking Channel",
+      "Airline Journey \u00bb Irrops Handling \u00bb Irrops - Quality Of Rebooking",
+      "Airline Journey \u00bb Digital Experience \u00bb Website Experience",
+      "Transportation \u00bb Ticketing-reservations \u00bb Changes",
+      "Transportation \u00bb Ticketing-reservations \u00bb Online",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "Get Started",
+    "content": "Get Started",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Or should I just check the website?",
+    "content": "Or should I just check the website?",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Digital Experience",
+      "Airline Journey \u00bb Airport Experience",
+      "Airline Journey \u00bb Digital Experience \u00bb Website Experience"
+    ]
+  },
+  {
+    "title": "thanks - will I be notified if there are any further delays?",
+    "content": "thanks - will I be notified if there are any further delays?",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Airline Journey \u00bb Irrops Handling \u00bb Irrops - Communication",
+      "Airline Journey \u00bb Irrops Handling \u00bb Irrops - Communication \u00bb Flight Delay Notification",
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Notifications"
+    ]
+  },
+  {
+    "title": "CL29480 to the Bahamas",
+    "content": "CL29480 to the Bahamas",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\u23f0Delayed",
+    "content": "\u23f0Delayed",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc94Delay\/Cancellation",
+    "content": "\ud83d\udc94Delay\/Cancellation",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Cool",
+    "content": "Cool",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Can I finally use my voucher now?",
+    "content": "Can I finally use my voucher now?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Helloooo",
+    "content": "Helloooo",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\ude4f\ud83c\udffb",
+    "content": "\ud83d\ude4f\ud83c\udffb",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi! I still have not received the refund of my booking GHY5FD",
+    "content": "Hi! I still have not received the refund of my booking GHY5FD",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Refunds"
+    ]
+  },
+  {
+    "title": "Has Claralines started flying abroad now? I need a holiday!!! \ud83c\udfdd",
+    "content": "Has Claralines started flying abroad now? I need a holiday!!! \ud83c\udfdd",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "4456",
+    "content": "4456",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Cancel Booking",
+    "content": "Cancel Booking",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Ticketing-reservations \u00bb Cancellation",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Talk to Human",
+    "content": "Talk to Human",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\u0645\u0631\u062d\u0628\u0627",
+    "content": "\u0645\u0631\u062d\u0628\u0627",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello",
+    "content": "Hello",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I'm trying to check in from the app but it isn't working.. \ud83d\ude2b",
+    "content": "I'm trying to check in from the app but it isn't working.. \ud83d\ude2b",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Facilities",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb In-flight - Entertainment \u00bb Personal Device Entertainment \u00bb Pde - Quality",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb In-flight - Entertainment \u00bb Personal Device Entertainment",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb In-flight - Entertainment",
+      "Airline Journey \u00bb Onboard Product And Service",
+      "Airline Journey \u00bb Digital Experience \u00bb Mobile Experience \u00bb Mobile Experience - Usability",
+      "Airline Journey \u00bb Digital Experience \u00bb Mobile Experience \u00bb Mobile Experience - Check In",
+      "Airline Journey \u00bb Digital Experience \u00bb Mobile Experience",
+      "Airline Journey \u00bb Digital Experience",
+      "Airline Journey \u00bb Airport Experience \u00bb Check-in Experience \u00bb Agent Check-in",
+      "Airline Journey \u00bb Airport Experience \u00bb Check-in Experience",
+      "Airline Journey \u00bb Airport Experience",
+      "Transportation \u00bb Facilities \u00bb Functionality-design"
+    ]
+  },
+  {
+    "title": "Are flights to Riyad enabled now?",
+    "content": "Are flights to Riyad enabled now?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi! are you still running flights to San Diego?",
+    "content": "Hi! are you still running flights to San Diego?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Do you organize hotel stay as well or only flights?",
+    "content": "Do you organize hotel stay as well or only flights?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\uddf3 Baggage Question",
+    "content": "\ud83e\uddf3 Baggage Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I can't believe it",
+    "content": "I can't believe it",
+    "clarabridgeModelTags": [
+      "Emotions (basic) \u00bb Surprise"
+    ]
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I would like to make a complaint! My seat was soooo dirty I was disgusted",
+    "content": "I would like to make a complaint! My seat was soooo dirty I was disgusted",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Aircraft Experience",
+      "Airline Journey \u00bb Aircraft Experience \u00bb Cabin Cleanliness",
+      "Airline Journey \u00bb Aircraft Experience \u00bb Cabin Condition",
+      "Airline Journey \u00bb Aircraft Experience \u00bb Cabin Cleanliness \u00bb Cleanliness - Seat Cushions",
+      "Airline Journey \u00bb Aircraft Experience \u00bb Cabin Condition \u00bb Condition - Seat Cushion",
+      "Transportation \u00bb Facilities",
+      "Transportation \u00bb Facilities \u00bb Cleanliness",
+      "Customer Escalation \u00bb Formal Channels",
+      "Customer Escalation \u00bb Formal Channels \u00bb Formal Complaint",
+      "Emotions (basic) \u00bb Disgust"
+    ]
+  },
+  {
+    "title": "Do you fly to lebanon?",
+    "content": "Do you fly to lebanon?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "ERER484",
+    "content": "ERER484",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Cancel Booking",
+    "content": "Cancel Booking",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Ticketing-reservations \u00bb Cancellation",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Do you offer discounts for students?",
+    "content": "Do you offer discounts for students?",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Promotions \u00bb Promotions - Discounts",
+      "Airline Journey \u00bb Promotions",
+      "Transportation \u00bb Travel Experience \u00bb Pricing-value",
+      "Transportation \u00bb Travel Experience"
+    ]
+  },
+  {
+    "title": "I am having issues with your online booking system \ud83d\ude48",
+    "content": "I am having issues with your online booking system \ud83d\ude48",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Facilities \u00bb Functionality-design",
+      "Transportation \u00bb Facilities",
+      "Airline Journey \u00bb Digital Experience \u00bb Website Experience \u00bb Website Experience - Reservations",
+      "Airline Journey \u00bb Digital Experience \u00bb Website Experience",
+      "Airline Journey \u00bb Digital Experience",
+      "Transportation \u00bb Ticketing-reservations \u00bb Online"
+    ]
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Thanks",
+    "content": "Thanks",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Why is no one responding?",
+    "content": "Why is no one responding?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey",
+    "content": "Hey",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Can I report this?",
+    "content": "Can I report this?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I don't think it's appropriate",
+    "content": "I don't think it's appropriate",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Yes. I was wondering about the recent advertising you made for Claralines",
+    "content": "Yes. I was wondering about the recent advertising you made for Claralines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Oh hey!",
+    "content": "Oh hey!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Automated quick help was amazing",
+    "content": "Automated quick help was amazing",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd1a\ud83c\udffbCarry-On Baggage",
+    "content": "\ud83e\udd1a\ud83c\udffbCarry-On Baggage",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\uddf3 Baggage Question",
+    "content": "\ud83e\uddf3 Baggage Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "But can we travel? With COVID?",
+    "content": "But can we travel? With COVID?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey there! Cool! Yes. Seems you have promotions going on but i was curious if there will be black friday sales?",
+    "content": "Hey there! Cool! Yes. Seems you have promotions going on but i was curious if there will be black friday sales?",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Promotions \u00bb Promotions - Discounts",
+      "Airline Journey \u00bb Promotions"
+    ]
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Could someone please help me out with my request to cancel my flight?",
+    "content": "Could someone please help me out with my request to cancel my flight?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience \u00bb Cancellations",
+      "Transportation \u00bb Travel Experience",
+      "Customer Escalation \u00bb Customer Escalation \u00bb Cries For Help",
+      "Customer Escalation \u00bb Customer Escalation",
+      "Airline Journey \u00bb Irrops Handling"
+    ]
+  },
+  {
+    "title": "Hello!",
+    "content": "Hello!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+    "content": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Contact Agent \ud83e\udd13",
+    "content": "Contact Agent \ud83e\udd13",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Onboard Product And Service \u00bb In-flight - Flight Attendants",
+      "Airline Journey \u00bb Onboard Product And Service"
+    ]
+  },
+  {
+    "title": "I still didn't receive my refund from my summer holiday that got cancelled? What's going on?",
+    "content": "I still didn't receive my refund from my summer holiday that got cancelled? What's going on?",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations",
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Refunds"
+    ]
+  },
+  {
+    "title": "Hi Claralines!",
+    "content": "Hi Claralines!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+    "content": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc Human Agent",
+    "content": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc Human Agent",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Onboard Product And Service \u00bb In-flight - Flight Attendants",
+      "Airline Journey \u00bb Onboard Product And Service"
+    ]
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I saw on your page discounts for ski trips during Christmas break?",
+    "content": "I saw on your page discounts for ski trips during Christmas break?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Facilities \u00bb Functionality-design",
+      "Transportation \u00bb Facilities",
+      "Airline Journey \u00bb Promotions \u00bb Promotions - Discounts",
+      "Airline Journey \u00bb Promotions",
+      "Transportation \u00bb Travel Experience \u00bb Pricing-value"
+    ]
+  },
+  {
+    "title": "Hi",
+    "content": "Hi",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Does everyone have to wear masks on the flight?",
+    "content": "Does everyone have to wear masks on the flight?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Talk to Human",
+    "content": "Talk to Human",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "5555",
+    "content": "5555",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Cancel Booking",
+    "content": "Cancel Booking",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations \u00bb Cancellation",
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Please help",
+    "content": "Please help",
+    "clarabridgeModelTags": [
+      "Customer Escalation \u00bb Customer Escalation \u00bb Cries For Help",
+      "Customer Escalation \u00bb Customer Escalation"
+    ]
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "445615",
+    "content": "445615",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Cancel Booking",
+    "content": "Cancel Booking",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations \u00bb Cancellation",
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello",
+    "content": "Hello",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Help???",
+    "content": "Help???",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello",
+    "content": "Hello",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello",
+    "content": "Hello",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "hallo",
+    "content": "hallo",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "You guys have amaziiiiing support \ud83e\udd70\ud83d\udc6f\u200d\u2640\ufe0f",
+    "content": "You guys have amaziiiiing support \ud83e\udd70\ud83d\udc6f\u200d\u2640\ufe0f",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey",
+    "content": "Hey",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\u00d6n\u00fcm\u00fczdeki hafta u\u00e7u\u015fum iptal edilecek mi?",
+    "content": "\u00d6n\u00fcm\u00fczdeki hafta u\u00e7u\u015fum iptal edilecek mi?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+    "content": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc Human Agent",
+    "content": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc Human Agent",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Onboard Product And Service \u00bb In-flight - Flight Attendants",
+      "Airline Journey \u00bb Onboard Product And Service"
+    ]
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Get Started",
+    "content": "Get Started",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Get Started",
+    "content": "Get Started",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "516848",
+    "content": "516848",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Cancel Booking",
+    "content": "Cancel Booking",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations \u00bb Cancellation",
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\u0394\u03b5\u03bd \u03ad\u03c7\u03c9 \u03b1\u03ba\u03bf\u03cd\u03c3\u03b5\u03b9 \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03c4\u03ae\u03c3\u03b7 \u03bc\u03bf\u03c5, \u03b1\u03ba\u03c5\u03c1\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9;",
+    "content": "\u0394\u03b5\u03bd \u03ad\u03c7\u03c9 \u03b1\u03ba\u03bf\u03cd\u03c3\u03b5\u03b9 \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03c4\u03ae\u03c3\u03b7 \u03bc\u03bf\u03c5, \u03b1\u03ba\u03c5\u03c1\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9;",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Claralines when will you start flying to Cuba again?",
+    "content": "Claralines when will you start flying to Cuba again?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "This is so cool, keep creating awesome content like this! Makes me proud to be a customer. ",
+    "content": "<facebook:message>This is so cool, keep creating awesome content like this! Makes me proud to be a customer. <\/facebook:message>",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "@clara_lines Hello",
+    "content": "@clara_lines Hello",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Wow so cool!",
+    "content": "Wow so cool!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello, what's the status of my refund?",
+    "content": "Hello, what's the status of my refund?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Refunds"
+    ]
+  },
+  {
+    "title": "any thanksgiving discounts?",
+    "content": "any thanksgiving discounts?",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Promotions \u00bb Promotions - Discounts",
+      "Airline Journey \u00bb Promotions",
+      "Transportation \u00bb Travel Experience \u00bb Pricing-value",
+      "Transportation \u00bb Travel Experience"
+    ]
+  },
+  {
+    "title": "Hey please help me",
+    "content": "Hey please help me",
+    "clarabridgeModelTags": [
+      "Customer Escalation \u00bb Customer Escalation \u00bb Cries For Help",
+      "Customer Escalation \u00bb Customer Escalation"
+    ]
+  },
+  {
+    "title": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+    "content": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc Human Agent",
+    "content": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc Human Agent",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Onboard Product And Service \u00bb In-flight - Flight Attendants",
+      "Airline Journey \u00bb Onboard Product And Service"
+    ]
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Southeastern",
+    "content": "Southeastern",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey",
+    "content": "Hey",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello! Can I buy miniature planes?",
+    "content": "Hello! Can I buy miniature planes?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\u0633\u0644\u0627\u0645 \u0639\u0644\u064a\u0643\u0645",
+    "content": "\u0633\u0644\u0627\u0645 \u0639\u0644\u064a\u0643\u0645",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello I really need help and you have been avoiding me in every channel!",
+    "content": "Hello I really need help and you have been avoiding me in every channel!",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Onboard Product And Service \u00bb In-flight - Entertainment \u00bb Seatback On-demand Entertainment \u00bb Entertainment - Television",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb In-flight - Entertainment \u00bb Seatback On-demand Entertainment",
+      "Airline Journey \u00bb Onboard Product And Service",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb In-flight - Entertainment"
+    ]
+  },
+  {
+    "title": "\u0633\u0644\u0627\u0645 \u0639\u0644\u064a\u0643\u0645 \u0645\u0646\u062a\u062c\u0639 \u0634\u0627\u0637\u0626 \u0627\u0644\u062f\u0627\u0646\u0629",
+    "content": "\u0633\u0644\u0627\u0645 \u0639\u0644\u064a\u0643\u0645 \u0645\u0646\u062a\u062c\u0639 \u0634\u0627\u0637\u0626 \u0627\u0644\u062f\u0627\u0646\u0629",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "No problem",
+    "content": "No problem",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "awesome job!",
+    "content": "awesome job!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey thank you for the help",
+    "content": "Hey thank you for the help",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "hey",
+    "content": "hey",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hallloo",
+    "content": "Hallloo",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey",
+    "content": "Hey",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Thank you!",
+    "content": "Thank you!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi there, can you help me?",
+    "content": "Hi there, can you help me?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "On another note, do you fly to India or are the borders closed?",
+    "content": "On another note, do you fly to India or are the borders closed?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Cancel Booking",
+    "content": "Cancel Booking",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations \u00bb Cancellation",
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "Hello! Awesome pictures. Which is that? And any idea when I can spot it?",
+    "content": "Hello! Awesome pictures. Which is that? And any idea when I can spot it?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello are you there?",
+    "content": "Hello are you there?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Ready to get out of the US!  Where shall I go!",
+    "content": "Ready to get out of the US!  Where shall I go!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Thank you!",
+    "content": "Thank you!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\uddf3Checked Baggage",
+    "content": "\ud83e\uddf3Checked Baggage",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Airport Experience \u00bb Check-in Experience",
+      "Airline Journey \u00bb Airport Experience",
+      "Airline Journey \u00bb Airport Experience \u00bb Check-in Experience \u00bb Bag Check"
+    ]
+  },
+  {
+    "title": "\ud83e\uddf3 Baggage Question",
+    "content": "\ud83e\uddf3 Baggage Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi Selin, \nThis is Isa from Dr. Mohammad Alfagih Hospital",
+    "content": "Hi Selin, \nThis is Isa from Dr. Mohammad Alfagih Hospital",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello, do you fly to KSA?",
+    "content": "Hello, do you fly to KSA?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Oh! Great! Tomorrow",
+    "content": "Oh! Great! Tomorrow",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Can you help",
+    "content": "Can you help",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Yes! I'm trying to leave Belgium and get to Sweden for the winter",
+    "content": "Yes! I'm trying to leave Belgium and get to Sweden for the winter",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi",
+    "content": "Hi",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I need a refund asap!",
+    "content": "I need a refund asap!",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Refunds"
+    ]
+  },
+  {
+    "title": "Hey!",
+    "content": "Hey!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I need urgent help! Someone speaks Dutch? ",
+    "content": "I need urgent help! Someone speaks Dutch? ",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey",
+    "content": "Hey",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I want to cancel my flight!!",
+    "content": "I want to cancel my flight!!",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Ticketing-reservations \u00bb Cancellation",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "Hey Claralines!",
+    "content": "Hey Claralines!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "flight",
+    "content": "flight",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I want to cancel my fight",
+    "content": "I want to cancel my fight",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Ticketing-reservations \u00bb Cancellation",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "HEy",
+    "content": "HEy",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Ik wil graag mijn vlucht cancellen!",
+    "content": "Ik wil graag mijn vlucht cancellen!",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "Halllo",
+    "content": "Halllo",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I would like to rebook my flight!",
+    "content": "I would like to rebook my flight!",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Airline Journey \u00bb Irrops Handling \u00bb Irrops - Quality Of Rebooking",
+      "Transportation \u00bb Ticketing-reservations \u00bb Changes",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "Hey there!",
+    "content": "Hey there!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Need help quickly! I want to upgrade my seat with my Clarapoints.",
+    "content": "Need help quickly! I want to upgrade my seat with my Clarapoints.",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Aircraft Experience",
+      "Airline Journey \u00bb Aircraft Experience \u00bb Cabin Condition",
+      "Airline Journey \u00bb Aircraft Experience \u00bb Cabin Condition \u00bb Condition - Seat Cushion",
+      "Transportation \u00bb Ticketing-reservations \u00bb Upgrades",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "Hello there!",
+    "content": "Hello there!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Send me a GIF :-D ",
+    "content": "Send me a GIF :-D ",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello!!",
+    "content": "Hello!!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey there!",
+    "content": "Hey there!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I want to cancel my flight for next year already",
+    "content": "I want to cancel my flight for next year already",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Ticketing-reservations \u00bb Cancellation",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "I need a refund",
+    "content": "I need a refund",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Refunds"
+    ]
+  },
+  {
+    "title": "i need help with my ticket!",
+    "content": "i need help with my ticket!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "can you help me?",
+    "content": "can you help me?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "hi there",
+    "content": "hi there",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Location shared:\nhttps:\/\/maps.google.com\/maps?q=24.7069113,46.7005701",
+    "content": "Location shared:\nhttps:\/\/maps.google.com\/maps?q=24.7069113,46.7005701",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "H2",
+    "content": "H2",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Good",
+    "content": "Good",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Do you have new corona measures?",
+    "content": "Do you have new corona measures?",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Onboard Product And Service \u00bb Food And Beverage \u00bb Fandb - Beverages",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb Food And Beverage",
+      "Airline Journey \u00bb Onboard Product And Service",
+      "Airline Journey \u00bb Onboard Product And Service \u00bb Food And Beverage \u00bb Fandb - Beverages \u00bb Beverages - Alcoholic"
+    ]
+  },
+  {
+    "title": "Hi",
+    "content": "Hi",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\u0647\u0627\u064a",
+    "content": "\u0647\u0627\u064a",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi. I need to cancel my flight",
+    "content": "Hi. I need to cancel my flight",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Ticketing-reservations \u00bb Cancellation",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "Thanks! It's 1234FGH",
+    "content": "Thanks! It's 1234FGH",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi- I need to cancel my flight",
+    "content": "Hi- I need to cancel my flight",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Ticketing-reservations \u00bb Cancellation",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "I should have gotten more advanced notice on its cancellation",
+    "content": "I should have gotten more advanced notice on its cancellation",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Airline Journey \u00bb Irrops Handling \u00bb Irrops - Communication",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "Hey, kind of irritated on how you handled my flight.",
+    "content": "Hey, kind of irritated on how you handled my flight.",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Cancel Booking",
+    "content": "Cancel Booking",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Ticketing-reservations \u00bb Cancellation"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "1848948",
+    "content": "1848948",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Cancel Booking",
+    "content": "Cancel Booking",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations \u00bb Cancellation",
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "ClaraSun",
+    "content": "ClaraSun",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Bonjour",
+    "content": "Bonjour",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Soy Laura!",
+    "content": "Soy Laura!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hola!",
+    "content": "Hola!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey",
+    "content": "Hey",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi there",
+    "content": "Hi there",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Great service",
+    "content": "Great service",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello, I've got a question on a flight",
+    "content": "Hello, I've got a question on a flight",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey can you help me?",
+    "content": "Hey can you help me?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I need urgent help with my delayed flight",
+    "content": "I need urgent help with my delayed flight",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience"
+    ]
+  },
+  {
+    "title": "Hey",
+    "content": "Hey",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I like the new plane! \u2708\ufe0f",
+    "content": "I like the new plane! \u2708\ufe0f",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Aircraft Experience \u00bb Cabin Condition \u00bb Condition - Aircraft Age",
+      "Airline Journey \u00bb Aircraft Experience \u00bb Cabin Condition",
+      "Airline Journey \u00bb Aircraft Experience",
+      "Emotions (basic) \u00bb Happiness"
+    ]
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "5848",
+    "content": "5848",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Cancel Booking",
+    "content": "Cancel Booking",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations \u00bb Cancellation",
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I need help",
+    "content": "I need help",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey",
+    "content": "Hey",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\uddf3Checked Baggage",
+    "content": "\ud83e\uddf3Checked Baggage",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Airport Experience \u00bb Check-in Experience",
+      "Airline Journey \u00bb Airport Experience",
+      "Airline Journey \u00bb Airport Experience \u00bb Check-in Experience \u00bb Bag Check"
+    ]
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\u0645\u0631\u062d\u0628\u0627 \u060c \u0627\u062d\u062a\u0627\u062c \u0627\u0644\u0645\u0633\u0627\u0639\u062f\u0647 \u0644\u0637\u0644\u0628 \u0627\u0644\u062e\u062f\u0645\u0647 !",
+    "content": "\u0645\u0631\u062d\u0628\u0627 \u060c \u0627\u062d\u062a\u0627\u062c \u0627\u0644\u0645\u0633\u0627\u0639\u062f\u0647 \u0644\u0637\u0644\u0628 \u0627\u0644\u062e\u062f\u0645\u0647 !",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Talk to Human",
+    "content": "Talk to Human",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "My flight number is ABC123 and I'm flying to Miami!",
+    "content": "My flight number is ABC123 and I'm flying to Miami!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\ude21Cancelled",
+    "content": "\ud83d\ude21Cancelled",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc94Delay\/Cancellation",
+    "content": "\ud83d\udc94Delay\/Cancellation",
+    "clarabridgeModelTags": [
+      "Airline Journey \u00bb Irrops Handling",
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Unbelievable. That's not right. I never got a voicemail. Well whatever, I'll go get my luggage now.",
+    "content": "Unbelievable. That's not right. I never got a voicemail. Well whatever, I'll go get my luggage now.",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Baggage",
+      "Transportation \u00bb Baggage \u00bb Retrieval"
+    ]
+  },
+  {
+    "title": "Ok no need to interrogate me.....and how would I know where it's lost? Flight was 1224 from Chicago to Houston",
+    "content": "Ok no need to interrogate me.....and how would I know where it's lost? Flight was 1224 from Chicago to Houston",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello, my luggage is still lost! Can someone help!",
+    "content": "Hello, my luggage is still lost! Can someone help!",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Baggage \u00bb Lost-stolen",
+      "Transportation \u00bb Baggage"
+    ]
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc4d",
+    "content": "\ud83d\udc4d",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Great",
+    "content": "Great",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I want to ask something about your software.",
+    "content": "I want to ask something about your software.",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi can you help me",
+    "content": "Hi can you help me",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi",
+    "content": "Hi",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "1234",
+    "content": "1234",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Change Booking",
+    "content": "Change Booking",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Changes"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello, I've been waiting for more information!",
+    "content": "Hello, I've been waiting for more information!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi can you help me?",
+    "content": "Hi can you help me?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi, can you help me I don't know what happened to my luggage?",
+    "content": "Hi, can you help me I don't know what happened to my luggage?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I have a question, can you help please?",
+    "content": "I have a question, can you help please?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Why isn't hand luggage allowed? I don't like the attitude of your colleagues at the check-in desk. They didn't help one bit! \u2639\ufe0f",
+    "content": "Why isn't hand luggage allowed? I don't like the attitude of your colleagues at the check-in desk. They didn't help one bit! \u2639\ufe0f",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Check-in Experience",
+      "Transportation \u00bb Check-in Experience \u00bb Counters"
+    ]
+  },
+  {
+    "title": "Hello, can someone answer?",
+    "content": "Hello, can someone answer?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "thanks",
+    "content": "thanks",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\u0644\u0642\u062f \u0641\u0642\u062f\u062a \u0623\u0645\u062a\u0639\u062a\u064a \u060c \u0643\u064a\u0641 \u0623\u0633\u062a\u0639\u064a\u062f\u0647\u0627\u061f",
+    "content": "\u0644\u0642\u062f \u0641\u0642\u062f\u062a \u0623\u0645\u062a\u0639\u062a\u064a \u060c \u0643\u064a\u0641 \u0623\u0633\u062a\u0639\u064a\u062f\u0647\u0627\u061f",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "the flight is frh 3475",
+    "content": "the flight is frh 3475",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey, where can I see my star alliance membership on the website?",
+    "content": "Hey, where can I see my star alliance membership on the website?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi Claralines, could you please confirm whether my flight is still going ahead as planned?",
+    "content": "Hi Claralines, could you please confirm whether my flight is still going ahead as planned?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Do you take hand luggage on the plane?",
+    "content": "Do you take hand luggage on the plane?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Can you check if my flight is on time, please?",
+    "content": "Can you check if my flight is on time, please?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Nothing of the above is what I want! Please let me talk to a human!!!",
+    "content": "Nothing of the above is what I want! Please let me talk to a human!!!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Talk to Human",
+    "content": "Talk to Human",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello! I have a question",
+    "content": "Hello! I have a question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey",
+    "content": "Hey",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey Claralines",
+    "content": "Hey Claralines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Ok",
+    "content": "Ok",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey!",
+    "content": "Hey!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi",
+    "content": "Hi",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Help",
+    "content": "Help",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Is there a change with my flight schedule again???",
+    "content": "Is there a change with my flight schedule again???",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey, has cuba opened up their borders?",
+    "content": "Hey, has cuba opened up their borders?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13 Booking Question",
+    "content": "\ud83e\udd13 Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "arerez",
+    "content": "arerez",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Salve, ho bisogno di aiuto per il mio volo per Portorico. \u00c8 cancellato e ho bisogno di un rimborso. Sono cos\u00ec delusa che non ricevo risposta.",
+    "content": "Salve, ho bisogno di aiuto per il mio volo per Portorico. \u00c8 cancellato e ho bisogno di un rimborso. Sono cos\u00ec delusa che non ricevo risposta.",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "thanks",
+    "content": "thanks",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello, this is selin. Can you help me with a question please?",
+    "content": "Hello, this is selin. Can you help me with a question please?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi, need help finding luggage",
+    "content": "Hi, need help finding luggage",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi Claralines is my flight delayed?",
+    "content": "Hi Claralines is my flight delayed?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience"
+    ]
+  },
+  {
+    "title": "Hi, I purchased a plane ticket on 10\/2 that also had a rental car booking included. I can't find a confirmation of that rental car booking anywhere! Can you verify?",
+    "content": "Hi, I purchased a plane ticket on 10\/2 that also had a rental car booking included. I can't find a confirmation of that rental car booking anywhere! Can you verify?",
+    "clarabridgeModelTags": [
+      "Customer Escalation \u00bb Operational Improvements \u00bb Unable To Find Information",
+      "Customer Escalation \u00bb Operational Improvements"
+    ]
+  },
+  {
+    "title": "Thank u \ud83d\ude0a",
+    "content": "Thank u \ud83d\ude0a",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\u0645\u0645\u0643\u0646 \u0633\u0624\u0627\u0644",
+    "content": "\u0645\u0645\u0643\u0646 \u0633\u0624\u0627\u0644",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\u0645\u0633\u0627\u0621 \u0627\u0644\u062e\u064a\u0631",
+    "content": "\u0645\u0633\u0627\u0621 \u0627\u0644\u062e\u064a\u0631",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi, is there a flight to Berlin and do we need to do a corona test before?",
+    "content": "Hi, is there a flight to Berlin and do we need to do a corona test before?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\udf0d Choose Language",
+    "content": "\ud83c\udf0d Choose Language",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Is the code working? I want to book my Ibizaaa flight?",
+    "content": "Is the code working? I want to book my Ibizaaa flight?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I wish this trip still existed! \ud83d\ude2b\ud83d\ude2b\ud83d\ude2b",
+    "content": "I wish this trip still existed! \ud83d\ude2b\ud83d\ude2b\ud83d\ude2b",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Everything with the flight was great but what happened to the food served???",
+    "content": "Everything with the flight was great but what happened to the food served???",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Food",
+      "Customer Escalation \u00bb Formal Channels \u00bb Formal Complaint",
+      "Transportation \u00bb Food \u00bb Quality"
+    ]
+  },
+  {
+    "title": "Can we still fly to Japan from NL as a tourist?",
+    "content": "Can we still fly to Japan from NL as a tourist?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "seriously - your support is getting worse..",
+    "content": "seriously - your support is getting worse..",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hellloooo! Good morning. Any updates on this? ",
+    "content": "Hellloooo! Good morning. Any updates on this? ",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Notifications"
+    ]
+  },
+  {
+    "title": "What am I doing wrong?",
+    "content": "What am I doing wrong?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "But the promo code is not working?",
+    "content": "But the promo code is not working?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Facilities \u00bb Functionality-design",
+      "Transportation \u00bb Facilities"
+    ]
+  },
+  {
+    "title": "I just saw a promotion to travel to Ibiza",
+    "content": "I just saw a promotion to travel to Ibiza",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello!",
+    "content": "Hello!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello Claralines - I just flew you from DC to Siberia and I have to say, the flight was a pleasure. How can I leave a review of my experience?",
+    "content": "Hello Claralines - I just flew you from DC to Siberia and I have to say, the flight was a pleasure. How can I leave a review of my experience?",
+    "clarabridgeModelTags": [
+      "Emotions (basic) \u00bb Happiness"
+    ]
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey there! \ud83d\udc4b I have an issue with my Claralines ticket. Can you help?",
+    "content": "Hey there! \ud83d\udc4b I have an issue with my Claralines ticket. Can you help?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Facilities \u00bb Functionality-design",
+      "Transportation \u00bb Facilities"
+    ]
+  },
+  {
+    "title": "OK! I'm stuck at Zurich airport :-( ",
+    "content": "OK! I'm stuck at Zurich airport :-( ",
+    "clarabridgeModelTags": [
+      "Emotions (basic) \u00bb Confusion"
+    ]
+  },
+  {
+    "title": "Hello!",
+    "content": "Hello!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello, urgently need help. I need to cancel my flight due to COVID related issues. How can I get a refund?",
+    "content": "Hello, urgently need help. I need to cancel my flight due to COVID related issues. How can I get a refund?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations \u00bb Refunds",
+      "Transportation \u00bb Ticketing-reservations \u00bb Cancellation",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "well this time it didn't seem so. Can I make an official complaint about this?",
+    "content": "well this time it didn't seem so. Can I make an official complaint about this?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Here's the info",
+    "content": "Here's the info",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi there, I want to cancel my flight",
+    "content": "Hi there, I want to cancel my flight",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations \u00bb Cancellation",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "Hi! How can I get a refund for my cancelled flight?",
+    "content": "Hi! How can I get a refund for my cancelled flight?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations",
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Refunds"
+    ]
+  },
+  {
+    "title": "Hi! How can I get a refund for my cancelled flight?",
+    "content": "Hi! How can I get a refund for my cancelled flight?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Ticketing-reservations \u00bb Refunds",
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "Hi! How can I get a refund for my cancelled flight?",
+    "content": "Hi! How can I get a refund for my cancelled flight?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations",
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Refunds"
+    ]
+  },
+  {
+    "title": "hi there",
+    "content": "hi there",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Thanks was helpful",
+    "content": "Thanks was helpful",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I would like to complain about the seats on the flight. They were so dirty! Don't you clean the plane before flying new people?",
+    "content": "I would like to complain about the seats on the flight. They were so dirty! Don't you clean the plane before flying new people?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Facilities",
+      "Transportation \u00bb Facilities \u00bb Cleanliness"
+    ]
+  },
+  {
+    "title": "Do you fly to Dubai now?",
+    "content": "Do you fly to Dubai now?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+    "content": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc Talk to a Human",
+    "content": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc Talk to a Human",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd1a\ud83c\udffbCarry-On Baggage",
+    "content": "\ud83e\udd1a\ud83c\udffbCarry-On Baggage",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\uddf3Baggage Question",
+    "content": "\ud83e\uddf3Baggage Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffb Start Over",
+    "content": "\ud83e\udd19\ud83c\udffb Start Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Wow! Great!!!",
+    "content": "<facebook:message>Wow! Great!!!<\/facebook:message>",
+    "clarabridgeModelTags": [
+      "Basic Emotions \u00bb Happiness"
+    ]
+  },
+  {
+    "title": "I want HUMANS! ",
+    "content": "I want HUMANS! ",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Great work!",
+    "content": "Great work!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi there!",
+    "content": "Hi there!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13Booking Question",
+    "content": "\ud83e\udd13Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Neen hoor ik typ ",
+    "content": "Neen hoor ik typ ",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "vraag",
+    "content": "vraag",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hallo",
+    "content": "Hallo",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc94Delay\/Cancellation",
+    "content": "\ud83d\udc94Delay\/Cancellation",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffbStart Over",
+    "content": "\ud83e\udd19\ud83c\udffbStart Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "This was no help at all! Please let me know how I can get my luggage back! \ud83d\ude20",
+    "content": "This was no help at all! Please let me know how I can get my luggage back! \ud83d\ude20",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Baggage",
+      "Transportation \u00bb Baggage \u00bb Retrieval",
+      "Customer Escalation \u00bb Customer Escalation \u00bb Cries For Help",
+      "Customer Escalation \u00bb Customer Escalation"
+    ]
+  },
+  {
+    "title": "Hello, my luggage was lost on my flight to Paris. Can you please help me?",
+    "content": "Hello, my luggage was lost on my flight to Paris. Can you please help me?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Baggage \u00bb Lost-stolen",
+      "Transportation \u00bb Baggage",
+      "Customer Escalation \u00bb Customer Escalation \u00bb Cries For Help",
+      "Customer Escalation \u00bb Customer Escalation"
+    ]
+  },
+  {
+    "title": "Hello, my luggage was lost on my flight to Paris. Can you please help me?",
+    "content": "Hello, my luggage was lost on my flight to Paris. Can you please help me?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Baggage \u00bb Lost-stolen",
+      "Transportation \u00bb Baggage",
+      "Customer Escalation \u00bb Customer Escalation \u00bb Cries For Help",
+      "Customer Escalation \u00bb Customer Escalation"
+    ]
+  },
+  {
+    "title": "\ud83c\uddf3\ud83c\uddf1 Dutch",
+    "content": "\ud83c\uddf3\ud83c\uddf1 Dutch",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Get Started",
+    "content": "Get Started",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello, my luggage was lost on my flight to Paris. Can you please help me?",
+    "content": "Hello, my luggage was lost on my flight to Paris. Can you please help me?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Baggage",
+      "Customer Escalation \u00bb Customer Escalation \u00bb Cries For Help",
+      "Customer Escalation \u00bb Customer Escalation",
+      "Transportation \u00bb Baggage \u00bb Lost-stolen"
+    ]
+  },
+  {
+    "title": "THIS IS HORRIBLE! I can't wait forever and you keep sending me CSAT surveys!!! \ud83d\ude20",
+    "content": "THIS IS HORRIBLE! I can't wait forever and you keep sending me CSAT surveys!!! \ud83d\ude20",
+    "clarabridgeModelTags": [
+      "Emotions (basic) \u00bb Anticipation",
+      "Emotions (basic) \u00bb Disgust"
+    ]
+  },
+  {
+    "title": "Your app is not working! I cannot access my reservation for whatever reason",
+    "content": "Your app is not working! I cannot access my reservation for whatever reason",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Facilities \u00bb Functionality-design",
+      "Transportation \u00bb Facilities"
+    ]
+  },
+  {
+    "title": "Hello? I have not received my refund!",
+    "content": "Hello? I have not received my refund!",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Refunds"
+    ]
+  },
+  {
+    "title": "October 3rd",
+    "content": "October 3rd",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Thanks! It's ABC123",
+    "content": "Thanks! It's ABC123",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Change Booking",
+    "content": "Change Booking",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Changes"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13Booking Question",
+    "content": "\ud83e\udd13Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffbStart Over",
+    "content": "\ud83e\udd19\ud83c\udffbStart Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey do you fly to the us now?",
+    "content": "Hey do you fly to the us now?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+    "content": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTalk to a Human",
+    "content": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTalk to a Human",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd1a\ud83c\udffbCarry-On Baggage",
+    "content": "\ud83e\udd1a\ud83c\udffbCarry-On Baggage",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\uddf3Baggage Question",
+    "content": "\ud83e\uddf3Baggage Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Get Started",
+    "content": "Get Started",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd1a\ud83c\udffbCarry-On Baggage",
+    "content": "\ud83e\udd1a\ud83c\udffbCarry-On Baggage",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\uddf3Baggage Question",
+    "content": "\ud83e\uddf3Baggage Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Get Started",
+    "content": "Get Started",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffbStart Over",
+    "content": "\ud83e\udd19\ud83c\udffbStart Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd1a\ud83c\udffbCarry-On Baggage",
+    "content": "\ud83e\udd1a\ud83c\udffbCarry-On Baggage",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\uddf3Baggage Question",
+    "content": "\ud83e\uddf3Baggage Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "are you there??",
+    "content": "are you there??",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi Claraline- my flight is delayed. help!",
+    "content": "Hi Claraline- my flight is delayed. help!",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience"
+    ]
+  },
+  {
+    "title": "Nevermind",
+    "content": "Nevermind",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Can you help me",
+    "content": "Can you help me",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello",
+    "content": "Hello",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "@_claralines Hey tes",
+    "content": "@_claralines Hey tes",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\u0645\u0631\u062d\u0628\u0627 \u0643\u064a\u0641 \u0627\u0644\u062d\u0627\u0644",
+    "content": "\u0645\u0631\u062d\u0628\u0627 \u0643\u064a\u0641 \u0627\u0644\u062d\u0627\u0644",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey, I've been trying on hold for over an hour and no one has been able to help me. I'm having trouble making online changes to my flights!",
+    "content": "Hey, I've been trying on hold for over an hour and no one has been able to help me. I'm having trouble making online changes to my flights!",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations \u00bb Changes",
+      "Transportation \u00bb Ticketing-reservations",
+      "Emotions (basic) \u00bb Confusion"
+    ]
+  },
+  {
+    "title": "Do you fly to Japan?",
+    "content": "Do you fly to Japan?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello, my luggage was lost in Chicago. Who can help me with this?",
+    "content": "Hello, my luggage was lost in Chicago. Who can help me with this?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Baggage \u00bb Lost-stolen",
+      "Transportation \u00bb Baggage"
+    ]
+  },
+  {
+    "title": "Hello, it's me again! My flight was canceled and I'm awaiting a refund. Can an agent contact me direct?",
+    "content": "<facebook:message>Hello, it's me again! My flight was canceled and I'm awaiting a refund. Can an agent contact me direct?<\/facebook:message>",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations",
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Refunds"
+    ]
+  },
+  {
+    "title": "ClaraSun",
+    "content": "ClaraSun",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13Booking Question",
+    "content": "\ud83e\udd13Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffbStart Over",
+    "content": "\ud83e\udd19\ud83c\udffbStart Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Have you started to fly internationally or are the flights still domestic ones?",
+    "content": "Have you started to fly internationally or are the flights still domestic ones?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I didn't hear back from you",
+    "content": "I didn't hear back from you",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Do you fly to Japan?",
+    "content": "Do you fly to Japan?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Can someone help?",
+    "content": "Can someone help?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello, I need to book a flight to New York",
+    "content": "Hello, I need to book a flight to New York",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Out of Austin, TX. My bag got lost on the Houston leg I believe",
+    "content": "Out of Austin, TX. My bag got lost on the Houston leg I believe",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Baggage \u00bb Lost-stolen",
+      "Transportation \u00bb Baggage"
+    ]
+  },
+  {
+    "title": "1111",
+    "content": "1111",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello, I need some help finding a lsot bag",
+    "content": "Hello, I need some help finding a lsot bag",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13Booking Question",
+    "content": "\ud83e\udd13Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey, can you help. me?",
+    "content": "Hey, can you help. me?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Do you fly to Namibia?",
+    "content": "Do you fly to Namibia?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi! I need your help. ",
+    "content": "Hi! I need your help. ",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Contact Agent \ud83e\udd13",
+    "content": "Contact Agent \ud83e\udd13",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Support in English \ud83c\uddec\ud83c\udde7",
+    "content": "Support in English \ud83c\uddec\ud83c\udde7",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13Booking Question",
+    "content": "\ud83e\udd13Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello",
+    "content": "Hello",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello. I am waiting for an update on flight 71616?",
+    "content": "Hello. I am waiting for an update on flight 71616?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Notifications"
+    ]
+  },
+  {
+    "title": "Nice",
+    "content": "Nice",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Oelalala _claralines",
+    "content": "Oelalala _claralines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Meeee!! I will be travelling with @_claralines",
+    "content": "Meeee!! I will be travelling with @_claralines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey",
+    "content": "Hey",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Sorry, but I want to speak to an agent now?",
+    "content": "Sorry, but I want to speak to an agent now?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Staff \u00bb Attitude",
+      "Transportation \u00bb Staff"
+    ]
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "OK, look forward to hearing from you",
+    "content": "OK, look forward to hearing from you",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+    "content": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcHuman Agent",
+    "content": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcHuman Agent",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi Claralines, I need help with my booking.",
+    "content": "Hi Claralines, I need help with my booking.",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "yooo whaddup! my flight booking failed?",
+    "content": "yooo whaddup! my flight booking failed?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Claralines I am SO angry!!",
+    "content": "Claralines I am SO angry!!",
+    "clarabridgeModelTags": [
+      "Emotions (basic) \u00bb Anger"
+    ]
+  },
+  {
+    "title": "I need to change my flight for Friday afternoon. Confirmation number 454GFC",
+    "content": "I need to change my flight for Friday afternoon. Confirmation number 454GFC",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations \u00bb Changes",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "I have another question- can you help?",
+    "content": "I have another question- can you help?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\uddf3Checked Baggage",
+    "content": "\ud83e\uddf3Checked Baggage",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\uddf3Baggage Question",
+    "content": "\ud83e\uddf3Baggage Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffbStart Over",
+    "content": "\ud83e\udd19\ud83c\udffbStart Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Can you help me with my ticket please, urgently",
+    "content": "Can you help me with my ticket please, urgently",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Helleuuw??",
+    "content": "Helleuuw??",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Talk to Human",
+    "content": "Talk to Human",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13Booking Question",
+    "content": "\ud83e\udd13Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi!",
+    "content": "Hi!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "It is, thanks for your help. Any new deals?",
+    "content": "It is, thanks for your help. Any new deals?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I take that as a no?",
+    "content": "I take that as a no?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello! Could I PLEASE get an update on my tickets issue (40048336621 case number)",
+    "content": "Hello! Could I PLEASE get an update on my tickets issue (40048336621 case number)",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Notifications"
+    ]
+  },
+  {
+    "title": "Hey Claralines, any update on this?",
+    "content": "Hey Claralines, any update on this?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Notifications"
+    ]
+  },
+  {
+    "title": "Hi really need some help from you guys!",
+    "content": "<facebook:message>Hi really need some help from you guys!<\/facebook:message>",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello really need some help!",
+    "content": "Hello really need some help!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Get Started",
+    "content": "Get Started",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello I need some help",
+    "content": "Hello I need some help",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Support in English \ud83c\uddec\ud83c\udde7",
+    "content": "Support in English \ud83c\uddec\ud83c\udde7",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi. Are you allowing people to sit in the middle?",
+    "content": "Hi. Are you allowing people to sit in the middle?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\u23ce Go Back",
+    "content": "\u23ce Go Back",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+    "content": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcHuman Agent",
+    "content": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcHuman Agent",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Support in English \ud83c\uddec\ud83c\udde7",
+    "content": "Support in English \ud83c\uddec\ud83c\udde7",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13Booking Question",
+    "content": "\ud83e\udd13Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "great",
+    "content": "great",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I've been having a problem with my transport. can someone help?",
+    "content": "I've been having a problem with my transport. can someone help?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Facilities \u00bb Functionality-design",
+      "Transportation \u00bb Facilities"
+    ]
+  },
+  {
+    "title": "Do you fly to Cuba?",
+    "content": "Do you fly to Cuba?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi Claralines - any new flight deals?",
+    "content": "Hi Claralines - any new flight deals?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "1234",
+    "content": "1234",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\ude21Cancelled",
+    "content": "\ud83d\ude21Cancelled",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc94Delay\/Cancellation",
+    "content": "\ud83d\udc94Delay\/Cancellation",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "Support in English \ud83c\uddec\ud83c\udde7",
+    "content": "Support in English \ud83c\uddec\ud83c\udde7",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "this me Rifas",
+    "content": "this me Rifas",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "hi",
+    "content": "hi",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I would love to go to Figi \ud83d\ude0d",
+    "content": "I would love to go to Figi \ud83d\ude0d",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "New Booking",
+    "content": "New Booking",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13Booking Question",
+    "content": "\ud83e\udd13Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi! I need to rebook my flight to Miami. ",
+    "content": "Hi! I need to rebook my flight to Miami. ",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations \u00bb Changes",
+      "Transportation \u00bb Ticketing-reservations"
+    ]
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello I need help",
+    "content": "Hello I need help",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello, I still need help! I lost my carry on on the last flight!",
+    "content": "Hello, I still need help! I lost my carry on on the last flight!",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Baggage \u00bb Lost-stolen",
+      "Transportation \u00bb Baggage"
+    ]
+  },
+  {
+    "title": "Hello Claralines - I have still not received my Nice refund. Whats the status with this?",
+    "content": "Hello Claralines - I have still not received my Nice refund. Whats the status with this?",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Refunds"
+    ]
+  },
+  {
+    "title": "Can you check my delay please",
+    "content": "Can you check my delay please",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience"
+    ]
+  },
+  {
+    "title": "I have a delay",
+    "content": "I have a delay",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience"
+    ]
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffbStart Over",
+    "content": "\ud83e\udd19\ud83c\udffbStart Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd1a\ud83c\udffbCarry-On Baggage",
+    "content": "\ud83e\udd1a\ud83c\udffbCarry-On Baggage",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\uddf3Baggage Question",
+    "content": "\ud83e\uddf3Baggage Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffbStart Over",
+    "content": "\ud83e\udd19\ud83c\udffbStart Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "hello",
+    "content": "hello",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13Booking Question",
+    "content": "\ud83e\udd13Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Get Started",
+    "content": "Get Started",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi, is this offer still available?? Really need to getaway during this pandemic",
+    "content": "Hi, is this offer still available?? Really need to getaway during this pandemic",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Fast response",
+    "content": "Fast response",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "And hope the weather is good there in August",
+    "content": "And hope the weather is good there in August",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "@_claralines has this status changed? You guys should really onboard to star member group!",
+    "content": "@_claralines has this status changed? You guys should really onboard to star member group!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Do you fly to Milan as well?",
+    "content": "Do you fly to Milan as well?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Are you. there?",
+    "content": "Are you. there?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hey there!",
+    "content": "Hey there!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Do you fly to Singapore directly?",
+    "content": "Do you fly to Singapore directly?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I want to change my order",
+    "content": "I want to change my order",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Changes"
+    ]
+  },
+  {
+    "title": "Hi again",
+    "content": "Hi again",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello!!!!",
+    "content": "Hello!!!!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "No?",
+    "content": "No?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Please! I am still waiting for a response",
+    "content": "Please! I am still waiting for a response",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\u0645\u0631\u062d\u0628\u0627",
+    "content": "\u0645\u0631\u062d\u0628\u0627",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi",
+    "content": "Hi",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13Booking Question",
+    "content": "\ud83e\udd13Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi Can you help me?",
+    "content": "Hi Can you help me?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Are you the correct person to ask?",
+    "content": "Are you the correct person to ask?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "What do you think?",
+    "content": "What do you think?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "So my luggage did not appear but it might be due to the transfer?",
+    "content": "So my luggage did not appear but it might be due to the transfer?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi",
+    "content": "Hi",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Do you have direct flights to Kuwait?",
+    "content": "Do you have direct flights to Kuwait?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi! I'm currently in Brussels and my luggage is lost! Help.",
+    "content": "Hi! I'm currently in Brussels and my luggage is lost! Help.",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Baggage \u00bb Lost-stolen",
+      "Transportation \u00bb Baggage"
+    ]
+  },
+  {
+    "title": " https:\/\/twitter.com\/messages\/media\/1283117307821199364",
+    "content": " https:\/\/twitter.com\/messages\/media\/1283117307821199364",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Can I please get some help? I really need to get back to Chicago!",
+    "content": "Can I please get some help? I really need to get back to Chicago!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello I have had some issues with a cancelled flight!",
+    "content": "Hello I have had some issues with a cancelled flight!",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Facilities \u00bb Functionality-design",
+      "Transportation \u00bb Facilities",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello hello",
+    "content": "Hello hello",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I was thinking August 22nd. ",
+    "content": "I was thinking August 22nd. ",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi- I need to book a flight for August to Miami. ",
+    "content": "Hi- I need to book a flight for August to Miami. ",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "help",
+    "content": "help",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "info",
+    "content": "info",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "hello",
+    "content": "hello",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Get Started",
+    "content": "Get Started",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "This is a test message from the Facebook team. Please respond from your app within 2 days to confirm that the integration is functioning.",
+    "content": "This is a test message from the Facebook team. Please respond from your app within 2 days to confirm that the integration is functioning.",
+    "clarabridgeModelTags": [
+      "Customer Escalation \u00bb Customer Escalation \u00bb Cries For Help",
+      "Customer Escalation \u00bb Customer Escalation"
+    ]
+  },
+  {
+    "title": "This is a test message from the Facebook team. Please respond from your app within 2 days to confirm that the integration is functioning.",
+    "content": "This is a test message from the Facebook team. Please respond from your app within 2 days to confirm that the integration is functioning.",
+    "clarabridgeModelTags": [
+      "Customer Escalation \u00bb Customer Escalation \u00bb Cries For Help",
+      "Customer Escalation \u00bb Customer Escalation"
+    ]
+  },
+  {
+    "title": "3c",
+    "content": "3c",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "3c",
+    "content": "3c",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "3c",
+    "content": "3c",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "3c",
+    "content": "3c",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "2D",
+    "content": "2D",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "2d",
+    "content": "2d",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "2d",
+    "content": "2d",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "2d",
+    "content": "2d",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "2d",
+    "content": "2d",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "1b",
+    "content": "1b",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "1c",
+    "content": "1c",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "1c",
+    "content": "1c",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "1c",
+    "content": "1c",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "1c",
+    "content": "1c",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "This is a test message from the Facebook team. Please respond from your app within 2 days to confirm that the integration is functioning.",
+    "content": "This is a test message from the Facebook team. Please respond from your app within 2 days to confirm that the integration is functioning.",
+    "clarabridgeModelTags": [
+      "Customer Escalation \u00bb Customer Escalation \u00bb Cries For Help",
+      "Customer Escalation \u00bb Customer Escalation"
+    ]
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Who can I reach out to over the weekend? I would like to know when I will be able to fly to Mozambique again.",
+    "content": "Who can I reach out to over the weekend? I would like to know when I will be able to fly to Mozambique again.",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "This is a test message from the Facebook team. Please respond from your app within 2 days to confirm that the integration is functioning.",
+    "content": "This is a test message from the Facebook team. Please respond from your app within 2 days to confirm that the integration is functioning.",
+    "clarabridgeModelTags": [
+      "Customer Escalation \u00bb Customer Escalation \u00bb Cries For Help",
+      "Customer Escalation \u00bb Customer Escalation"
+    ]
+  },
+  {
+    "title": "",
+    "content": "",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "@clara_lines Is this still a valid promotion?",
+    "content": "@clara_lines Is this still a valid promotion?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Thanks",
+    "content": "Thanks",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello Claralines",
+    "content": "Hello Claralines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "my booking number is 345678",
+    "content": "my booking number is 345678",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi Claralines I need help with my flight",
+    "content": "Hi Claralines I need help with my flight",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "2b",
+    "content": "2b",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "3 B",
+    "content": "3 B",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "2 C",
+    "content": "2 C",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "1 a",
+    "content": "1 a",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello Claralines, I need help with my booking.",
+    "content": "Hello Claralines, I need help with my booking.",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Delay",
+    "content": "Delay",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience"
+    ]
+  },
+  {
+    "title": "Help! Crisis",
+    "content": "Help! Crisis",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "COVID",
+    "content": "COVID",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "1251595",
+    "content": "1251595",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\ude21Cancelled",
+    "content": "\ud83d\ude21Cancelled",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83d\udc94Delay\/Cancellation",
+    "content": "\ud83d\udc94Delay\/Cancellation",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Travel Experience \u00bb Delays",
+      "Transportation \u00bb Travel Experience",
+      "Transportation \u00bb Travel Experience \u00bb Cancellations"
+    ]
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffbStart Over",
+    "content": "\ud83e\udd19\ud83c\udffbStart Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\uddf3Baggage Question",
+    "content": "\ud83e\uddf3Baggage Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffbStart Over",
+    "content": "\ud83e\udd19\ud83c\udffbStart Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Also, love how I can get connected through Whatsapp! \u2665\ufe0f",
+    "content": "Also, love how I can get connected through Whatsapp! \u2665\ufe0f",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi Claralines, looking forward to flying with you again soon!",
+    "content": "Hi Claralines, looking forward to flying with you again soon!",
+    "clarabridgeModelTags": [
+      "Emotions (basic) \u00bb Anticipation"
+    ]
+  },
+  {
+    "title": "3c",
+    "content": "3c",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "3b",
+    "content": "3b",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "2d",
+    "content": "2d",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "2b",
+    "content": "2b",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "1a",
+    "content": "1a",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "1c",
+    "content": "1c",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I have heard you don't support via whatsapp any more? Or why are you not getting back to me?",
+    "content": "I have heard you don't support via whatsapp any more? Or why are you not getting back to me?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I would like to formally escalate my refund request and talk to a line manager, please!",
+    "content": "I would like to formally escalate my refund request and talk to a line manager, please!",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations \u00bb Refunds",
+      "Transportation \u00bb Ticketing-reservations",
+      "Customer Escalation \u00bb Customer Escalation \u00bb Escalation To Management",
+      "Customer Escalation \u00bb Customer Escalation"
+    ]
+  },
+  {
+    "title": "That's unfortunate...I am still waiting for my refund and have not heard back from customer service in over 2 weeks!",
+    "content": "<facebook:message>That's unfortunate...I am still waiting for my refund and have not heard back from customer service in over 2 weeks!<\/facebook:message>",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Ticketing-reservations",
+      "Transportation \u00bb Ticketing-reservations \u00bb Refunds"
+    ]
+  },
+  {
+    "title": "Hello my luggage was lost on my last flight! Really need some guidance on getting it back!",
+    "content": "Hello my luggage was lost on my last flight! Really need some guidance on getting it back!",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Baggage \u00bb Lost-stolen",
+      "Transportation \u00bb Baggage"
+    ]
+  },
+  {
+    "title": "I have a question regarding this live chat",
+    "content": "I have a question regarding this live chat",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi guys! Long time no speak",
+    "content": "Hi guys! Long time no speak",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Awesome help",
+    "content": "Awesome help",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "HOW LONG CAN SOMEONE WAIT?",
+    "content": "HOW LONG CAN SOMEONE WAIT?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Of spreken jullie ook Nederlands?",
+    "content": "Of spreken jullie ook Nederlands?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I have a question with regards to these  buttons. Can I also talk to an agent?",
+    "content": "I have a question with regards to these  buttons. Can I also talk to an agent?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello",
+    "content": "Hello",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Oops. I meant hello",
+    "content": "Oops. I meant hello",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hell!",
+    "content": "Hell!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Do we have to be at the airport 3 hours before now? it is just an EU flight",
+    "content": "Do we have to be at the airport 3 hours before now? it is just an EU flight",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Is the check-in for hang luggage a must now?",
+    "content": "Is the check-in for hang luggage a must now?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Do you have flights from Amsterdam to Sweden?",
+    "content": "Do you have flights from Amsterdam to Sweden?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "1c",
+    "content": "1c",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "1b",
+    "content": "1b",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "1b",
+    "content": "1b",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "1a",
+    "content": "1a",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hello I really need some help!",
+    "content": "Hello I really need some help!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "A",
+    "content": "A",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "You*",
+    "content": "You*",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Thank tou",
+    "content": "Thank tou",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13Booking Question",
+    "content": "\ud83e\udd13Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Can you help me?",
+    "content": "Can you help me?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi Claralines, do you fly directly to Oman now?",
+    "content": "Hi Claralines, do you fly directly to Oman now?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Brilliant!",
+    "content": "Brilliant!",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi there, I've forgotten what CSAT surveys look like, could you please remind me?",
+    "content": "Hi there, I've forgotten what CSAT surveys look like, could you please remind me?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\uddf3Checked Baggage",
+    "content": "\ud83e\uddf3Checked Baggage",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\uddf3Baggage Question",
+    "content": "\ud83e\uddf3Baggage Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83c\uddec\ud83c\udde7 English",
+    "content": "\ud83c\uddec\ud83c\udde7 English",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd19\ud83c\udffbStart Over",
+    "content": "\ud83e\udd19\ud83c\udffbStart Over",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi, do you know when flights to Portugal will resume?",
+    "content": "Hi, do you know when flights to Portugal will resume?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Did you see my question?",
+    "content": "Did you see my question?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Talk to Human",
+    "content": "Talk to Human",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13Booking Question",
+    "content": "\ud83e\udd13Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "Hi can you help me please?",
+    "content": "Hi can you help me please?",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "ClaraLines",
+    "content": "ClaraLines",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "\ud83e\udd13Booking Question",
+    "content": "\ud83e\udd13Booking Question",
+    "clarabridgeModelTags": []
+  },
+  {
+    "title": "I am angry with how you have handled my case. Everything is lost and gone..",
+    "content": "I am angry with how you have handled my case. Everything is lost and gone..",
+    "clarabridgeModelTags": [
+      "Transportation \u00bb Baggage \u00bb Handling",
+      "Transportation \u00bb Baggage"
+    ]
+  },
+  {
+    "title": "Did flights to Jeddah start?",
+    "content": "Did flights to Jeddah start?",
+    "clarabridgeModelTags": []
+  }
+]

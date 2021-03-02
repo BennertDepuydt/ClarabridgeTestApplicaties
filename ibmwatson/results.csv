@@ -1,0 +1,973 @@
+
+"I'm angry with your service";flight_experience_review;0.70993638038635
+"Change Booking";flight_ticket_booking_changes;1
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"My flight number is 00918452";flight_number;0.94510583877563
+"Are cats allowed in the cabin?";flight_pets;0.92797164916992
+"The riyadh flight is canceled?";flight_canceled;0.90519599914551
+"Can you check the flight to Riyadh please?";flight_checkin;0.38019776344299
+"Hey there, I've lost my luggage.... I need it ASAP as I'm on holiday and have no clothes here..";flight_baggage_lost;0.66366376876831
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Get Started";small_talk;0.58083984851837
+Hello?;small_talk;1
+empty;no_intent_found;empty
+"I need to rebook my flight from TX to FL";flight_ticket_cancel;0.30396800041199
+"Hi! I need help";flight_question;0.90001106262207
+"Hi there! I have a question about my flight to Hungary";flight_ticket_booking_changes;0.35646071434021
+"Hey, do you fly to japan?";flight_ticket_booking;0.34484997987747
+Hi;small_talk;1
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+"Hi Claralines, I'm trying to book a flight through your website but I can´t!";flight_ticket_online_problem;0.56084587574005
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+Hi;small_talk;1
+Hello!;small_talk;1
+empty;no_intent_found;empty
+"My order is lost";flight_booking_information_delay;0.62268567085266
+Hallo;small_talk;0.92768268585205
+empty;no_intent_found;empty
+empty;empty_string;empty
+Hello;small_talk;1
+"Hi there, I haven't received my booking information??";flight_booking_information_delay;0.86107492446899
+"Talk to Human";small_talk;0.22708443653793
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+Hello;small_talk;1
+"Hey there, I still haven't received my booking information and I paid for my flight last week..";flight_booking_information_delay;0.72198271751404
+Thanks;small_talk;0.38029172426078
+"Are you still serving food on the flights?";flight_food_information;0.92286858558655
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Time to fly again???";flight_question;0.60182580947876
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"hello i have a question";flight_question;0.73260450363159
+empty;no_intent_found;empty
+"Flying out from Netherlands to Jamaica, do you need a pcr test to onboard?";flight_question;0.39912334680557
+"What are the rules for flying with your dog? I would like to have him with me in the cabin";flight_pets;0.21973507402938
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+"Hi Claralines";small_talk;0.92102789878845
+empty;empty_string;empty
+"Hello! I have flights for next Sunday but I have to be in quarantine, how can I change them?";flight_ticket_booking_changes;0.3465097784996
+"Hi there";small_talk;0.91296753883362
+"Hi there";small_talk;0.91296753883362
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+"Hi Claralines - can you send me my refund for the previous flights cancellation? Thanks.";flight_ticket_refunds;0.58479423522949
+"2pm please. thanks";small_talk;0.25685283004967
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Hello. I need flight times to get to Dallas";flight_delays;0.2723162651062
+"Get Started";small_talk;0.58083984851837
+hello;small_talk;1
+Delayed;flight_delays;0.77308959960937
+empty;empty_string;empty
+"Hi.. my flight number is 123ABC and I was flying to Miami";flight_number;0.77901029586792
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Get Started";small_talk;0.58083984851837
+Hello!;small_talk;1
+"Hi there, can you help me?";flight_question;0.75062208175659
+"Hi there, can you help me?";flight_question;0.75062208175659
+"Hey I need some help!";flight_question;0.84951424598694
+empty;no_intent_found;empty
+"Change Booking";flight_ticket_booking_changes;1
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Hi Claralines. I wanted to cancel my upcoming flight. How do I do that?";flight_ticket_cancel;0.58120782375336
+"Hello, I need help changing a flight!";flight_ticket_booking_changes;0.54506328105927
+empty;empty_string;empty
+Thanks;small_talk;0.38029172426078
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+Test;small_talk;0.20044744499608
+"Get Started";small_talk;0.58083984851837
+Test;small_talk;0.20044744499608
+empty;no_intent_found;empty
+"Get Started";small_talk;0.58083984851837
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+Test;small_talk;0.20044744499608
+empty;empty_string;empty
+"Pizza was okay";flight_food_experience_review;0.87062425613403
+"Order is delayed but pizza was awesome!";flight_food_experience_review;0.46760172843933
+"Hey do you fly to dubai?";small_talk;0.34284316301346
+empty;no_intent_found;empty
+"My flight number is 9274";flight_number;0.93889207839966
+"My food came so delayed on the flight! I was starving..";flight_food_delayed;0.53913838863373
+"can you fix the food on the flight its horrible!";flight_food_experience_review;0.52281231880188
+"I need some help!";flight_question;0.91018996238709
+empty;no_intent_found;empty
+"Change Booking";flight_ticket_booking_changes;1
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+"Beware, Claralines gave me such a difficult time with changing my flight time! Make sure you know before booking with them. ";flight_ticket_booking_changes;0.50877213478088
+"Cool! Amazing Claralines. I love flying with you guys. ";small_talk;0.42861723899841
+empty;empty_string;empty
+"Hello ";small_talk;1
+"When will you fly again?";flight_question;0.39840442207023
+"Hi Claralines, when will you fly again?";flight_question;0.32082633237156
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+Hola;small_talk;0.43471787611452
+"Do you fly to Dubai still?";flight_ticket_booking;0.34212968349457
+empty;no_intent_found;empty
+"The food on the plane was so bad!! 😟";flight_food_experience_review;0.84323644638062
+"Hello! With the new restrictions, do I need a negative test to fly to Spain?";flight_question;0.39376633167267
+"Hello there, - is it true that you have a flexible booking policy due to Covid?";flight_ticket_booking_changes;0.32197124958038
+empty;empty_string;empty
+Hello;small_talk;1
+empty;empty_string;empty
+empty;no_intent_found;empty
+"Hi Claralines! I need to cancel my flight";flight_ticket_cancel;0.67467732429504
+empty;no_intent_found;empty
+hello;small_talk;1
+"Get Started";small_talk;0.58083984851837
+"Hi, can you help me?";flight_question;0.86382751464844
+"I have a question";flight_question;0.81202607154846
+Hey!;small_talk;1
+"Hi Claralines!";small_talk;0.89582500457764
+Thanks;small_talk;0.38029172426078
+"Can you help";flight_question;0.90897555351257
+Hello;small_talk;1
+Hi;small_talk;1
+Hello;small_talk;1
+empty;empty_string;empty
+empty;empty_string;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+"Hi Claralines - your phone number has been unreachable every time ive tried to call. Can you help change my flight to Panama City? ";flight_number;0.44806973934174
+empty;no_intent_found;empty
+"Thanks do you fly to KSA?";flight_ticket_booking;0.32261251211166
+"Hi, can you help me with a flight detail please?";flight_question;0.46549146175385
+"Hello, can you please reply?";small_talk;0.65137891769409
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Very happy with this";small_talk;0.21473231251442
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+"Hi Claralines! I have a couple of questions for you";flight_question;0.75495252609253
+empty;empty_string;empty
+empty;no_intent_found;empty
+"Hi 👋🏼 Domyou fly to Jord anduring athe holidays? Thanks!";small_talk;0.52344479560852
+"Thank you for your support";flight_end_conversation;0.30112019668343
+"Hi! Do you fly to Barcelona?";flight_ticket_pricing;0.45803775787354
+empty;no_intent_found;empty
+"Do you fly to switzerland?";flight_ticket_booking;0.43557157516479
+"Do you fly from Amsterdam to Istanbul?";flight_ticket_booking;0.49076569080353
+Thanks;small_talk;0.38029172426078
+"Hey 👋 my pproductsmallsbad";small_talk;0.85977778434753
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Are there flights from Amsterdam now that there is a stricter lockdown situation?";flight_ticket_booking;0.31130274534225
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Hola Claralines!!";small_talk;0.24896379231161
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+"Hello, is there a flight tomorrow t Brussels?";flight_ticket_booking;0.31614336967468
+"You are there";small_talk;0.33989656371372
+Help;flight_question;0.89356560707092
+Hey;small_talk;1
+empty;no_intent_found;empty
+"Are you flying to Barcelona?";flight_ticket_pricing;0.45408592224121
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;empty_string;empty
+Hello;small_talk;1
+Hello!;small_talk;1
+Hey;small_talk;1
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;empty_string;empty
+empty;empty_string;empty
+empty;empty_string;empty
+"Hi ClaraLines team! I just found out I am sitting next to someone on my flight to Boston. I find that unacceptable in these cover-19 times! I'd like to request a refund! 😡";flight_ticket_refunds;0.55331568717957
+"Do you fly to cuba?";flight_ticket_booking;0.3421998500824
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Hey, can you help me?";flight_question;0.83081316947937
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Hey! What kind of drinks do you offer onboard?";flight_food_information;0.39686995559023
+"I want to cancel my flight!!!";flight_ticket_cancel;0.82169771194458
+empty;no_intent_found;empty
+"I need help rebooting my flight";flight_question;0.36144781112671
+Hello;small_talk;1
+"Get Started";small_talk;0.58083984851837
+"Are middle seats booked?";flight_seats;0.73785743713379
+"Hello! I was just wondering about your refund policy regarding Covid ?";flight_ticket_refunds;0.26833265194927
+"Get Started";small_talk;0.58083984851837
+"Hello! I have a question about my upcoming flight with Claralines";flight_baggage;0.31047073602676
+"Are you keeping the middle seats open??";flight_seats;0.27912051880346
+"@clara_lines I just tested positive for covid_19. Can I get a refund if I can proof this with a medical statement from my doctor?";flight_ticket_refunds;0.30524863973042
+"Are you flying to Brussels in December 16th?";small_talk;0.30901799201965
+"hi! I'm hoping you can help me obtain a refund?";flight_ticket_refunds;0.75939526557922
+empty;no_intent_found;empty
+Hey!!!;small_talk;1
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Hey can someone help me very quickly";flight_question;0.80764937400818
+empty;no_intent_found;empty
+Hello?;small_talk;1
+"just wanted to say thank you for your support last time";flight_end_conversation;0.24567864645719
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+Hello;small_talk;1
+empty;no_intent_found;empty
+Hi;small_talk;1
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"I want to travel again!!";flight_ticket_booking;0.38851524591446
+empty;no_intent_found;empty
+"Hi Claralines - i'm trying to rebook my flight through the website, but i'm getting an error message in the process. What should I do?";flight_ticket_online_problem;0.4471620798111
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Hi Claralines - i'm trying to rebook my flight through the website, but i'm getting an error message in the process. What should I do?";flight_ticket_online_problem;0.4471620798111
+"Get Started";small_talk;0.58083984851837
+"Or should I just check the website?";flight_ticket_online_problem;0.25011937407842
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+"Can I finally use my voucher now?";flight_ticket_cancel;0.30584379434586
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+"Hi! I still have not received the refund of my booking GHY5FD";flight_ticket_refunds;0.65423936843872
+"Has Claralines started flying abroad now? I need a holiday!!! 🏝";flight_question;0.38519104719162
+empty;no_intent_found;empty
+"Cancel Booking";flight_ticket_cancel;0.69148168563843
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Talk to Human";small_talk;0.22708443653793
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+Hello;small_talk;1
+"I'm trying to check in from the app but it isn't working.. 😫";flight_ticket_online_problem;0.23645699781046
+"Are flights to Riyad enabled now?";flight_ticket_booking;0.31607664823532
+"Hi! are you still running flights to San Diego?";small_talk;0.40347456932068
+empty;empty_string;empty
+"Do you organize hotel stay as well or only flights?";flight_food_information;0.34337542057037
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Cancel Booking";flight_ticket_cancel;0.69148168563843
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+"Do you offer discounts for students?";flight_ticket_discount;0.35199466161141
+"I am having issues with your online booking system 🙈";flight_ticket_online_problem;0.46895871162415
+empty;empty_string;empty
+Thanks;small_talk;0.38029172426078
+empty;no_intent_found;empty
+Hey;small_talk;1
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Oh hey!";small_talk;0.94833345413208
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+"But can we travel? With COVID?";flight_baggage;0.33924436569214
+empty;no_intent_found;empty
+empty;empty_string;empty
+"Could someone please help me out with my request to cancel my flight?";flight_ticket_cancel;0.70391273498535
+Hello!;small_talk;1
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"I still didn't receive my refund from my summer holiday that got cancelled? What's going on?";flight_ticket_refunds;0.67142271995544
+"Hi Claralines!";small_talk;0.89582500457764
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+"I saw on your page discounts for ski trips during Christmas break?";flight_ticket_discount;0.28540915340044
+Hi;small_talk;1
+empty;empty_string;empty
+empty;no_intent_found;empty
+"Talk to Human";small_talk;0.22708443653793
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+"Cancel Booking";flight_ticket_cancel;0.69148168563843
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Please help";flight_question;0.89352297782898
+empty;empty_string;empty
+empty;no_intent_found;empty
+"Cancel Booking";flight_ticket_cancel;0.69148168563843
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+Hello;small_talk;1
+Help???;flight_question;0.91049408912659
+Hello;small_talk;1
+Hello;small_talk;1
+empty;empty_string;empty
+hallo;small_talk;0.92768268585205
+empty;no_intent_found;empty
+Hey;small_talk;1
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Get Started";small_talk;0.58083984851837
+"Get Started";small_talk;0.58083984851837
+empty;no_intent_found;empty
+"Cancel Booking";flight_ticket_cancel;0.69148168563843
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+"Claralines when will you start flying to Cuba again?";flight_question;0.28408506047333
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Wow so cool!";small_talk;0.24623515384752
+"Hello, what's the status of my refund?";flight_ticket_refunds;0.77982144355774
+"any thanksgiving discounts?";flight_ticket_discount;0.31989482958379
+"Hey please help me";flight_question;0.83395867347717
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+Hey;small_talk;1
+"Hello! Can I buy miniature planes?";flight_baggage;0.35066777467728
+empty;no_intent_found;empty
+"Hello I really need help and you have been avoiding me in every channel!";flight_question;0.33362308740616
+empty;no_intent_found;empty
+"No problem";small_talk;0.30628764566689
+empty;no_intent_found;empty
+"Hey thank you for the help";flight_end_conversation;0.6827645778656
+hey;small_talk;1
+empty;no_intent_found;empty
+Hey;small_talk;1
+empty;empty_string;empty
+"Thank you!";small_talk;1
+"Hi there, can you help me?";flight_question;0.75062208175659
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Cancel Booking";flight_ticket_cancel;0.69148168563843
+empty;no_intent_found;empty
+"Hello are you there?";small_talk;0.82607660293579
+empty;no_intent_found;empty
+"Thank you!";small_talk;1
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;emptyempty;empty_string;empty
+empty;no_intent_found;empty
+"Hello, do you fly to KSA?";small_talk;0.37853147983551
+empty;empty_string;empty
+"Oh! Great! Tomorrow";small_talk;0.50654847621918
+"Can you help";flight_question;0.90897555351257
+empty;no_intent_found;empty
+Hi;small_talk;1
+empty;empty_string;empty
+"I need a refund asap!";flight_ticket_refunds;0.90353026390076
+Hey!;small_talk;1
+empty;empty_string;empty
+empty;no_intent_found;empty
+Hey;small_talk;1
+empty;empty_string;empty
+empty;empty_string;empty
+"I want to cancel my flight!!";flight_ticket_cancel;0.82085213661194
+"Hey Claralines!";small_talk;0.81637091636658
+empty;empty_string;empty
+flight;flight_delays;0.54200553894043
+"I want to cancel my fight";flight_ticket_cancel;0.34722326297917
+HEy;small_talk;1
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"I would like to rebook my flight!";flight_ticket_booking_changes;0.3591903924942
+"Hey there!";small_talk;0.93240141868591
+empty;empty_string;empty
+"Need help quickly! I want to upgrade my seat with my Clarapoints.";flight_reservation_upgrade;0.24563567942512
+"Hello there!";small_talk;0.92871928215027
+empty;no_intent_found;empty
+Hello!!;small_talk;1
+empty;empty_string;empty
+"Hey there!";small_talk;0.93240141868591
+empty;empty_string;empty
+"I want to cancel my flight for next year already";flight_ticket_cancel;0.69227666854858
+"I need a refund";flight_ticket_refunds;0.91579093933105
+"i need help with my ticket!";flight_ticket_cancel;0.40140910148621
+"can you help me?";flight_question;1
+"hi there";small_talk;0.91296753883362
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+Good;small_talk;0.7609148979187
+"Do you have new corona measures?";flight_corona;0.36401294592295
+Hi;small_talk;1
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Hi. I need to cancel my flight";flight_ticket_cancel;0.69131212234497
+"Thanks! Its 1234FGH";small_talk;0.30994021101955
+"Hi- I need to cancel my flight";flight_ticket_cancel;0.68760566711426
+"I should have gotten more advanced notice on its cancellation";flight_canceled;0.27770990265588
+empty;no_intent_found;empty
+"Cancel Booking";flight_ticket_cancel;0.69148168563843
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+"Cancel Booking";flight_ticket_cancel;0.69148168563843
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+Bonjour;small_talk;0.24361416047205
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+Hola!;small_talk;0.4262743918207
+empty;empty_string;empty
+Hey;small_talk;1
+empty;empty_string;empty
+empty;empty_string;empty
+"Hi there";small_talk;0.91296753883362
+"Great service";flight_experience_review;0.88859033584595
+"Hello, Ive got a question on a flight";flight_ticket_booking;0.30231325626373
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Hey can you help me?";flight_question;0.84010729789734
+"I need urgent help with my delayed flight";flight_delays;0.57287595272064
+Hey;small_talk;1
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+"Cancel Booking";flight_ticket_cancel;0.69148168563843
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+"I need help";flight_question;1
+Hey;small_talk;1
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+"Talk to Human";small_talk;0.22708443653793
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"My flight number is ABC123 and Im flying to Miami!";flight_number;0.86295971870422
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Unbelievable. Thats not right. I never got a voicemail. Well whatever, Ill go get my luggage now.";flight_baggage_lost;0.50888767242432
+"Ok no need to interrogate me.....and how would I know where its lost? Flight was 1224 from Chicago to Houston";flight_number;0.27530465722084
+"Hello, my luggage is still lost! Can someone help!";flight_baggage_lost;0.68159284591675
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+Great;small_talk;0.68210906982422
+empty;no_intent_found;empty
+"Hi can you help me";flight_question;0.8591805934906
+Hi;small_talk;1
+empty;no_intent_found;empty
+"Change Booking";flight_ticket_booking_changes;1
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Hello, Ive been waiting for more information!";flight_booking_information_delay;0.50272002220154
+"Hi can you help me?";flight_question;0.87140703201294
+"Hi, can you help me I dont know what happened to my luggage?";flight_baggage_lost;0.5155460357666
+empty;no_intent_found;empty
+empty;empty_string;empty
+"I have a question, can you help please?";flight_question;0.92360038757324
+empty;no_intent_found;empty
+"Hello, can someone answer?";flight_question;0.6626275062561
+thanks;small_talk;0.38029172426078
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"the flight is fro 3475";flight_canceled;0.35680853128433
+"Hey, where can I see my star alliance membership on the website?";flight_ticket_online_problem;0.20318606697163
+"Hi Claralines, could you please confirm whether my flight is still going ahead as planned?";small_talk;0.28794335722923
+"Do you take hand luggage on the plane?";flight_baggage;0.58965713977814
+"Can you check if my flight is on time, please?";flight_checkin;0.3271582365036
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Talk to Human";small_talk;0.22708443653793
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+"Hello! I have a question";flight_question;0.72561960220337
+empty;empty_string;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+Hey;small_talk;1
+empty;empty_string;empty
+empty;empty_string;empty
+"Hey Claralines";small_talk;0.84542264938355
+empty;empty_string;empty
+empty;no_intent_found;empty
+Hey!;small_talk;1
+empty;empty_string;empty
+Hi;small_talk;1
+Help;flight_question;0.89356560707092
+"Is there a change with my flight schedule again???";flight_ticket_booking_changes;0.70948386192322
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+thanks;small_talk;0.38029172426078
+"Hello, this is seen. Can you help me with a question please?";flight_question;0.728751039505
+"Hi, need help finding luggage";flight_baggage_lost;0.46530654430389
+"Hi Claralines is my flight delayed?";flight_delays;0.81924481391907
+"Hi, I purchased a plane ticket on 102 that also had a rental car booking included. I cant find a confirmation of that rental car booking anywhere! Can you verify?";flight_ticket_online_problem;0.31235409975052
+"Thank u 😊";small_talk;0.88510909080505
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Hi, is there a flight to Berlin and do we need to do a corona test before?";flight_corona;0.59686505794525
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Is the code working? I want to book my Ibizaaa flight?";flight_ticket_booking;0.31964211463928
+empty;no_intent_found;empty
+"Everything with the flight was great but what happened to the food served???";flight_food_experience_review;0.54391846656799
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Hellloooo! Good morning. Any updates on this? ";small_talk;0.20991468649113
+empty;no_intent_found;empty
+"But the promo code is not working?";flight_ticket_online_problem;0.68755331039429
+empty;no_intent_found;empty
+Hello!;small_talk;1
+empty;no_intent_found;empty
+empty;empty_string;empty
+"Hey there! 👋 I have anoiissuewith my Claralines ticket. Canyou help?";flight_ticket_online_problem;0.37559496164322
+empty;no_intent_found;empty
+Hello!;small_talk;1
+empty;empty_string;empty
+empty;empty_string;empty
+"Hello, urgently need help. I need to cancel my flight due to COVID related issues. How can I get a refund?";flight_ticket_refunds;0.58257079124451
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;empty_string;empty
+empty;empty_string;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+"Hi there, I want to cancel my flight";flight_ticket_cancel;0.70680418014526
+"Hi! How can I get a refund for my cancelled flight?";flight_ticket_refunds;0.8952663898468
+"Hi! How can I get a refund for my cancelled flight?";flight_ticket_refunds;0.8952663898468
+"Hi! How can I get a refund for my cancelled flight?";flight_ticket_refunds;0.8952663898468
+"hi there";small_talk;0.91296753883362
+empty;no_intent_found;empty
+"I would like to complain about the seats on the flight. They were so dirty! Dont you clean the plane before flying new people?";flight_experience_review;0.34301993846893
+"Do you fly to Dubai now?";flight_ticket_booking;0.34963953495026
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Wow! Great!!!";small_talk;0.28930531914538
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;empty_string;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+"Hi there!";small_talk;0.90836586952209
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+Hallo;small_talk;0.92768268585205
+empty;empty_string;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+"This was no help at all! Please let me know how I can get my luggage back! 😠";flight_baggage_lost;0.37857837677002
+"Hello, my luggage was lost on my flight to Paris. Can you please help me?";flight_baggage_lost;0.48574545383453
+"Hello, my luggage was lost on my flight to Paris. Can you please help me?";flight_baggage_lost;0.48574545383453
+empty;no_intent_found;empty
+"Get Started";small_talk;0.58083984851837
+"Hello, my luggage was lost on my flight to Paris. Can you please help me?";flight_baggage_lost;0.48574545383453
+empty;no_intent_found;empty
+"Your app is not working! I cannot access my reservation for whatever reason";flight_ticket_online_problem;0.25626218707448
+"Hello? I have not received my refund!";flight_ticket_refunds;0.76367092132568
+empty;no_intent_found;empty
+"Thanks! Its ABC123";small_talk;0.24472730832345
+"Change Booking";flight_ticket_booking_changes;1
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Hey do you fly to the us now?";flight_ticket_booking;0.3255134344101
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Get Started";small_talk;0.58083984851837
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Get Started";small_talk;0.58083984851837
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"are you there??";small_talk;0.70865235328674
+"Hi Claraline- my flight is delayed. help!";flight_delays;0.58273830413818
+empty;no_intent_found;empty
+"Can you help me";flight_question;1
+Hello;small_talk;1
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+"Hey, Ive been trying on hold for over an hour and no one has been able to help me. Im having trouble making online changes to my flights!";flight_ticket_online_problem;0.44511659145355
+"Do you fly to Japan?";flight_ticket_booking;0.35349833965302
+"Hello, my luggage was lost in Chicago. Who can help me with this?";flight_baggage_lost;0.51285123825073
+"Hello, its me again! My flight was canceled and Im awaiting a refund. Can an agent contact me direct?";flight_ticket_refunds;0.62794594764709
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Have you started to fly internationally or are the flights still domestic ones?";flight_food_information;0.38679882287979
+"I didnt hear back from you";flight_booking_information_delay;0.55682759284973
+"Do you fly to Japan?";flight_ticket_booking;0.35349833965302
+"Can someone help?";flight_question;0.90283145904541
+"Hello, I need to book a flight to New York";flight_ticket_booking;0.33944751024246
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Hello, I need some help finding a lost bag";flight_baggage_lost;0.34942548274994
+empty;no_intent_found;empty
+"Hey, can you help. me?";flight_question;0.81734113693237
+"Do you fly to Namibia?";flight_ticket_booking;0.38997752666473
+"Hi! I need your help. ";flight_question;0.78863182067871
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+Hello;small_talk;1
+empty;empty_string;empty
+"Hello. I am waiting for an update on flight 71616?";flight_canceled;0.30027521848679
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Meeee!! I will be travelling with @_claralines";small_talk;0.37116878032684
+Hey;small_talk;1
+empty;no_intent_found;empty
+empty;empty_string;empty
+"OK, look forward to hearing from you";small_talk;0.30445967351004
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+"Hi Claralines, I need help with my booking.";flight_ticket_booking_changes;0.27821053862572
+"yoyo whaddup! my flight booking failed?";flight_ticket_booking_changes;0.30565252304077
+empty;no_intent_found;empty
+"I need to change my flight for Friday afternoon. Confirmation number 454GFC";flight_number;0.52422664165497
+"I have another question- can you help?";flight_question;0.91468386650085
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Can you help me with my ticket please, urgently";flight_ticket_cancel;0.36796921491623
+empty;no_intent_found;empty
+"Talk to Human";small_talk;0.22708443653793
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+Hi!;small_talk;1
+"It is, thanks for your help. Any new deals?";flight_end_conversation;0.26799990640448
+empty;no_intent_found;empty
+"Hello! Could I PLEASE get an update on my tickets issue (40048336621 case number)";flight_number;0.43294997215271
+empty;no_intent_found;empty
+"Hi really need some help from you guys!";flight_question;0.73409266471863
+"Hello really need some help!";flight_question;0.77925424575806
+"Get Started";small_talk;0.58083984851837
+"Hello I need some help";flight_question;0.83312788009644
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"⏎ Go Back";small_talk;0.26583748443418
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+great;small_talk;0.68210906982422
+"Ive been having a problem with my transport. can someone help?";flight_question;0.34719282388687
+"Do you fly to Cuba?";flight_ticket_booking;0.3421998500824
+"Hi Claralines - any new flight deals?";small_talk;0.29576862454414
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"this me Rifas";small_talk;0.23720023818004
+hi;small_talk;1
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Hi! I need to rebook my flight to Miami. ";flight_ticket_booking_changes;0.28696567416191
+empty;empty_string;empty
+"Hello I need help";flight_question;0.84585256576538
+"Hello, I still need help! I lost my carry on on the last flight!";flight_baggage_lost;0.29792630672455
+"Hello Claralines - I have still not received my Nice refund. Whats the status with this?";flight_ticket_refunds;0.27625783818816
+empty;no_intent_found;empty
+"I have a delay";flight_delays;0.51664552688599
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+hello;small_talk;1
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Get Started";small_talk;0.58083984851837
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Are you. there?";small_talk;0.70729336738586
+"Hey there!";small_talk;0.93240141868591
+"Do you fly to Singapore directly?";flight_ticket_booking;0.33800694942474
+"I want to change my order";flight_ticket_booking_changes;0.53932273387909
+"Hi again";small_talk;0.89400420188904
+Hello!!!!;small_talk;1
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+Hi;small_talk;1
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Hi Can you help me?";flight_question;0.87140703201294
+empty;no_intent_found;empty
+"What do you think?";small_talk;0.63544678688049
+"So my luggage did not appear but it might be due to the transfer?";flight_baggage_lost;0.65732917785645
+Hi;small_talk;1
+"Do you have direct flights to Kuwait?";flight_ticket_booking;0.35678700208664
+"Hi! Im currently in Brussels and my luggage is lost! Help.";flight_baggage_lost;0.75255441665649
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Hello I have had some issues with a cancelled flight!";flight_experience_review;0.35190055370331
+empty;empty_string;empty
+"Hello hello";small_talk;0.93899636268616
+empty;no_intent_found;empty
+"Hi- I need to book a flight for August to Miami. ";flight_ticket_booking;0.34997535943985
+empty;empty_string;empty
+help;flight_question;0.89356560707092
+empty;no_intent_found;empty
+hello;small_talk;1
+"Get Started";small_talk;0.58083984851837
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;empty_string;empty
+"Who can I reach out to over the weekend? I would like to know when I will be able to fly to Mozambique again.";flight_question;0.41355872154236
+empty;no_intent_found;empty
+empty;empty_string;empty
+empty;no_intent_found;empty
+Thanks;small_talk;0.38029172426078
+"Hello Claralines";small_talk;0.89540600776672
+"my booking number is 345678";flight_number;0.82735810279846
+"Hi Claralines I need help with my flight";flight_ticket_booking_changes;0.30646022558212
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Hello Claralines, I need help with my booking.";flight_ticket_booking_changes;0.28621066212654
+Delay;flight_delays;0.36670079514579
+"Help! Crisis";flight_question;0.39955716638634
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Hi Claralines, looking forward to flying with you again soon!";small_talk;0.5297456741333
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"I would like to formally escalate my refund request and talk to a line manager, please!";flight_ticket_refunds;0.67498912811279
+"Thats unfortunate...I am still waiting for my refund and have not heard back from customer service in over 2 weeks!";flight_ticket_refunds;0.32718370911659
+"Hello my luggage was lost on my last flight! Really need some guidance on getting it back!";flight_baggage_lost;0.69113402366638
+empty;no_intent_found;empty
+"Hi guys! Long time no speak";small_talk;0.81367063522339
+"Awesome help";flight_question;0.64238986968994
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+Hello;small_talk;1
+"Oops. I meant hello";small_talk;0.73506841659546
+empty;no_intent_found;empty
+"Do we have to be at the airport 3 hours before now? it is just an EU flight";flight_ticket_booking;0.29013991951942
+empty;no_intent_found;empty
+"Do you have flights from Amsterdam to Sweden?";flight_ticket_booking;0.52208812236786
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Hello I really need some help!";flight_question;0.80744414329529
+empty;no_intent_found;empty
+You*;small_talk;0.42521998846206
+"Thank to";small_talk;0.825541639328
+empty;no_intent_found;empty
+"Can you help me?";flight_question;1
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Hi, do you know when flights to Portugal will resume?";flight_ticket_booking;0.38550622463226
+empty;no_intent_found;empty
+"Talk to Human";small_talk;0.22708443653793
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Hi can you help me please?";flight_question;0.86091122627258
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+empty;no_intent_found;empty
+"Did flights to Jeddah start?";flight_ticket_booking;0.3999981045723
