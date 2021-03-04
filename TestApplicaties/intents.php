@@ -1,0 +1,23 @@
+<?php
+
+class Intents{
+    public function getIntents(){
+        $strJsonFileContents = file_get_contents('../intents.json');
+        return json_decode($strJsonFileContents, true);
+    }
+}
+
+
+class Detection{
+    public function getMessages(){
+        $strJsonFileContents = file_get_contents("../clarabridge.json");
+        return json_decode($strJsonFileContents, true);
+    }
+
+    public function toJson($data,$fileName){
+        $resultJson = json_encode($data);
+        $fp = fopen("../results/".$fileName.'.json', 'a');
+        fwrite($fp, json_encode(json_decode($resultJson), JSON_PRETTY_PRINT));
+        fclose($fp);
+    }
+}
