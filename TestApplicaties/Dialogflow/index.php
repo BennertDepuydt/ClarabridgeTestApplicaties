@@ -52,7 +52,7 @@ $ClassDetection = new Detection();
 $array = $ClassDetection->getMessages();
 
 
-for($i=0;$i < 2; $i++){
+for($i=0;$i < count($array); $i++){
     $resultCustom[$i]['query'] = null;
     $resultCustom[$i]['intent'] = "empty_string";
     $resultCustom[$i]['score'] = null;
@@ -66,6 +66,7 @@ for($i=0;$i < 2; $i++){
         $resultCustom[$i]['intent'] = $list[1];
         $resultCustom[$i]['score'] = $list[2];
     }
+
     else {
         //add to csv file to many characters for 1 line
         $resultCustom[$i]['intent'] = "string_to_long";;

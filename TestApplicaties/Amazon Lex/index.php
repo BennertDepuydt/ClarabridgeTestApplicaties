@@ -22,7 +22,7 @@ $lex_client = new Aws\LexRunTimeService\LexRuntimeServiceClient($options);
 $ClassDetection = new Detection();
 $array = $ClassDetection->getMessages();
 $resultCustom = array();
-for($i=0;$i <= 2 ; $i++){
+for($i=0;$i <= count($array) ; $i++){
     print(count($array));
     $query = $array[$i]['title'];
     $resultCustom[$i]['query'] = null;

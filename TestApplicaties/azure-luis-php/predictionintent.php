@@ -33,7 +33,7 @@ function AnalyzeText($url, $app, $key, $query) {
     ));
 
     // build query string
-    $subscription_key = "";
+    $subscription_key = "key";
     $qs = http_build_query( array (
             "subscription-key" => $subscription_key,
             "verbose" => "true",
@@ -56,28 +56,32 @@ if (strlen($endpointKey) == 32) {
     $ClassDetection = new Detection();
     $array = $ClassDetection->getMessages();
     $resultCustom = array();
-    for($i=0;$i < 2; $i++){
+    for($i=0;$i < count($array); $i++){
         $resultCustom[$i]['intent'] = "empty_string";;
-        $resultCustom[$i]['query'] = null;
+        $resultCustom[$i]['query'] = $array[$i]['title'];
         $resultCustom[$i]['score'] = null;
         //$resultCustom[$i]['alternativeIntents'] = null;
         $json = AnalyzeText($endpoint, $appId, $endpointKey, $array[$i]['title']);
+        $string = $json["prediction"]["topIntent"];
         var_dump($json);
-        if($json["prediction"]["topIntent"] === "None"){
+        if($array[$i]['title'] === ""){
             $resultCustom[$i]['intent'] = "empty_string";
         }
+        elseif($json["prediction"]["topIntent"] === "None" or $json["prediction"]["topIntent"] === null or $json["prediction"]["intents"][$string]["score"] < 0.3 ){
+            $resultCustom[$i]['intent'] = "result_not_found";
+        }
         else {
-            $resultCustom[$i]['query'] = $json["query"];
+            $resultCustom[$i]['query'] = $array[$i]['title'];
             $string = $json["prediction"]["topIntent"];
             $resultCustom[$i]['intent'] = $string;
             $resultCustom[$i]['score'] = $json["prediction"]["intents"][$string]["score"];
             //$resultCustom[$i]['alternativeIntents'] = $json[0]["prediction"]["intents"];
         }
-
+        sleep(1);
 
 
     }
-    $ClassDetection->toJson($resultCustom,"azure");
+    $ClassDetection->toJson($resultCustom,"azure2");
 } else {
 
     print("Invalid LUIS key!\n");

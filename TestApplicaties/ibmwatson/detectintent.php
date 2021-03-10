@@ -9,7 +9,7 @@ $client = new GuzzleHttp\Client([
     'base_uri' => 'https://api.eu-de.assistant.watson.cloud.ibm.com'
 ]);
 //check bots for the workspace_id
-$response= $client->request('GET', '/instances/{{key}}/v1//workspaces?version=2020-04-01', [
+$response= $client->request('GET', '/instances/{{key}}/v1/workspaces?version=2020-04-01', [
     'auth' => [
         'apikey',
         '{{apikey}}'
@@ -26,12 +26,12 @@ $ClassDetection = new Detection();
 $array = $ClassDetection->getMessages();
 
 $resultCustom = array();
-for($i=0;$i < 2; $i++){
+for($i=0;$i < count($array); $i++){
         $replace = array("\n", '\'', '/');
         $array[$i]['title'] = str_replace($replace, "", $array[$i]['title']);
         $input["text"] = $array[$i]['title'];
         $resultCustom[$i]['intent'] = "empty_string";;
-        $resultCustom[$i]['query'] = null;
+        $resultCustom[$i]['query'] = $array[$i]['title'];
         $resultCustom[$i]['score'] = null;
         if(strlen($array[$i]['title']) == 0){
             $resultCustom[$i]['intent'] = "empty_string";;
@@ -48,11 +48,12 @@ for($i=0;$i < 2; $i++){
                 $resultCustom[$i]['query'] = $array[$i]['title'];
             }
             else {
-                $resultCustom[$i]['intent'] = "empty_string";;
+                $resultCustom[$i]['intent'] = "result_not_found";;
 
             }
 
         }
+        echo $i;
 
     sleep(1);
 

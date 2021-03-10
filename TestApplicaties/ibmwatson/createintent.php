@@ -63,7 +63,7 @@ $responseCreateIntent = $client->request('POST', '/instances/{{key}}/v1/workspac
     ),
     'auth' => [
         'apikey',
-        '{{apikey}}'
+        'MEiMkMD6hNW-mNupcVCctdKR9kYbcosHFDiVny0H6IC5'
     ],
     'verify' => FALSE,
 

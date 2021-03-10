@@ -1,0 +1,5422 @@
+[
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "My flight number is 00918452",
+        "intent": "flight_number",
+        "score": 0.7116337
+    },
+    {
+        "query": "@clara_lines Hi there, can you help me?",
+        "intent": "flight_question",
+        "score": 0.68148166
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "\u0645\u0631\u062d\u0628\u0627 \u0647\u0644 \u064a\u0645\u0643\u0646\u0643 \u0645\u0633\u0627\u0639\u062f\u062a\u064a \u0641\u064a \u0627\u0644\u062d\u062c\u0632\u061f",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Get Started",
+        "intent": "flight_booking_information_delay",
+        "score": 0.49773383
+    },
+    {
+        "query": "Hello?",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "1234FGH",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hi! I need help",
+        "intent": "flight_question",
+        "score": 1
+    },
+    {
+        "query": "Hi there! I have a question about my flight to Hungary",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hey, do you fly to japan?",
+        "intent": "flight_question",
+        "score": 0.575005
+    },
+    {
+        "query": "Hi",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "3456",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "4567",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hi",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hello!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Roscamlaura1@gmail.com",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "My order is lost",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hallo",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Het",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Talk to Human",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "45283",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Thanks",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "I don't know yet",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "Time to fly again???",
+        "intent": "flight_question",
+        "score": 0.6024059
+    },
+    {
+        "query": "Heeey",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "hello i have a question",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hello, this is a tes message from Rozhin.",
+        "intent": "small_talk",
+        "score": 0.91086656
+    },
+    {
+        "query": "Flying out from Netherlands to Jamaica, do you need a pcr test to onboard?",
+        "intent": "flight_question",
+        "score": 0.6717313
+    },
+    {
+        "query": "\ud83c\udf0d Find Destination",
+        "intent": "flight_ticket_booking",
+        "score": 0.5886889
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hi Claralines",
+        "intent": "small_talk",
+        "score": 0.9121182
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hi there",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hi there",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "12345 and my destination was Barcelona",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "2pm please. thanks",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "I am flying from DC",
+        "intent": "flight_question",
+        "score": 0.50255734
+    },
+    {
+        "query": "I am hoping to leave tomorrow afternoon",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hello. I need flight times to get to Dallas",
+        "intent": "small_talk",
+        "score": 0.764605
+    },
+    {
+        "query": "Get Started",
+        "intent": "flight_booking_information_delay",
+        "score": 0.49773383
+    },
+    {
+        "query": "hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hi.. my flight number is 123ABC and I was flying to Miami",
+        "intent": "flight_number",
+        "score": 0.63257974
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Get Started",
+        "intent": "flight_booking_information_delay",
+        "score": 0.49773383
+    },
+    {
+        "query": "Hello!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hi there, can you help me?",
+        "intent": "flight_question",
+        "score": 1
+    },
+    {
+        "query": "Hi there, can you help me?",
+        "intent": "flight_question",
+        "score": 1
+    },
+    {
+        "query": "Hey I need some help!",
+        "intent": "flight_question",
+        "score": 0.8002132
+    },
+    {
+        "query": "12345",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Thanks",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "LAX",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83c\udf0d Find Destination",
+        "intent": "flight_ticket_booking",
+        "score": 0.5886889
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Test",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Get Started",
+        "intent": "flight_booking_information_delay",
+        "score": 0.49773383
+    },
+    {
+        "query": "Test",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "test request",
+        "intent": "small_talk",
+        "score": 0.98883843
+    },
+    {
+        "query": "Get Started",
+        "intent": "flight_booking_information_delay",
+        "score": 0.49773383
+    },
+    {
+        "query": "\u0a06\u0a30\u0a21\u0a30 \u0a35\u0a3f\u0a71\u0a1a \u0a26\u0a47\u0a30\u0a40 \u0a39\u0a4b\u0a08 \u0a2a\u0a30 \u0a2a\u0a40\u0a1c\u0a3c\u0a3e \u0a38\u0a3c\u0a3e\u0a28\u0a26\u0a3e\u0a30 \u0a38\u0a40!",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Test",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hey do you fly to dubai?",
+        "intent": "flight_question",
+        "score": 0.575005
+    },
+    {
+        "query": "Yeme\u011fim \u00e7ok ge\u00e7 geldi \u00e7ok ac\u0131kt\u0131m",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "My flight number is 9274",
+        "intent": "flight_number",
+        "score": 0.7116337
+    },
+    {
+        "query": "I need some help!",
+        "intent": "flight_question",
+        "score": 0.8243926
+    },
+    {
+        "query": "1123",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Cool! Amazing Claralines. I loveeee flying with you guys. ",
+        "intent": "flight_question",
+        "score": 0.43298373
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hello ",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "When will you fly again?",
+        "intent": "flight_question",
+        "score": 0.7166039
+    },
+    {
+        "query": "Hi Claralines, when will you fly again?",
+        "intent": "flight_question",
+        "score": 0.7091098
+    },
+    {
+        "query": "Puedes ayudarme?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Tengo una pregunta sobre sus ventas al Caribe",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hola",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Do you fly to Dubai still?",
+        "intent": "flight_question",
+        "score": 0.58236843
+    },
+    {
+        "query": "you can help me by switching back to how it used to be..",
+        "intent": "flight_question",
+        "score": 0.6882893
+    },
+    {
+        "query": "Hello! With the new restrictions, do I need a negative test to fly to Spain?",
+        "intent": "flight_question",
+        "score": 0.69345313
+    },
+    {
+        "query": "Hello there, - is it true that you have a flexible booking policy due to Covid?",
+        "intent": "flight_booking_information_delay",
+        "score": 0.4790536
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "123ABC",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Get Started",
+        "intent": "flight_booking_information_delay",
+        "score": 0.49773383
+    },
+    {
+        "query": "Hi, can you help me?",
+        "intent": "flight_question",
+        "score": 1
+    },
+    {
+        "query": "I have a question",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hey!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hi Claralines!",
+        "intent": "small_talk",
+        "score": 0.9908172
+    },
+    {
+        "query": "Thanks",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Can you help",
+        "intent": "flight_question",
+        "score": 1
+    },
+    {
+        "query": "Hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hi",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Are there any covid measures I should be careful of?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Thanks do you fly to KSA?",
+        "intent": "flight_question",
+        "score": 0.58236843
+    },
+    {
+        "query": "Hi, can you help me with a flight detail please?",
+        "intent": "flight_question",
+        "score": 0.6471482
+    },
+    {
+        "query": "Hello, can you please reply?",
+        "intent": "small_talk",
+        "score": 0.75296015
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "4567",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "Very happy with this",
+        "intent": "small_talk",
+        "score": 0.767427
+    },
+    {
+        "query": "\ud83e\udd1a\ud83c\udffbCarry-On Baggage",
+        "intent": "flight_baggage",
+        "score": 0.77737886
+    },
+    {
+        "query": "\ud83e\uddf3 Baggage Question",
+        "intent": "flight_baggage_lost",
+        "score": 0.6370402
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Awesome work!",
+        "intent": "small_talk",
+        "score": 0.7902507
+    },
+    {
+        "query": "Hi Claralines! I have a couple of questions for you",
+        "intent": "flight_question",
+        "score": 0.7749385
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Okay, perfect! Thank you for the quick response",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hi \ud83d\udc4b\ud83c\udffc Do you fly to Jordan during the holidays? Thanks!",
+        "intent": "flight_question",
+        "score": 0.57407355
+    },
+    {
+        "query": "Thank you for your support",
+        "intent": "flight_end_conversation",
+        "score": 0.6264175
+    },
+    {
+        "query": "Hi! Do you fly to Barcelona?",
+        "intent": "flight_question",
+        "score": 0.50997466
+    },
+    {
+        "query": "Hello, and do you fly to Brussels?",
+        "intent": "flight_question",
+        "score": 0.575005
+    },
+    {
+        "query": "Do you fly to switzerland?",
+        "intent": "flight_question",
+        "score": 0.58236843
+    },
+    {
+        "query": "Do you fly from Amsterdam to Istanbul?",
+        "intent": "flight_question",
+        "score": 0.58236843
+    },
+    {
+        "query": "Thanks",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "Any christmas campaigns for 2021?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Are there flights from Amsterdam now that there is a stricter lockdown situation?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "Tengo una problema",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hola Claralines!!",
+        "intent": "small_talk",
+        "score": 0.9598447
+    },
+    {
+        "query": "6547",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hello, is there a flight tomorrow t Brussels?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "You are there",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Help",
+        "intent": "flight_question",
+        "score": 0.7418101
+    },
+    {
+        "query": "Hey",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "\u0645\u0631\u062d\u0628\u0627 \u0643\u064a\u0641 \u0627\u0644\u062d\u0627\u0644",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Are you flying to Barcelona?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "45678",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hello!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hey",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "45654",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Do you fly to cuba?",
+        "intent": "flight_question",
+        "score": 0.58236843
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hey, can you help me?",
+        "intent": "flight_question",
+        "score": 1
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": "Japan please",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Get Started",
+        "intent": "flight_booking_information_delay",
+        "score": 0.49773383
+    },
+    {
+        "query": "Get Started",
+        "intent": "flight_booking_information_delay",
+        "score": 0.49773383
+    },
+    {
+        "query": "Hello! I have a question about my upcoming flight with Claralines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Are you flying to Brussels in December 16th?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "OMG! Is this what I think it is?? A giveaway?? \ud83e\udd29\ud83e\udd73",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hey!!!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "When is this campaign? \ud83e\udd73",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "New Booking",
+        "intent": "flight_booking_information_delay",
+        "score": 0.60572785
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "Hey can someone help me very quickly",
+        "intent": "flight_question",
+        "score": 0.7573532
+    },
+    {
+        "query": "\u0627\u0642\u0648\u0644 \u0628\u0633 \u0645\u0648\u0635\u0644\u064a\u0646\u0647\u0627 \u0628\u0627\u0631\u062f\u0647 \u0648\u0627\u0644\u0628\u064a\u0628\u0633\u064a \u062d\u0627\u0631 \u0648\u0627\u0644\u0641\u0631\u0627\u064a\u0632 \u0628\u0627\u0631\u062f \u0633\u0644\u0627\u0645\u0627\u0627\u062a !!!!!! \u062c\u0648\u0639\u0627\u0646\u064a\u0646 \u062a\u0631\u0627 \u0648\u0634 \u0647\u0627\u0644\u062a\u0648\u0635\u064a\u0644 \u0627\u0644\u0641\u0627\u0634\u0644",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hello?",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "just wanted to say thank you for your support last time",
+        "intent": "small_talk",
+        "score": 0.8720225
+    },
+    {
+        "query": "Hey your colleague chris has helped me last time can he help me again?",
+        "intent": "flight_question",
+        "score": 0.59779584
+    },
+    {
+        "query": "No he recibido todav\u00eda el reembolso de mi compra",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Is this offer still available?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "123",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hi",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "\ud83d\ude2e",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "I want to travel again!!",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83d\udcaf",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc Talk to a Human",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc Talk to a Human",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": "Get Started",
+        "intent": "flight_booking_information_delay",
+        "score": 0.49773383
+    },
+    {
+        "query": "CL29480 to the Bahamas",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Cool",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Can I finally use my voucher now?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Helloooo",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "\ud83d\ude4f\ud83c\udffb",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Has Claralines started flying abroad now? I need a holiday!!! \ud83c\udfdd",
+        "intent": "flight_question",
+        "score": 0.65940416
+    },
+    {
+        "query": "4456",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": "Talk to Human",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": "\u0645\u0631\u062d\u0628\u0627",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Are flights to Riyad enabled now?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hi! are you still running flights to San Diego?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Do you organize hotel stay as well or only flights?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\uddf3 Baggage Question",
+        "intent": "flight_baggage_lost",
+        "score": 0.6370402
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Do you fly to lebanon?",
+        "intent": "flight_question",
+        "score": 0.58236843
+    },
+    {
+        "query": "ERER484",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Thanks",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Why is no one responding?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hey",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Can I report this?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "I don't think it's appropriate",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Yes. I was wondering about the recent advertising you made for Claralines",
+        "intent": "flight_food_experience_review",
+        "score": 0.46878734
+    },
+    {
+        "query": "Oh hey!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Automated quick help was amazing",
+        "intent": "flight_question",
+        "score": 0.5812217
+    },
+    {
+        "query": "\ud83e\udd1a\ud83c\udffbCarry-On Baggage",
+        "intent": "flight_baggage",
+        "score": 0.77737886
+    },
+    {
+        "query": "\ud83e\uddf3 Baggage Question",
+        "intent": "flight_baggage_lost",
+        "score": 0.6370402
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "But can we travel? With COVID?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hello!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hi Claralines!",
+        "intent": "small_talk",
+        "score": 0.9908172
+    },
+    {
+        "query": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hi",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Does everyone have to wear masks on the flight?",
+        "intent": "flight_food_information",
+        "score": 0.40804234
+    },
+    {
+        "query": "Talk to Human",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "5555",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "445615",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Help???",
+        "intent": "flight_question",
+        "score": 0.7418101
+    },
+    {
+        "query": "Hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "hallo",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "You guys have amaziiiiing support \ud83e\udd70\ud83d\udc6f\u200d\u2640\ufe0f",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hey",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "\u00d6n\u00fcm\u00fczdeki hafta u\u00e7u\u015fum iptal edilecek mi?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Get Started",
+        "intent": "flight_booking_information_delay",
+        "score": 0.49773383
+    },
+    {
+        "query": "Get Started",
+        "intent": "flight_booking_information_delay",
+        "score": 0.49773383
+    },
+    {
+        "query": "516848",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "\u0394\u03b5\u03bd \u03ad\u03c7\u03c9 \u03b1\u03ba\u03bf\u03cd\u03c3\u03b5\u03b9 \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03c4\u03ae\u03c3\u03b7 \u03bc\u03bf\u03c5, \u03b1\u03ba\u03c5\u03c1\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9;",
+        "intent": "flight_question",
+        "score": 0.4817748
+    },
+    {
+        "query": "Claralines when will you start flying to Cuba again?",
+        "intent": "flight_question",
+        "score": 0.5320843
+    },
+    {
+        "query": "This is so cool, keep creating awesome content like this! Makes me proud to be a customer. ",
+        "intent": "small_talk",
+        "score": 0.7377924
+    },
+    {
+        "query": "@clara_lines Hello",
+        "intent": "small_talk",
+        "score": 0.9163408
+    },
+    {
+        "query": "Wow so cool!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Southeastern",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hey",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hello! Can I buy miniature planes?",
+        "intent": "flight_ticket_booking",
+        "score": 0.42565897
+    },
+    {
+        "query": "\u0633\u0644\u0627\u0645 \u0639\u0644\u064a\u0643\u0645",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\u0633\u0644\u0627\u0645 \u0639\u0644\u064a\u0643\u0645 \u0645\u0646\u062a\u062c\u0639 \u0634\u0627\u0637\u0626 \u0627\u0644\u062f\u0627\u0646\u0629",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "No problem",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "awesome job!",
+        "intent": "small_talk",
+        "score": 0.78893274
+    },
+    {
+        "query": "Hey thank you for the help",
+        "intent": "flight_end_conversation",
+        "score": 1
+    },
+    {
+        "query": "hey",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hallloo",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hey",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Thank you!",
+        "intent": "flight_end_conversation",
+        "score": 0.5767755
+    },
+    {
+        "query": "Hi there, can you help me?",
+        "intent": "flight_question",
+        "score": 1
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "On another note, do you fly to India or are the borders closed?",
+        "intent": "flight_question",
+        "score": 0.55804396
+    },
+    {
+        "query": "Hello! Awesome pictures. Which is that? And any idea when I can spot it?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hello are you there?",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Ready to get out of the US!  Where shall I go!",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Thank you!",
+        "intent": "flight_end_conversation",
+        "score": 0.5767755
+    },
+    {
+        "query": "\ud83e\uddf3 Baggage Question",
+        "intent": "flight_baggage_lost",
+        "score": 0.6370402
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hi Selin, \nThis is Isa from Dr. Mohammad Alfagih Hospital",
+        "intent": "small_talk",
+        "score": 0.80867606
+    },
+    {
+        "query": "Hello, do you fly to KSA?",
+        "intent": "flight_question",
+        "score": 0.575005
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Oh! Great! Tomorrow",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Can you help",
+        "intent": "flight_question",
+        "score": 1
+    },
+    {
+        "query": "Yes! I'm trying to leave Belgium and get to Sweden for the winter",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hi",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hey!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "I need urgent help! Someone speaks Dutch? ",
+        "intent": "flight_question",
+        "score": 0.66773593
+    },
+    {
+        "query": "Hey",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hey Claralines!",
+        "intent": "small_talk",
+        "score": 0.96735686
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "flight",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.4876441
+    },
+    {
+        "query": "HEy",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Halllo",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hey there!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hello there!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Send me a GIF :-D ",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hello!!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hey there!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "i need help with my ticket!",
+        "intent": "flight_question",
+        "score": 0.7021583
+    },
+    {
+        "query": "can you help me?",
+        "intent": "flight_question",
+        "score": 1
+    },
+    {
+        "query": "hi there",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Location shared:\nhttps:\/\/maps.google.com\/maps?q=24.7069113,46.7005701",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "H2",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Good",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hi",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "\u0647\u0627\u064a",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": "Thanks! It's 1234FGH",
+        "intent": "small_talk",
+        "score": 0.6455842
+    },
+    {
+        "query": "Hey, kind of irritated on how you handled my flight.",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "1848948",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraSun",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Bonjour",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Soy Laura!",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hola!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hey",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hi there",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Great service",
+        "intent": "flight_experience_review",
+        "score": 0.8889706
+    },
+    {
+        "query": "Hello, I've got a question on a flight",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": "Hey can you help me?",
+        "intent": "flight_question",
+        "score": 1
+    },
+    {
+        "query": "Hey",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "5848",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "I need help",
+        "intent": "flight_question",
+        "score": 1
+    },
+    {
+        "query": "Hey",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "\u0645\u0631\u062d\u0628\u0627 \u060c \u0627\u062d\u062a\u0627\u062c \u0627\u0644\u0645\u0633\u0627\u0639\u062f\u0647 \u0644\u0637\u0644\u0628 \u0627\u0644\u062e\u062f\u0645\u0647 !",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Talk to Human",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "My flight number is ABC123 and I'm flying to Miami!",
+        "intent": "flight_number",
+        "score": 0.64178216
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Ok no need to interrogate me.....and how would I know where it's lost? Flight was 1224 from Chicago to Houston",
+        "intent": "flight_question",
+        "score": 0.44016227
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": "\ud83d\udc4d",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Great",
+        "intent": "flight_food_experience_review",
+        "score": 0.62179714
+    },
+    {
+        "query": "I want to ask something about your software.",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hi can you help me",
+        "intent": "flight_question",
+        "score": 1
+    },
+    {
+        "query": "Hi",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "1234",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": "Hello, I've been waiting for more information!",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hi can you help me?",
+        "intent": "flight_question",
+        "score": 1
+    },
+    {
+        "query": "Hi, can you help me I don't know what happened to my luggage?",
+        "intent": "flight_baggage_lost",
+        "score": 0.6552539
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "I have a question, can you help please?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hello, can someone answer?",
+        "intent": "small_talk",
+        "score": 0.78332216
+    },
+    {
+        "query": "thanks",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "\u0644\u0642\u062f \u0641\u0642\u062f\u062a \u0623\u0645\u062a\u0639\u062a\u064a \u060c \u0643\u064a\u0641 \u0623\u0633\u062a\u0639\u064a\u062f\u0647\u0627\u061f",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "the flight is frh 3475",
+        "intent": "flight_canceled",
+        "score": 0.40784988
+    },
+    {
+        "query": "Hey, where can I see my star alliance membership on the website?",
+        "intent": "flight_ticket_online_problem",
+        "score": 0.535814
+    },
+    {
+        "query": "Hi Claralines, could you please confirm whether my flight is still going ahead as planned?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Do you take hand luggage on the plane?",
+        "intent": "flight_baggage",
+        "score": 0.5892861
+    },
+    {
+        "query": "Can you check if my flight is on time, please?",
+        "intent": "flight_checkin",
+        "score": 0.48310024
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": "Nothing of the above is what I want! Please let me talk to a human!!!",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Talk to Human",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hello! I have a question",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hey",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hey Claralines",
+        "intent": "small_talk",
+        "score": 0.85238445
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Ok",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hey!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hi",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Help",
+        "intent": "flight_question",
+        "score": 0.7418101
+    },
+    {
+        "query": "Is there a change with my flight schedule again???",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.7192961
+    },
+    {
+        "query": "Hey, has cuba opened up their borders?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "small_talk",
+        "score": 0.9305131
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "arerez",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "thanks",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hello, this is selin. Can you help me with a question please?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hi, need help finding luggage",
+        "intent": "flight_question",
+        "score": 0.60586214
+    },
+    {
+        "query": "Thank u \ud83d\ude0a",
+        "intent": "flight_end_conversation",
+        "score": 0.45761856
+    },
+    {
+        "query": "\u0645\u0645\u0643\u0646 \u0633\u0624\u0627\u0644",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\u0645\u0633\u0627\u0621 \u0627\u0644\u062e\u064a\u0631",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hi, is there a flight to Berlin and do we need to do a corona test before?",
+        "intent": "flight_corona",
+        "score": 0.5351048
+    },
+    {
+        "query": "\ud83c\udf0d Choose Language",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": "Is the code working? I want to book my Ibizaaa flight?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "I wish this trip still existed! \ud83d\ude2b\ud83d\ude2b\ud83d\ude2b",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Can we still fly to Japan from NL as a tourist?",
+        "intent": "flight_question",
+        "score": 0.48063278
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": "seriously - your support is getting worse..",
+        "intent": "flight_booking_information_delay",
+        "score": 0.46146658
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": "What am I doing wrong?",
+        "intent": "small_talk",
+        "score": 0.8937836
+    },
+    {
+        "query": "I just saw a promotion to travel to Ibiza",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hello!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hello!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "well this time it didn't seem so. Can I make an official complaint about this?",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.57086265
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Here's the info",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "hi there",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Thanks was helpful",
+        "intent": "flight_food_experience_review",
+        "score": 0.5503925
+    },
+    {
+        "query": "Do you fly to Dubai now?",
+        "intent": "flight_question",
+        "score": 0.5697708
+    },
+    {
+        "query": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc Talk to a Human",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd1a\ud83c\udffbCarry-On Baggage",
+        "intent": "flight_baggage",
+        "score": 0.77737886
+    },
+    {
+        "query": "\ud83e\uddf3Baggage Question",
+        "intent": "flight_baggage_lost",
+        "score": 0.6370402
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffb Start Over",
+        "intent": "small_talk",
+        "score": 0.954037
+    },
+    {
+        "query": "I want HUMANS! ",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Great work!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hi there!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "\ud83e\udd13Booking Question",
+        "intent": "small_talk",
+        "score": 0.94258314
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Neen hoor ik typ ",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "vraag",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hallo",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffbStart Over",
+        "intent": "small_talk",
+        "score": 0.89892757
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "\ud83c\uddf3\ud83c\uddf1 Dutch",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Get Started",
+        "intent": "flight_booking_information_delay",
+        "score": 0.49773383
+    },
+    {
+        "query": "October 3rd",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Thanks! It's ABC123",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13Booking Question",
+        "intent": "small_talk",
+        "score": 0.94258314
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffbStart Over",
+        "intent": "small_talk",
+        "score": 0.89892757
+    },
+    {
+        "query": "Hey do you fly to the us now?",
+        "intent": "flight_question",
+        "score": 0.4483106
+    },
+    {
+        "query": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTalk to a Human",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd1a\ud83c\udffbCarry-On Baggage",
+        "intent": "flight_baggage",
+        "score": 0.77737886
+    },
+    {
+        "query": "\ud83e\uddf3Baggage Question",
+        "intent": "flight_baggage_lost",
+        "score": 0.6370402
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Get Started",
+        "intent": "flight_booking_information_delay",
+        "score": 0.49773383
+    },
+    {
+        "query": "\ud83e\udd1a\ud83c\udffbCarry-On Baggage",
+        "intent": "flight_baggage",
+        "score": 0.77737886
+    },
+    {
+        "query": "\ud83e\uddf3Baggage Question",
+        "intent": "flight_baggage_lost",
+        "score": 0.6370402
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Get Started",
+        "intent": "flight_booking_information_delay",
+        "score": 0.49773383
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffbStart Over",
+        "intent": "small_talk",
+        "score": 0.89892757
+    },
+    {
+        "query": "\ud83e\udd1a\ud83c\udffbCarry-On Baggage",
+        "intent": "flight_baggage",
+        "score": 0.77737886
+    },
+    {
+        "query": "\ud83e\uddf3Baggage Question",
+        "intent": "flight_baggage_lost",
+        "score": 0.6370402
+    },
+    {
+        "query": "are you there??",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Nevermind",
+        "intent": "small_talk",
+        "score": 0.887951
+    },
+    {
+        "query": "Can you help me",
+        "intent": "flight_question",
+        "score": 1
+    },
+    {
+        "query": "Hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "@_claralines Hey tes",
+        "intent": "small_talk",
+        "score": 0.7829415
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "\u0645\u0631\u062d\u0628\u0627 \u0643\u064a\u0641 \u0627\u0644\u062d\u0627\u0644",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Do you fly to Japan?",
+        "intent": "flight_question",
+        "score": 0.58236843
+    },
+    {
+        "query": "ClaraSun",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13Booking Question",
+        "intent": "small_talk",
+        "score": 0.94258314
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffbStart Over",
+        "intent": "small_talk",
+        "score": 0.89892757
+    },
+    {
+        "query": "Have you started to fly internationally or are the flights still domestic ones?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "I didn't hear back from you",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Do you fly to Japan?",
+        "intent": "flight_question",
+        "score": 0.58236843
+    },
+    {
+        "query": "Can someone help?",
+        "intent": "flight_question",
+        "score": 0.6984569
+    },
+    {
+        "query": "Hello, I need to book a flight to New York",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "1111",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hello, I need some help finding a lsot bag",
+        "intent": "flight_question",
+        "score": 0.6835768
+    },
+    {
+        "query": "\ud83e\udd13Booking Question",
+        "intent": "small_talk",
+        "score": 0.94258314
+    },
+    {
+        "query": "Hey, can you help. me?",
+        "intent": "flight_question",
+        "score": 1
+    },
+    {
+        "query": "Do you fly to Namibia?",
+        "intent": "flight_question",
+        "score": 0.58236843
+    },
+    {
+        "query": "Hi! I need your help. ",
+        "intent": "flight_question",
+        "score": 0.71491396
+    },
+    {
+        "query": "Contact Agent \ud83e\udd13",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Support in English \ud83c\uddec\ud83c\udde7",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13Booking Question",
+        "intent": "small_talk",
+        "score": 0.94258314
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Nice",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Oelalala _claralines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Meeee!! I will be travelling with @_claralines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hey",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "OK, look forward to hearing from you",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcHuman Agent",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hi Claralines, I need help with my booking.",
+        "intent": "flight_question",
+        "score": 0.74894184
+    },
+    {
+        "query": "yooo whaddup! my flight booking failed?",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.53418374
+    },
+    {
+        "query": "I have another question- can you help?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\uddf3Checked Baggage",
+        "intent": "flight_baggage_lost",
+        "score": 0.65266746
+    },
+    {
+        "query": "\ud83e\uddf3Baggage Question",
+        "intent": "flight_baggage_lost",
+        "score": 0.6370402
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffbStart Over",
+        "intent": "small_talk",
+        "score": 0.89892757
+    },
+    {
+        "query": "Can you help me with my ticket please, urgently",
+        "intent": "flight_ticket_cancel",
+        "score": 0.4799818
+    },
+    {
+        "query": "Helleuuw??",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Talk to Human",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13Booking Question",
+        "intent": "small_talk",
+        "score": 0.94258314
+    },
+    {
+        "query": "Hi!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "It is, thanks for your help. Any new deals?",
+        "intent": "flight_end_conversation",
+        "score": 0.44148785
+    },
+    {
+        "query": "I take that as a no?",
+        "intent": "small_talk",
+        "score": 0.84907466
+    },
+    {
+        "query": "Hi really need some help from you guys!",
+        "intent": "flight_question",
+        "score": 0.8281985
+    },
+    {
+        "query": "Hello really need some help!",
+        "intent": "flight_question",
+        "score": 0.8281985
+    },
+    {
+        "query": "Get Started",
+        "intent": "flight_booking_information_delay",
+        "score": 0.49773383
+    },
+    {
+        "query": "Hello I need some help",
+        "intent": "flight_question",
+        "score": 0.8002132
+    },
+    {
+        "query": "Support in English \ud83c\uddec\ud83c\udde7",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hi. Are you allowing people to sit in the middle?",
+        "intent": "flight_pets",
+        "score": 0.40224427
+    },
+    {
+        "query": "\u23ce Go Back",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcTransfer",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbcHuman Agent",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Support in English \ud83c\uddec\ud83c\udde7",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13Booking Question",
+        "intent": "small_talk",
+        "score": 0.94258314
+    },
+    {
+        "query": "great",
+        "intent": "flight_food_experience_review",
+        "score": 0.62179714
+    },
+    {
+        "query": "Do you fly to Cuba?",
+        "intent": "flight_question",
+        "score": 0.58236843
+    },
+    {
+        "query": "Hi Claralines - any new flight deals?",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.4568666
+    },
+    {
+        "query": "1234",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Support in English \ud83c\uddec\ud83c\udde7",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "this me Rifas",
+        "intent": "flight_question",
+        "score": 0.4577209
+    },
+    {
+        "query": "hi",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "I would love to go to Figi \ud83d\ude0d",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "New Booking",
+        "intent": "flight_booking_information_delay",
+        "score": 0.60572785
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13Booking Question",
+        "intent": "small_talk",
+        "score": 0.94258314
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hello I need help",
+        "intent": "flight_question",
+        "score": 1
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffbStart Over",
+        "intent": "small_talk",
+        "score": 0.89892757
+    },
+    {
+        "query": "\ud83e\udd1a\ud83c\udffbCarry-On Baggage",
+        "intent": "flight_baggage",
+        "score": 0.77737886
+    },
+    {
+        "query": "\ud83e\uddf3Baggage Question",
+        "intent": "flight_baggage_lost",
+        "score": 0.6370402
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffbStart Over",
+        "intent": "small_talk",
+        "score": 0.89892757
+    },
+    {
+        "query": "hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "\ud83e\udd13Booking Question",
+        "intent": "small_talk",
+        "score": 0.94258314
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Get Started",
+        "intent": "flight_booking_information_delay",
+        "score": 0.49773383
+    },
+    {
+        "query": "Hi, is this offer still available?? Really need to getaway during this pandemic",
+        "intent": "flight_question",
+        "score": 0.45699224
+    },
+    {
+        "query": "Fast response",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "And hope the weather is good there in August",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "@_claralines has this status changed? You guys should really onboard to star member group!",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Do you fly to Milan as well?",
+        "intent": "flight_question",
+        "score": 0.58236843
+    },
+    {
+        "query": "Are you. there?",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hey there!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Do you fly to Singapore directly?",
+        "intent": "flight_question",
+        "score": 0.58236843
+    },
+    {
+        "query": "Hi again",
+        "intent": "small_talk",
+        "score": 0.99546295
+    },
+    {
+        "query": "Hello!!!!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "No?",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Please! I am still waiting for a response",
+        "intent": "small_talk",
+        "score": 0.864128
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "\u0645\u0631\u062d\u0628\u0627",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hi",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13Booking Question",
+        "intent": "small_talk",
+        "score": 0.94258314
+    },
+    {
+        "query": "Hi Can you help me?",
+        "intent": "flight_question",
+        "score": 1
+    },
+    {
+        "query": "Are you the correct person to ask?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "What do you think?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "So my luggage did not appear but it might be due to the transfer?",
+        "intent": "flight_baggage_lost",
+        "score": 0.79038024
+    },
+    {
+        "query": "Hi",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Do you have direct flights to Kuwait?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": " https:\/\/twitter.com\/messages\/media\/1283117307821199364",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Can I please get some help? I really need to get back to Chicago!",
+        "intent": "flight_question",
+        "score": 0.7129211
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Hello hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "I was thinking August 22nd. ",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hi- I need to book a flight for August to Miami. ",
+        "intent": "small_talk",
+        "score": 0.7417596
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "help",
+        "intent": "flight_question",
+        "score": 0.7418101
+    },
+    {
+        "query": "info",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Get Started",
+        "intent": "flight_booking_information_delay",
+        "score": 0.49773383
+    },
+    {
+        "query": "3c",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "3c",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "3c",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "3c",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "2D",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "2d",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "2d",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "2d",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "2d",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "1b",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "1c",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "1c",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "1c",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "1c",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "Who can I reach out to over the weekend? I would like to know when I will be able to fly to Mozambique again.",
+        "intent": "flight_question",
+        "score": 0.472247
+    },
+    {
+        "query": null,
+        "intent": "to_short",
+        "score": 0
+    },
+    {
+        "query": "@clara_lines Is this still a valid promotion?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Thanks",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hello Claralines",
+        "intent": "small_talk",
+        "score": 0.91890144
+    },
+    {
+        "query": "my booking number is 345678",
+        "intent": "flight_number",
+        "score": 0.55337673
+    },
+    {
+        "query": "Hi Claralines I need help with my flight",
+        "intent": "flight_question",
+        "score": 0.7968638
+    },
+    {
+        "query": "2b",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "3 B",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "2 C",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "1 a",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hello Claralines, I need help with my booking.",
+        "intent": "flight_question",
+        "score": 0.74894184
+    },
+    {
+        "query": "Help! Crisis",
+        "intent": "flight_question",
+        "score": 0.7418101
+    },
+    {
+        "query": "COVID",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "1251595",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffbStart Over",
+        "intent": "small_talk",
+        "score": 0.89892757
+    },
+    {
+        "query": "\ud83e\uddf3Baggage Question",
+        "intent": "flight_baggage_lost",
+        "score": 0.6370402
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffbStart Over",
+        "intent": "small_talk",
+        "score": 0.89892757
+    },
+    {
+        "query": "Also, love how I can get connected through Whatsapp! \u2665\ufe0f",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "3c",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "3b",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "2d",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "2b",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "1a",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "1c",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "I have heard you don't support via whatsapp any more? Or why are you not getting back to me?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "I have a question regarding this live chat",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hi guys! Long time no speak",
+        "intent": "small_talk",
+        "score": 0.97819257
+    },
+    {
+        "query": "Awesome help",
+        "intent": "flight_question",
+        "score": 0.7418101
+    },
+    {
+        "query": "HOW LONG CAN SOMEONE WAIT?",
+        "intent": "small_talk",
+        "score": 0.6110465
+    },
+    {
+        "query": "Of spreken jullie ook Nederlands?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "I have a question with regards to these  buttons. Can I also talk to an agent?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Oops. I meant hello",
+        "intent": "small_talk",
+        "score": 0.97710437
+    },
+    {
+        "query": "Hell!",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Do we have to be at the airport 3 hours before now? it is just an EU flight",
+        "intent": "flight_question",
+        "score": 0.41629598
+    },
+    {
+        "query": "Is the check-in for hang luggage a must now?",
+        "intent": "flight_checkin",
+        "score": 0.7132823
+    },
+    {
+        "query": "Do you have flights from Amsterdam to Sweden?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "1c",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "1b",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "1b",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "1a",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hello I really need some help!",
+        "intent": "flight_question",
+        "score": 0.85906065
+    },
+    {
+        "query": "A",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "You*",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Thank tou",
+        "intent": "flight_end_conversation",
+        "score": 0.5190979
+    },
+    {
+        "query": "\ud83e\udd13Booking Question",
+        "intent": "small_talk",
+        "score": 0.94258314
+    },
+    {
+        "query": "Can you help me?",
+        "intent": "flight_question",
+        "score": 1
+    },
+    {
+        "query": "Hi Claralines, do you fly directly to Oman now?",
+        "intent": "flight_question",
+        "score": 0.5627799
+    },
+    {
+        "query": "Brilliant!",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hi there, I've forgotten what CSAT surveys look like, could you please remind me?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\uddf3Checked Baggage",
+        "intent": "flight_baggage_lost",
+        "score": 0.65266746
+    },
+    {
+        "query": "\ud83e\uddf3Baggage Question",
+        "intent": "flight_baggage_lost",
+        "score": 0.6370402
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd19\ud83c\udffbStart Over",
+        "intent": "small_talk",
+        "score": 0.89892757
+    },
+    {
+        "query": "Hi, do you know when flights to Portugal will resume?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Did you see my question?",
+        "intent": "small_talk",
+        "score": 0.9778466
+    },
+    {
+        "query": "Talk to Human",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13Booking Question",
+        "intent": "small_talk",
+        "score": 0.94258314
+    },
+    {
+        "query": "Hi can you help me please?",
+        "intent": "flight_question",
+        "score": 1
+    },
+    {
+        "query": "ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83e\udd13Booking Question",
+        "intent": "small_talk",
+        "score": 0.94258314
+    },
+    {
+        "query": "Did flights to Jeddah start?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "I'm angry with your service",
+        "intent": "flight_experience_review",
+        "score": 0.8752183
+    },
+    {
+        "query": "Change Booking",
+        "intent": "flight_ticket_booking_changes",
+        "score": 1
+    },
+    {
+        "query": "Are cats allowed in the cabin?",
+        "intent": "flight_pets",
+        "score": 0.7288886
+    },
+    {
+        "query": "The riyadh flight is canceled?",
+        "intent": "flight_canceled",
+        "score": 0.7832012
+    },
+    {
+        "query": "Can you check the flight to Riyadh please?",
+        "intent": "flight_checkin",
+        "score": 0.52083266
+    },
+    {
+        "query": "Hey there, I've lost my luggage.... I need it ASAP as I'm on holiday and have no clothes here..",
+        "intent": "flight_baggage_lost",
+        "score": 0.64515936
+    },
+    {
+        "query": "I need to rebook my flight from TX to FL",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.41407686
+    },
+    {
+        "query": "Hola Claralines, estoy intentando reservar en vuestra p\u00e1gina web pero no funciona!",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": "flight_canceled",
+        "score": 0.55182946
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "Hi Claralines, I'm trying to book a flight through your website but I can\u00b4t!",
+        "intent": "flight_ticket_online_problem",
+        "score": 0.6290864
+    },
+    {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": "flight_canceled",
+        "score": 0.55182946
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "Hi there, I haven't received my booking information??",
+        "intent": "flight_booking_information_delay",
+        "score": 0.69564044
+    },
+    {
+        "query": "Hey there, I still haven't received my booking information and I paid for my flight last week..",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.49619162
+    },
+    {
+        "query": "Are you still serving food on the flights?",
+        "intent": "flight_food_information",
+        "score": 1
+    },
+    {
+        "query": "What are the rules for flying with your dog? I would like to have him with me in the cabin",
+        "intent": "flight_question",
+        "score": 0.4000896
+    },
+    {
+        "query": "Hello! I have flights for next Sunday but I have to be in quarentine, how can I change them?",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.6475769
+    },
+    {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": "flight_canceled",
+        "score": 0.55182946
+    },
+    {
+        "query": "Hi Claralines - can you send me my refund for the previous flights cancellation? Thanks.",
+        "intent": "flight_canceled",
+        "score": 0.6716508
+    },
+    {
+        "query": "Delayed",
+        "intent": "flight_delays",
+        "score": 0.70570576
+    },
+    {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": "flight_canceled",
+        "score": 0.55182946
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "Change Booking",
+        "intent": "flight_ticket_booking_changes",
+        "score": 1
+    },
+    {
+        "query": "Hi Claralines. I wanted to cancel my upcoming flight. How do I do that?",
+        "intent": "flight_ticket_cancel",
+        "score": 0.64856184
+    },
+    {
+        "query": "Hello, I need help changing a flight!",
+        "intent": "flight_question",
+        "score": 0.6114755
+    },
+    {
+        "query": "\u23f0Delayed",
+        "intent": "flight_delays",
+        "score": 0.68264437
+    },
+    {
+        "query": "Pizza was okay",
+        "intent": "flight_food_experience_review",
+        "score": 0.5776512
+    },
+    {
+        "query": "Order is delayed but pizza was awesome!",
+        "intent": "flight_booking_information_delay",
+        "score": 0.5752028
+    },
+    {
+        "query": "My food came so delayed on the flight! I was starving..",
+        "intent": "flight_food_delayed",
+        "score": 0.6385592
+    },
+    {
+        "query": "can you fix the food on the flight its horrible!",
+        "intent": "flight_food_information",
+        "score": 0.568059
+    },
+    {
+        "query": "Change Booking",
+        "intent": "flight_ticket_booking_changes",
+        "score": 1
+    },
+    {
+        "query": "Beware, Claralines gave me such a difficult time with changing my flight time! Make sure you know before booking with them. ",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.7475384
+    },
+    {
+        "query": "The food on the plane was so bad!! \ud83d\ude1f",
+        "intent": "flight_food_experience_review",
+        "score": 0.71747035
+    },
+    {
+        "query": "Hi Claralines! I need to cancel my flight",
+        "intent": "flight_ticket_cancel",
+        "score": 0.69848233
+    },
+    {
+        "query": "Sorry I now need to change this to Miami!",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.5365867
+    },
+    {
+        "query": "Hi Claralines - your phone number has been unreachable every time ive tried to call. Can you help change my flight to Panama City? ",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.63685507
+    },
+    {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": "flight_canceled",
+        "score": 0.55182946
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "Hey \ud83d\udc4b my product smells bad",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": "flight_canceled",
+        "score": 0.55182946
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "\u23f0Delayed",
+        "intent": "flight_delays",
+        "score": 0.68264437
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": "flight_canceled",
+        "score": 0.55182946
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "Hi ClaraLines team! I just found out I am sitting next to someone on my flight to Boston. I find that unacceptable in these covid-19 times! I'd like to request a refund! \ud83d\ude21",
+        "intent": "flight_ticket_refunds",
+        "score": 0.50983214
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "Still trying to find my lost bag! Convinced your employees stole it at this point.",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc Human Agent",
+        "intent": "small_talk",
+        "score": 0.62084043
+    },
+    {
+        "query": "Hey! What kind of drinks do you offer onboard?",
+        "intent": "flight_food_information",
+        "score": 0.74262786
+    },
+    {
+        "query": "I want to cancel my flight!!!",
+        "intent": "flight_ticket_cancel",
+        "score": 0.7030428
+    },
+    {
+        "query": "I need help rebooking my flight",
+        "intent": "flight_question",
+        "score": 0.6898675
+    },
+    {
+        "query": "Are middle seats booked?",
+        "intent": "flight_seats",
+        "score": 0.70382935
+    },
+    {
+        "query": "Hello! I was just wondering about your refund policy regarding Covid ?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.63137317
+    },
+    {
+        "query": "Are you keeping the middle seats open??",
+        "intent": "flight_seats",
+        "score": 0.75570333
+    },
+    {
+        "query": "@clara_lines I just tested positive for covid_19. Can I get a refund if I can proof this with a medical statement from my doctor?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.69819725
+    },
+    {
+        "query": "hi! I'm hoping you can help me obtain a refund?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.6079368
+    },
+    {
+        "query": "Amazing, is this the VIP lounge area? \ud83e\udd29",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hi Claralines - i'm trying to rebook my flight through the website, but i'm getting an error message in the process. What should I do?",
+        "intent": "flight_ticket_online_problem",
+        "score": 0.52696633
+    },
+    {
+        "query": "Hi Claralines - i'm trying to rebook my flight through the website, but i'm getting an error message in the process. What should I do?",
+        "intent": "flight_ticket_online_problem",
+        "score": 0.52696633
+    },
+    {
+        "query": "Or should I just check the website?",
+        "intent": "flight_ticket_online_problem",
+        "score": 0.62058043
+    },
+    {
+        "query": "thanks - will I be notified if there are any further delays?",
+        "intent": "flight_delays",
+        "score": 0.6524466
+    },
+    {
+        "query": "\u23f0Delayed",
+        "intent": "flight_delays",
+        "score": 0.68264437
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "Hi! I still have not received the refund of my booking GHY5FD",
+        "intent": "flight_ticket_refunds",
+        "score": 0.5619165
+    },
+    {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.50336796
+    },
+    {
+        "query": "I'm trying to check in from the app but it isn't working.. \ud83d\ude2b",
+        "intent": "flight_checkin",
+        "score": 0.6467857
+    },
+    {
+        "query": "I can't believe it",
+        "intent": "flight_ticket_online_problem",
+        "score": 0.521912
+    },
+    {
+        "query": "I would like to make a complaint! My seat was soooo dirty I was disgusted",
+        "intent": "flight_seats",
+        "score": 0.54877263
+    },
+    {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.50336796
+    },
+    {
+        "query": "Do you offer discounts for students?",
+        "intent": "flight_ticket_discount",
+        "score": 0.76772654
+    },
+    {
+        "query": "I am having issues with your online booking system \ud83d\ude48",
+        "intent": "flight_ticket_booking",
+        "score": 0.5506502
+    },
+    {
+        "query": "Hey there! Cool! Yes. Seems you have promotions going on but i was curious if there will be black friday sales?",
+        "intent": "flight_food_experience_review",
+        "score": 0.4046383
+    },
+    {
+        "query": "Could someone please help me out with my request to cancel my flight?",
+        "intent": "flight_ticket_cancel",
+        "score": 0.7008419
+    },
+    {
+        "query": "Contact Agent \ud83e\udd13",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "I still didn't receive my refund from my summer holiday that got cancelled? What's going on?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.5861206
+    },
+    {
+        "query": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc Human Agent",
+        "intent": "small_talk",
+        "score": 0.62084043
+    },
+    {
+        "query": "I saw on your page discounts for ski trips during Christmas break?",
+        "intent": "flight_ticket_discount",
+        "score": 0.7780202
+    },
+    {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.50336796
+    },
+    {
+        "query": "Please help",
+        "intent": "flight_question",
+        "score": 0.7168394
+    },
+    {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.50336796
+    },
+    {
+        "query": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc Human Agent",
+        "intent": "small_talk",
+        "score": 0.62084043
+    },
+    {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.50336796
+    },
+    {
+        "query": "Hello, what's the status of my refund?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.7505245
+    },
+    {
+        "query": "any thanksgiving discounts?",
+        "intent": "flight_ticket_discount",
+        "score": 0.77916324
+    },
+    {
+        "query": "Hey please help me",
+        "intent": "flight_question",
+        "score": 0.7110594
+    },
+    {
+        "query": "\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc Human Agent",
+        "intent": "small_talk",
+        "score": 0.62084043
+    },
+    {
+        "query": "Hello I really need help and you have been avoiding me in every channel!",
+        "intent": "flight_question",
+        "score": 0.83203965
+    },
+    {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.50336796
+    },
+    {
+        "query": "\ud83e\uddf3Checked Baggage",
+        "intent": "flight_baggage_lost",
+        "score": 0.65266746
+    },
+    {
+        "query": "I need a refund asap!",
+        "intent": "flight_ticket_refunds",
+        "score": 0.81851417
+    },
+    {
+        "query": "I want to cancel my flight!!",
+        "intent": "flight_ticket_cancel",
+        "score": 0.7030428
+    },
+    {
+        "query": "I want to cancel my fight",
+        "intent": "flight_ticket_cancel",
+        "score": 0.63273853
+    },
+    {
+        "query": "Ik wil graag mijn vlucht cancellen!",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "I would like to rebook my flight!",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.4498322
+    },
+    {
+        "query": "Need help quickly! I want to upgrade my seat with my Clarapoints.",
+        "intent": "flight_reservation_upgrade",
+        "score": 0.722528
+    },
+    {
+        "query": "I want to cancel my flight for next year already",
+        "intent": "flight_ticket_cancel",
+        "score": 0.6932548
+    },
+    {
+        "query": "I need a refund",
+        "intent": "flight_ticket_refunds",
+        "score": 0.81851417
+    },
+    {
+        "query": "Do you have new corona measures?",
+        "intent": "flight_corona",
+        "score": 0.7683831
+    },
+    {
+        "query": "Hi. I need to cancel my flight",
+        "intent": "flight_ticket_cancel",
+        "score": 0.69848233
+    },
+    {
+        "query": "Hi- I need to cancel my flight",
+        "intent": "flight_ticket_cancel",
+        "score": 0.69848233
+    },
+    {
+        "query": "I should have gotten more advanced notice on its cancellation",
+        "intent": "flight_canceled",
+        "score": 0.7513786
+    },
+    {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.50336796
+    },
+    {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.50336796
+    },
+    {
+        "query": "I need urgent help with my delayed flight",
+        "intent": "flight_delays",
+        "score": 0.6359384
+    },
+    {
+        "query": "I like the new plane! \u2708\ufe0f",
+        "intent": "small_talk",
+        "score": 0.66318285
+    },
+    {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.50336796
+    },
+    {
+        "query": "\ud83e\uddf3Checked Baggage",
+        "intent": "flight_baggage_lost",
+        "score": 0.65266746
+    },
+    {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": "flight_canceled",
+        "score": 0.55182946
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "Unbelievable. That's not right. I never got a voicemail. Well whatever, I'll go get my luggage now.",
+        "intent": "flight_baggage_lost",
+        "score": 0.6336813
+    },
+    {
+        "query": "Hello, my luggage is still lost! Can someone help!",
+        "intent": "flight_baggage_lost",
+        "score": 0.7299577
+    },
+    {
+        "query": "Change Booking",
+        "intent": "flight_ticket_booking_changes",
+        "score": 1
+    },
+    {
+        "query": "Why isn't hand luggage allowed? I don't like the attitude of your colleagues at the check-in desk. They didn't help one bit! \u2639\ufe0f",
+        "intent": "flight_checkin",
+        "score": 0.44468078
+    },
+    {
+        "query": "Salve, ho bisogno di aiuto per il mio volo per Portorico. \u00c8 cancellato e ho bisogno di un rimborso. Sono cos\u00ec delusa che non ricevo risposta.",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hi Claralines is my flight delayed?",
+        "intent": "flight_delays",
+        "score": 0.8086585
+    },
+    {
+        "query": "Hi, I purchased a plane ticket on 10\/2 that also had a rental car booking included. I can't find a confirmation of that rental car booking anywhere! Can you verify?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Everything with the flight was great but what happened to the food served???",
+        "intent": "flight_food_experience_review",
+        "score": 0.5471685
+    },
+    {
+        "query": "Hellloooo! Good morning. Any updates on this? ",
+        "intent": "small_talk",
+        "score": 0.63346505
+    },
+    {
+        "query": "But the promo code is not working?",
+        "intent": "flight_ticket_online_problem",
+        "score": 0.4404056
+    },
+    {
+        "query": "Hello Claralines - I just flew you from DC to Siberia and I have to say, the flight was a pleasure. How can I leave a review of my experience?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hey there! \ud83d\udc4b I have an issue with my Claralines ticket. Can you help?",
+        "intent": "flight_question",
+        "score": 0.49116322
+    },
+    {
+        "query": "OK! I'm stuck at Zurich airport :-( ",
+        "intent": "small_talk",
+        "score": 0.6417218
+    },
+    {
+        "query": "Hello, urgently need help. I need to cancel my flight due to COVID related issues. How can I get a refund?",
+        "intent": "flight_question",
+        "score": 0.58827627
+    },
+    {
+        "query": "Hi there, I want to cancel my flight",
+        "intent": "flight_ticket_cancel",
+        "score": 0.69425124
+    },
+    {
+        "query": "Hi! How can I get a refund for my cancelled flight?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.7933122
+    },
+    {
+        "query": "Hi! How can I get a refund for my cancelled flight?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.7933122
+    },
+    {
+        "query": "Hi! How can I get a refund for my cancelled flight?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.7933122
+    },
+    {
+        "query": "I would like to complain about the seats on the flight. They were so dirty! Don't you clean the plane before flying new people?",
+        "intent": "flight_seats",
+        "score": 0.47510022
+    },
+    {
+        "query": "Wow! Great!!!",
+        "intent": "flight_food_experience_review",
+        "score": 0.61016315
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "This was no help at all! Please let me know how I can get my luggage back! \ud83d\ude20",
+        "intent": "flight_baggage_lost",
+        "score": 0.53710955
+    },
+    {
+        "query": "Hello, my luggage was lost on my flight to Paris. Can you please help me?",
+        "intent": "flight_baggage_lost",
+        "score": 0.5521914
+    },
+    {
+        "query": "Hello, my luggage was lost on my flight to Paris. Can you please help me?",
+        "intent": "flight_baggage_lost",
+        "score": 0.5521914
+    },
+    {
+        "query": "Hello, my luggage was lost on my flight to Paris. Can you please help me?",
+        "intent": "flight_baggage_lost",
+        "score": 0.5521914
+    },
+    {
+        "query": "THIS IS HORRIBLE! I can't wait forever and you keep sending me CSAT surveys!!! \ud83d\ude20",
+        "intent": "flight_food_experience_review",
+        "score": 0.40407056
+    },
+    {
+        "query": "Your app is not working! I cannot access my reservation for whatever reason",
+        "intent": "flight_ticket_online_problem",
+        "score": 0.5768093
+    },
+    {
+        "query": "Hello? I have not received my refund!",
+        "intent": "flight_ticket_refunds",
+        "score": 0.7599183
+    },
+    {
+        "query": "Change Booking",
+        "intent": "flight_ticket_booking_changes",
+        "score": 1
+    },
+    {
+        "query": "Hi Claraline- my flight is delayed. help!",
+        "intent": "flight_delays",
+        "score": 0.6267271
+    },
+    {
+        "query": "Hey, I've been trying on hold for over an hour and no one has been able to help me. I'm having trouble making online changes to my flights!",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hello, my luggage was lost in Chicago. Who can help me with this?",
+        "intent": "flight_baggage_lost",
+        "score": 0.65182304
+    },
+    {
+        "query": "Hello, it's me again! My flight was canceled and I'm awaiting a refund. Can an agent contact me direct?",
+        "intent": "flight_canceled",
+        "score": 0.6261062
+    },
+    {
+        "query": "Out of Austin, TX. My bag got lost on the Houston leg I believe",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hello. I am waiting for an update on flight 71616?",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.6123628
+    },
+    {
+        "query": "Sorry, but I want to speak to an agent now?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Claralines I am SO angry!!",
+        "intent": "small_talk",
+        "score": 0.9575773
+    },
+    {
+        "query": "I need to change my flight for Friday afternoon. Confirmation number 454GFC",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.59463716
+    },
+    {
+        "query": "Hello! Could I PLEASE get an update on my tickets issue (40048336621 case number)",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.40392202
+    },
+    {
+        "query": "Hey Claralines, any update on this?",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.7209775
+    },
+    {
+        "query": "I've been having a problem with my transport. can someone help?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": "flight_canceled",
+        "score": 0.55182946
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "Hi! I need to rebook my flight to Miami. ",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.4058829
+    },
+    {
+        "query": "Hello, I still need help! I lost my carry on on the last flight!",
+        "intent": "flight_question",
+        "score": 0.5502014
+    },
+    {
+        "query": "Hello Claralines - I have still not received my Nice refund. Whats the status with this?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.6539448
+    },
+    {
+        "query": "Can you check my delay please",
+        "intent": "flight_checkin",
+        "score": 0.65375274
+    },
+    {
+        "query": "I have a delay",
+        "intent": "flight_delays",
+        "score": 0.6814834
+    },
+    {
+        "query": "I want to change my order",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.5265829
+    },
+    {
+        "query": "Hi! I'm currently in Brussels and my luggage is lost! Help.",
+        "intent": "flight_baggage_lost",
+        "score": 0.6852664
+    },
+    {
+        "query": "Hello I have had some issues with a cancelled flight!",
+        "intent": "flight_canceled",
+        "score": 0.4336249
+    },
+    {
+        "query": "This is a test message from the Facebook team. Please respond from your app within 2 days to confirm that the integration is functioning.",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "This is a test message from the Facebook team. Please respond from your app within 2 days to confirm that the integration is functioning.",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "This is a test message from the Facebook team. Please respond from your app within 2 days to confirm that the integration is functioning.",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "This is a test message from the Facebook team. Please respond from your app within 2 days to confirm that the integration is functioning.",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Delay",
+        "intent": "flight_delays",
+        "score": 0.73470134
+    },
+    {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": "flight_canceled",
+        "score": 0.55182946
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "Hi Claralines, looking forward to flying with you again soon!",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "I would like to formally escalate my refund request and talk to a line manager, please!",
+        "intent": "flight_ticket_refunds",
+        "score": 0.62704945
+    },
+    {
+        "query": "That's unfortunate...I am still waiting for my refund and have not heard back from customer service in over 2 weeks!",
+        "intent": "flight_experience_review",
+        "score": 0.6549426
+    },
+    {
+        "query": "Hello my luggage was lost on my last flight! Really need some guidance on getting it back!",
+        "intent": "flight_baggage_lost",
+        "score": 0.60735047
+    },
+    {
+        "query": "I am angry with how you have handled my case. Everything is lost and gone..",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.50336796
+    },
+    {
+        "query": "Change Booking",
+        "intent": "flight_ticket_booking_changes",
+        "score": 1
+    },
+    {
+        "query": "Change Booking",
+        "intent": "flight_ticket_booking_changes",
+        "score": 1
+    },
+    {
+        "query": "I am stuck at Brussels",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Can you please help me get on the 9 pm flight?",
+        "intent": "flight_question",
+        "score": 0.6052606
+    },
+    {
+        "query": "I was charged for an extra bag and need it removed please.",
+        "intent": "flight_question",
+        "score": 0.517419
+    },
+    {
+        "query": "Hello, I was charged incorrectly",
+        "intent": "flight_food_experience_review",
+        "score": 0.56601566
+    },
+    {
+        "query": "Hello I was charged incorrectly",
+        "intent": "flight_food_experience_review",
+        "score": 0.56601566
+    },
+    {
+        "query": "My flight was cancelled, I need some assistance please",
+        "intent": "flight_question",
+        "score": 0.5493542
+    },
+    {
+        "query": null,
+        "intent": "to_long",
+        "score": 0
+    },
+    {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.50336796
+    },
+    {
+        "query": "Irresponsible to be pushing sales when you canceled my flight and didn't give me a refund!!",
+        "intent": "flight_canceled",
+        "score": 0.64222205
+    },
+    {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": "flight_canceled",
+        "score": 0.55182946
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "Hi! I am still stuck in Krakau' help please",
+        "intent": "flight_question",
+        "score": 0.53948915
+    },
+    {
+        "query": "My checked baggage was missing. Help!",
+        "intent": "flight_baggage_lost",
+        "score": 0.5701684
+    },
+    {
+        "query": "This sucked ",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "I need help rebooking my flight!",
+        "intent": "flight_question",
+        "score": 0.6898675
+    },
+    {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": "flight_canceled",
+        "score": 0.55182946
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "I need to rebook my flight. ASAP",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.4537414
+    },
+    {
+        "query": "Hello my flight was cancelled and I'm stuck!",
+        "intent": "flight_canceled",
+        "score": 0.44131464
+    },
+    {
+        "query": "Hello my flight was cancelled and I'm stuck!",
+        "intent": "flight_canceled",
+        "score": 0.44131464
+    },
+    {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": "flight_canceled",
+        "score": 0.55182946
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "I'm having a hard time finding the information on your website... Where do I find how to get a refund for my cancelled flights due to the COVID Crisis?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.6184429
+    },
+    {
+        "query": "I'm currently delayed in Frankfurt",
+        "intent": "flight_delays",
+        "score": 0.62091255
+    },
+    {
+        "query": "So unbelievable that my flight was cancelled! This bot sucks.",
+        "intent": "flight_canceled",
+        "score": 0.42340693
+    },
+    {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": "flight_canceled",
+        "score": 0.55182946
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "Hello! I love flying with ClaraLines",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hello! Can you please help me? I don't know where I am. Do you?",
+        "intent": "flight_question",
+        "score": 0.53021795
+    },
+    {
+        "query": "Hello Claralines, I need some help about the cancellation of my booking",
+        "intent": "flight_question",
+        "score": 0.6546159
+    },
+    {
+        "query": "Hello, can you find my flight that was canceled a month ago? I would like to check if I can get a refund.",
+        "intent": "flight_ticket_refunds",
+        "score": 0.561188
+    },
+    {
+        "query": "Hey. Thanks for being so flexible with changing my flight. when do I get credit?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": "flight_canceled",
+        "score": 0.55182946
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.50336796
+    },
+    {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": "flight_canceled",
+        "score": 0.55182946
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "My ticket still did not get refunded! How is this possible?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.6679455
+    },
+    {
+        "query": "Hi there, can you please help me?",
+        "intent": "flight_question",
+        "score": 0.7110594
+    },
+    {
+        "query": "\u23f0Delayed",
+        "intent": "flight_delays",
+        "score": 0.68264437
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "Yes! My flight got cancelled and now I am stuck and I can't return!",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "This is ridiculous!!! I have been trying to reach out to you about this issue for the past few days! I am absolutely infuriated with how poor your customer service has been! I need to get back to chicago!",
+        "intent": "flight_experience_review",
+        "score": 0.54787284
+    },
+    {
+        "query": "Change Booking",
+        "intent": "flight_ticket_booking_changes",
+        "score": 1
+    },
+    {
+        "query": "Hey! Help. I need to cancel my flight due to COVID",
+        "intent": "flight_question",
+        "score": 0.6431482
+    },
+    {
+        "query": "Please help...",
+        "intent": "flight_question",
+        "score": 0.7168394
+    },
+    {
+        "query": "Hi Claralines, when should I expect my refund?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.7858607
+    },
+    {
+        "query": "Hi. I need to cancel my flight- will I be charged a cancel or change fee?",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.47411972
+    },
+    {
+        "query": "\u23f0Delayed",
+        "intent": "flight_delays",
+        "score": 0.68264437
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "Hello, I have a question about my cancelled flight",
+        "intent": "small_talk",
+        "score": 0.7374417
+    },
+    {
+        "query": "Hey can I get some help? Delayed indefinitely in Nassau!",
+        "intent": "flight_delays",
+        "score": 0.49391907
+    },
+    {
+        "query": "Hello Claralines, there is a delay in my flight, could you help me with that?",
+        "intent": "flight_question",
+        "score": 0.5976802
+    },
+    {
+        "query": "Hello, I would like to get information about my refund. I have not receive it until now.",
+        "intent": "flight_ticket_refunds",
+        "score": 0.68522185
+    },
+    {
+        "query": "Need to cancel my flight urgently!",
+        "intent": "flight_ticket_cancel",
+        "score": 0.75938267
+    },
+    {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.50336796
+    },
+    {
+        "query": "Could I get some help cancelling my flight?",
+        "intent": "flight_canceled",
+        "score": 0.48628393
+    },
+    {
+        "query": "Could I get some assistance cancelling my flight, please?",
+        "intent": "flight_canceled",
+        "score": 0.4805628
+    },
+    {
+        "query": "Hello! Can you please check my ticket? There's a visual issue with it. ",
+        "intent": "flight_checkin",
+        "score": 0.5772872
+    },
+    {
+        "query": "I need to cancel my flight ASAP, please can you help????\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+        "intent": "flight_ticket_cancel",
+        "score": 0.63532054
+    },
+    {
+        "query": "Hey, I was thinking about cancelling my flight to Korea on May in case the COVID-19 situation gets extended. Whats your latest cancellation policy?",
+        "intent": "flight_canceled",
+        "score": 0.5458827
+    },
+    {
+        "query": "Hey threre, whats your latest Refunds\/ Cancellations policy in regards to COVID-19?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.5630311
+    },
+    {
+        "query": "Hey there, I was wondering if you are giving refunds for flights happening after April? I am not sure if cancelling my trip in May due to the COVID-19 situation....",
+        "intent": "flight_ticket_refunds",
+        "score": 0.5551827
+    },
+    {
+        "query": "Hi Claralines, are all flights canceled now?",
+        "intent": "flight_canceled",
+        "score": 0.77462465
+    },
+    {
+        "query": "Hi Claralines, I still haven't had the money from the flight refund reimbursed into my account. Whats the hold up?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.58768076
+    },
+    {
+        "query": "cancel booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.50336796
+    },
+    {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.50336796
+    },
+    {
+        "query": "And if it will be cancelled, will get a cancellation fee similar to what GoAir does? Thanks!",
+        "intent": "flight_canceled",
+        "score": 0.733564
+    },
+    {
+        "query": "Hi guys! Is my flight still scheduled or will it be cancelled due to the Corona virus? Thanks!",
+        "intent": "flight_corona",
+        "score": 0.5950746
+    },
+    {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.50336796
+    },
+    {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.50336796
+    },
+    {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": "flight_canceled",
+        "score": 0.55182946
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "My flight number is 3246 and I wan to cancel my trip to NYC.",
+        "intent": "flight_number",
+        "score": 0.58106565
+    },
+    {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": "flight_canceled",
+        "score": 0.55182946
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "Please help",
+        "intent": "flight_question",
+        "score": 0.7168394
+    },
+    {
+        "query": "\u23f0Delayed",
+        "intent": "flight_delays",
+        "score": 0.68264437
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "My flight got canceled due to coronavirus! Where can I get my refund?",
+        "intent": "flight_canceled",
+        "score": 0.69878936
+    },
+    {
+        "query": "Change Booking",
+        "intent": "flight_ticket_booking_changes",
+        "score": 1
+    },
+    {
+        "query": "Change Booking",
+        "intent": "flight_ticket_booking_changes",
+        "score": 1
+    },
+    {
+        "query": "Hello my flight was delayed. Need some help.",
+        "intent": "flight_question",
+        "score": 0.6505532
+    },
+    {
+        "query": "RT @clara_lines: Don't miss out on a trip to the Caribbean! Enter our new contest below and you could be 1 of 3 winners who gets a free flight.",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hi, can you help me find my bags please??",
+        "intent": "flight_question",
+        "score": 0.64334834
+    },
+    {
+        "query": "Hi there is a delay in my flight!",
+        "intent": "flight_delays",
+        "score": 0.6658196
+    },
+    {
+        "query": "Are there discounted flights to Aruba this week?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Hi. I'm stuck at Vienna airport. There is no one who can help me? What do I do?",
+        "intent": "flight_question",
+        "score": 0.6659204
+    },
+    {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": "flight_canceled",
+        "score": 0.55182946
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.50336796
+    },
+    {
+        "query": "I missed my flight to brussels. Any flights from Tokyo to Brussels today?",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Claralines, I called to complain about my lost luggage last week and still haven't heard back from you. Help?",
+        "intent": "flight_baggage_lost",
+        "score": 0.6443829
+    },
+    {
+        "query": "Is it possible to change my ticket to Tokyo?",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.7760661
+    },
+    {
+        "query": "Hi! My flight from London to Brussels is delayed. Is this due to the storm? ",
+        "intent": "flight_delays",
+        "score": 0.6414866
+    },
+    {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.50336796
+    },
+    {
+        "query": "Hi,",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hi there! I'm UNSATISFIED!!! I WAS ON YOUR FLIGHT AND THE WIND WAS TOO LOUD. ",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Are you able to help me modify a reservation here?",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.6985808
+    },
+    {
+        "query": "I'd like to change the date. Thank you.",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.5168409
+    },
+    {
+        "query": "Change Booking",
+        "intent": "flight_ticket_booking_changes",
+        "score": 1
+    },
+    {
+        "query": "Change Booking",
+        "intent": "flight_ticket_booking_changes",
+        "score": 1
+    },
+    {
+        "query": null,
+        "intent": "to_long",
+        "score": 0
+    },
+    {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.6584799
+    },
+    {
+        "query": "Dear Claralines, I can't believe how fast you respond. Just wanted to let you know you all rock!! \u2764",
+        "intent": "not_found",
+        "score": 0
+    },
+    {
+        "query": "Did the flight get delayed?",
+        "intent": "flight_delays",
+        "score": 0.6497585
+    },
+    {
+        "query": "Change Booking",
+        "intent": "flight_ticket_booking_changes",
+        "score": 1
+    },
+    {
+        "query": "Can someone help me please? I'm trying to book a flight",
+        "intent": "small_talk",
+        "score": 0.78987443
+    },
+    {
+        "query": "Hi ClaraLines - I still haven't heard back about my lost baggage. I'm starting to get really worried!",
+        "intent": "flight_baggage_lost",
+        "score": 0.5139253
+    }
+]
