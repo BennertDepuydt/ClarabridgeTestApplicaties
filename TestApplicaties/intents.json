@@ -1,0 +1,262 @@
+[
+  {
+    "intent": "flight_end_conversation",
+    "example_phrases": [
+      "Thank you for helping me",
+      "Thank your for your help"
+    ]
+  },
+  {
+    "intent": "flight_ticket_booking",
+    "example_phrases": [
+      "I want to order a ticket for Spain.",
+      "I want to buy a ticket for Belgium.",
+      "How do the booking system work?",
+      "Can I get a ticket for France?",
+      "Find destination flights France"
+    ]
+  },
+  {
+    "intent": "flight_ticket_booking_changes",
+    "example_phrases": [
+      "Can i change my flight?",
+      "Is there a possibility to change my flight?",
+      "Is it possible to change my flight?",
+      "Is it possible shift my flight?",
+      "Is it possible to reform my flight?",
+      "change booking",
+      "change ticket"
+    ]
+  },
+  {
+    "intent": "flight_ticket_online_problem",
+    "example_phrases": [
+      "I can't a ticket on the website.",
+      "The website is not working.",
+      "I can't order a ticket online.",
+      "Need help ordering online.",
+      "I can't get a ticket online."
+    ]
+  },
+  {
+    "intent": "flight_ticket_cancel",
+    "example_phrases": [
+      "I want to cancel my ticket.",
+      "Can i cancel my ticket?",
+      "Is it possible to cancel my flight?",
+      "Can i revoke my ticket?",
+      "Can i annul my ticket?"
+    ]
+  },
+  {
+    "intent": "flight_pets",
+    "example_phrases": [
+      "Can i bring a pet on the flight?",
+      "Are pets allowed?",
+      "Are dogs allowed?",
+      "Are cats allowed?"
+    ]
+  },
+  {
+    "intent": "flight_seats",
+    "example_phrases": [
+      "Can i change my seats?",
+      "I want to change my seats.",
+      "is it possible to change seats?"
+    ]
+  },
+  {
+    "intent": "flight_canceled",
+    "example_phrases": [
+      "Is the flight canceled?",
+      "WHy is the flight canceled?",
+      "The flight is canceled?",
+      "flight canceled.",
+      "flight cancellation"
+    ]
+  },
+  {
+    "intent": "flight_baggage",
+    "example_phrases": [
+      "How much carry-on baggage?",
+      "I want information about baggage.",
+      "How much backpack baggage?",
+      "Can you have hand baggage",
+      "Can i take a backpack?"
+    ]
+  },
+  {
+    "intent": "flight_baggage_lost",
+    "example_phrases": [
+      "Where is my baggage?",
+      "I don't see my baggage.",
+      "Is my baggage lost?",
+      "My baggage is gone",
+      "I don't see my baggage anywhere",
+      "Is my baggage is lost?",
+      "I lost my luggage",
+      "I need my luggage"
+    ]
+  },
+  {
+    "intent": "flight_number",
+    "example_phrases": [
+      "My flight number is 123456",
+      "Her is my flight number 45789",
+      "I don't know my flight number",
+      "This is the number of my flight 12247"
+    ]
+  },
+  {
+    "intent": "flight_question",
+    "example_phrases": [
+      "I need help?",
+      "Can you help me?",
+      "When can i fly again?",
+      "When are the airports open?",
+      "couple of questions",
+      "Do i need a test?"
+    ]
+  },
+  {
+    "intent": "flight_experience_review",
+    "example_phrases": [
+      "The flight had great service",
+      "The flight had bad service",
+      "I will never fly with this company again",
+      "The service was bad",
+      "THe service was good"
+    ]
+  },
+  {
+    "intent": "flight_delays",
+    "example_phrases": [
+      "Is my flight delayed?",
+      "How long is the flight delayed?",
+      "Flight Delayed?",
+      "Why is my flight delayed?",
+      "Flight delay?"
+    ]
+  },
+  {
+    "intent": "flight_ticket_refunds",
+    "example_phrases": [
+      "Can I get a refund on my ticket?",
+      "Is it possible to get a refund for my flight?",
+      "I want i refund for my flight"
+    ]
+  },
+  {
+    "intent": "flight_booking_information_delay",
+    "example_phrases": [
+      "I still didn't get my booking information.",
+      "Is my booking information delayed?",
+      "booking information delayed",
+      "I didn't get my order",
+      "i don't see my orders"
+    ]
+  },
+  {
+    "intent": "flight_service_call_center",
+    "example_phrases": [
+      "I can't get in touch with the call center.",
+      "Is there something wrong with the call center?",
+      "I can't reach the call center.",
+      "I can't contact the call center.",
+      "I can't connection with the call center.",
+      "Can't connect to call center."
+    ]
+  },
+  {
+    "intent": "flight_ticket_pricing",
+    "example_phrases": [
+      "How much does a ticket cost to Spain",
+      "What is the cost of a ticket to Barcelona"
+    ]
+  },
+  {
+    "intent": "flight_ticket_discount",
+    "example_phrases": [
+      "Do seniors get a discount?",
+      "Are there discounts for kids?",
+      "Where can i see the discounts?"
+    ]
+  },
+  {
+    "intent": "flight_checkin",
+    "example_phrases": [
+      "Where can i checkin my baggage",
+      "Where is the checkin?",
+      "Where can i find the checkin for my baggage?",
+      "where can i find the checkin?"
+    ]
+  },
+  {
+    "intent": "flight_reservation_upgrade",
+    "example_phrases": [
+      "Can i upgrade my flight booking to first class?",
+      "Can i upgrade my ticket to first class?",
+      "Can i upgrade my ticket?",
+      "Can i upgrade my flight"
+    ]
+  },
+  {
+    "intent": "flight_corona",
+    "example_phrases": [
+      "Are there different important rules for corona?",
+      "Do i need something special for corona?",
+      "What did change because of corona?",
+      "Are there different requirements because of corona?",
+      "Do i need to test on corona?"
+    ]
+  },
+  {
+    "intent": "flight_food_information",
+    "example_phrases": [
+      "What beverage are available?",
+      "What drinks are available?",
+      "What can i find the list of drinks?",
+      "What can i find the list of beverages?",
+      "What kind of foods are there on a flight?",
+      "What is the price of the food?",
+      "Are you still serving food on flights?"
+    ]
+  },
+  {
+    "intent": "flight_food_experience_review",
+    "example_phrases": [
+      "The food was bad",
+      "The meal was bad",
+      "The mail was great",
+      "The food was great",
+      "Pizza was great",
+      "Lasagna was good",
+      "The steak was perfectly made",
+      "The food is horrible"
+    ]
+  },
+  {
+    "intent": "flight_food_delayed",
+    "example_phrases": [
+      "Food came late.",
+      "food was delayed.",
+      "My food came delayed."
+    ]
+  },
+  {
+    "intent": "small_talk",
+    "example_phrases": [
+      "Hi",
+      "How are you",
+      "Greetings",
+      "good morning",
+      "good evening",
+      "Beautiful day, isn't it?",
+      "hello",
+      "thank you",
+      "what's up",
+      "hey",
+      "welcome"
+     ]
+  }
+]

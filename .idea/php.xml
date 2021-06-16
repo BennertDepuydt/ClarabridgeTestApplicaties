@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/composer" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/grpc/grpc" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/google/protobuf" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/google/common-protos" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/google/cloud" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/google/crc32" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/google/grpc-gcp" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/google/gax" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/rize/uri-template" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/google/auth" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/Dialogflow/vendor/brick/math" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.0" />
+</project>

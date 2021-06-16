@@ -1,0 +1,1077 @@
+[
+    {
+        "query": "ClaraLines",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "flight_booking_information_delay",
+        "score": 0.83
+    },
+    {
+        "query": "My flight number is 00918452",
+        "intent": "flight_number",
+        "score": 0.96
+    },
+    {
+        "query": "@clara_lines Hi there, can you help me?",
+        "intent": "flight_question",
+        "score": 0.83
+    },
+    {
+        "query": "",
+        "intent": "empty_string",
+        "score": null
+    },
+    {
+        "query": "\u0645\u0631\u062d\u0628\u0627 \u0647\u0644 \u064a\u0645\u0643\u0646\u0643 \u0645\u0633\u0627\u0639\u062f\u062a\u064a \u0641\u064a \u0627\u0644\u062d\u062c\u0632\u061f",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "Get Started",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "Hello?",
+        "intent": "small_talk",
+        "score": 0.89
+    },
+    {
+        "query": "1234FGH",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "Hi! I need help",
+        "intent": "flight_question",
+        "score": 0.87
+    },
+    {
+        "query": "Hi there! I have a question about my flight to Hungary",
+        "intent": "flight_ticket_booking",
+        "score": 0.74
+    },
+    {
+        "query": "Hey, do you fly to japan?",
+        "intent": "small_talk",
+        "score": 0.78
+    },
+    {
+        "query": "Hi",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "3456",
+        "intent": "flight_number",
+        "score": 0.83
+    },
+    {
+        "query": "ClaraLines",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "",
+        "intent": "empty_string",
+        "score": null
+    },
+    {
+        "query": "4567",
+        "intent": "flight_number",
+        "score": 0.89
+    },
+    {
+        "query": "ClaraLines",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "Hi",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hello!",
+        "intent": "small_talk",
+        "score": 0.91
+    },
+    {
+        "query": "Roscamlaura1@gmail.com",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "My order is lost",
+        "intent": "flight_booking_information_delay",
+        "score": 0.79
+    },
+    {
+        "query": "Hallo",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "Het",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "",
+        "intent": "empty_string",
+        "score": null
+    },
+    {
+        "query": "Hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Talk to Human",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "ClaraLines",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "flight_booking_information_delay",
+        "score": 0.83
+    },
+    {
+        "query": "",
+        "intent": "empty_string",
+        "score": null
+    },
+    {
+        "query": "45283",
+        "intent": "flight_number",
+        "score": 0.86
+    },
+    {
+        "query": "Hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Thanks",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "I don't know yet",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "flight_booking_information_delay",
+        "score": 0.83
+    },
+    {
+        "query": "Time to fly again???",
+        "intent": "flight_question",
+        "score": 0.83
+    },
+    {
+        "query": "Heeey",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "",
+        "intent": "empty_string",
+        "score": null
+    },
+    {
+        "query": "ClaraLines",
+        "intent": null,
+        "score": null
+    }
+][
+    {
+        "query": "ClaraLines",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "flight_booking_information_delay",
+        "score": 0.83
+    },
+    {
+        "query": "My flight number is 00918452",
+        "intent": "flight_number",
+        "score": 0.96
+    },
+    {
+        "query": "@clara_lines Hi there, can you help me?",
+        "intent": "flight_question",
+        "score": 0.83
+    },
+    {
+        "query": "",
+        "intent": "empty_string",
+        "score": null
+    },
+    {
+        "query": "\u0645\u0631\u062d\u0628\u0627 \u0647\u0644 \u064a\u0645\u0643\u0646\u0643 \u0645\u0633\u0627\u0639\u062f\u062a\u064a \u0641\u064a \u0627\u0644\u062d\u062c\u0632\u061f",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "\ud83c\uddec\ud83c\udde7 English",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "Get Started",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "Hello?",
+        "intent": "small_talk",
+        "score": 0.89
+    },
+    {
+        "query": "1234FGH",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "Hi! I need help",
+        "intent": "flight_question",
+        "score": 0.87
+    },
+    {
+        "query": "Hi there! I have a question about my flight to Hungary",
+        "intent": "flight_ticket_booking",
+        "score": 0.74
+    },
+    {
+        "query": "Hey, do you fly to japan?",
+        "intent": "small_talk",
+        "score": 0.78
+    },
+    {
+        "query": "Hi",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "3456",
+        "intent": "flight_number",
+        "score": 0.83
+    },
+    {
+        "query": "ClaraLines",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "",
+        "intent": "empty_string",
+        "score": null
+    },
+    {
+        "query": "4567",
+        "intent": "flight_number",
+        "score": 0.89
+    },
+    {
+        "query": "ClaraLines",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "Hi",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Hello!",
+        "intent": "small_talk",
+        "score": 0.91
+    },
+    {
+        "query": "Roscamlaura1@gmail.com",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "My order is lost",
+        "intent": "flight_booking_information_delay",
+        "score": 0.79
+    },
+    {
+        "query": "Hallo",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "Het",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "",
+        "intent": "empty_string",
+        "score": null
+    },
+    {
+        "query": "Hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Talk to Human",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "ClaraLines",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "flight_booking_information_delay",
+        "score": 0.83
+    },
+    {
+        "query": "",
+        "intent": "empty_string",
+        "score": null
+    },
+    {
+        "query": "45283",
+        "intent": "flight_number",
+        "score": 0.86
+    },
+    {
+        "query": "Hello",
+        "intent": "small_talk",
+        "score": 1
+    },
+    {
+        "query": "Thanks",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "I don't know yet",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "\ud83e\udd13 Booking Question",
+        "intent": "flight_booking_information_delay",
+        "score": 0.83
+    },
+    {
+        "query": "Time to fly again???",
+        "intent": "flight_question",
+        "score": 0.83
+    },
+    {
+        "query": "Heeey",
+        "intent": null,
+        "score": null
+    },
+    {
+        "query": "",
+        "intent": "empty_string",
+        "score": null
+    },
+    {
+        "query": "ClaraLines",
+        "intent": null,
+        "score": null
+    }
+]{
+    "1000": {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": null,
+        "score": null
+    },
+    "1001": {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.76
+    },
+    "1002": {
+        "query": "Hello! I love flying with ClaraLines",
+        "intent": "small_talk",
+        "score": 0.8
+    },
+    "1003": {
+        "query": "Hello! Can you please help me? I don't know where I am. Do you?",
+        "intent": "flight_question",
+        "score": 0.89
+    },
+    "1004": {
+        "query": "Hello Claralines, I need some help about the cancellation of my booking",
+        "intent": "flight_canceled",
+        "score": 0.77
+    },
+    "1005": {
+        "query": "Hello, can you find my flight that was canceled a month ago? I would like to check if I can get a refund.",
+        "intent": "flight_ticket_refunds",
+        "score": 0.86
+    },
+    "1006": {
+        "query": "Hey. Thanks for being so flexible with changing my flight. when do I get credit?",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.83
+    },
+    "1007": {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": null,
+        "score": null
+    },
+    "1008": {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.76
+    },
+    "1009": {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.84
+    },
+    "1010": {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": null,
+        "score": null
+    },
+    "1011": {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.76
+    },
+    "1012": {
+        "query": "My ticket still did not get refunded! How is this possible?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.94
+    },
+    "1013": {
+        "query": "Hi there, can you please help me?",
+        "intent": "flight_question",
+        "score": 0.92
+    },
+    "1014": {
+        "query": "\u23f0Delayed",
+        "intent": null,
+        "score": null
+    },
+    "1015": {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.76
+    },
+    "1016": {
+        "query": "Yes! My flight got cancelled and now I am stuck and I can't return!",
+        "intent": "flight_canceled",
+        "score": 0.87
+    },
+    "1017": {
+        "query": "This is ridiculous!!! I have been trying to reach out to you about this issue for the past few days! I am absolutely infuriated with how poor your customer service has been! I need to get back to chicago!",
+        "intent": "flight_experience_review",
+        "score": 0.7
+    },
+    "1018": {
+        "query": "Change Booking",
+        "intent": "flight_ticket_booking_changes",
+        "score": 1
+    },
+    "1019": {
+        "query": "Hey! Help. I need to cancel my flight due to COVID",
+        "intent": "flight_ticket_cancel",
+        "score": 0.9
+    },
+    "1020": {
+        "query": "Please help...",
+        "intent": "flight_question",
+        "score": 0.81
+    },
+    "1021": {
+        "query": "Hi Claralines, when should I expect my refund?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.87
+    },
+    "1022": {
+        "query": "Hi. I need to cancel my flight- will I be charged a cancel or change fee?",
+        "intent": "flight_ticket_cancel",
+        "score": 0.86
+    },
+    "1023": {
+        "query": "\u23f0Delayed",
+        "intent": null,
+        "score": null
+    },
+    "1024": {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.76
+    },
+    "1025": {
+        "query": "Hello, I have a question about my cancelled flight",
+        "intent": "flight_canceled",
+        "score": 0.9
+    },
+    "1026": {
+        "query": "Hey can I get some help? Delayed indefinitely in Nassau!",
+        "intent": "flight_question",
+        "score": 0.74
+    },
+    "1027": {
+        "query": "Hello Claralines, there is a delay in my flight, could you help me with that?",
+        "intent": "flight_delays",
+        "score": 0.73
+    },
+    "1028": {
+        "query": "Hello, I would like to get information about my refund. I have not receive it until now.",
+        "intent": "flight_ticket_refunds",
+        "score": 0.93
+    },
+    "1029": {
+        "query": "Need to cancel my flight urgently!",
+        "intent": "flight_ticket_cancel",
+        "score": 0.91
+    },
+    "1030": {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.84
+    },
+    "1031": {
+        "query": "Could I get some help cancelling my flight?",
+        "intent": "flight_ticket_cancel",
+        "score": 0.92
+    },
+    "1032": {
+        "query": "Could I get some assistance cancelling my flight, please?",
+        "intent": "flight_ticket_cancel",
+        "score": 0.9
+    },
+    "1033": {
+        "query": "Hello! Can you please check my ticket? There's a visual issue with it. ",
+        "intent": "flight_ticket_refunds",
+        "score": 0.79
+    },
+    "1034": {
+        "query": "I need to cancel my flight ASAP, please can you help????\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+        "intent": "flight_ticket_cancel",
+        "score": 0.87
+    },
+    "1035": {
+        "query": "Hey, I was thinking about cancelling my flight to Korea on May in case the COVID-19 situation gets extended. Whats your latest cancellation policy?",
+        "intent": "flight_canceled",
+        "score": 0.75
+    },
+    "1036": {
+        "query": "Hey threre, whats your latest Refunds\/ Cancellations policy in regards to COVID-19?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.82
+    },
+    "1037": {
+        "query": "Hey there, I was wondering if you are giving refunds for flights happening after April? I am not sure if cancelling my trip in May due to the COVID-19 situation....",
+        "intent": "flight_ticket_refunds",
+        "score": 0.83
+    },
+    "1038": {
+        "query": "Hi Claralines, are all flights canceled now?",
+        "intent": "flight_canceled",
+        "score": 0.92
+    },
+    "1039": {
+        "query": "Hi Claralines, I still haven't had the money from the flight refund reimbursed into my account. Whats the hold up?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.86
+    },
+    "1040": {
+        "query": "cancel booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.84
+    }
+}{
+    "1000": {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": null,
+        "score": null
+    },
+    "1001": {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.76
+    },
+    "1002": {
+        "query": "Hello! I love flying with ClaraLines",
+        "intent": "small_talk",
+        "score": 0.8
+    },
+    "1003": {
+        "query": "Hello! Can you please help me? I don't know where I am. Do you?",
+        "intent": "flight_question",
+        "score": 0.89
+    },
+    "1004": {
+        "query": "Hello Claralines, I need some help about the cancellation of my booking",
+        "intent": "flight_canceled",
+        "score": 0.77
+    },
+    "1005": {
+        "query": "Hello, can you find my flight that was canceled a month ago? I would like to check if I can get a refund.",
+        "intent": "flight_ticket_refunds",
+        "score": 0.86
+    },
+    "1006": {
+        "query": "Hey. Thanks for being so flexible with changing my flight. when do I get credit?",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.83
+    },
+    "1007": {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": null,
+        "score": null
+    },
+    "1008": {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.76
+    },
+    "1009": {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.84
+    },
+    "1010": {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": null,
+        "score": null
+    }
+}{
+    "1000": {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": null,
+        "score": null
+    },
+    "1001": {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.76
+    },
+    "1002": {
+        "query": "Hello! I love flying with ClaraLines",
+        "intent": "small_talk",
+        "score": 0.8
+    },
+    "1003": {
+        "query": "Hello! Can you please help me? I don't know where I am. Do you?",
+        "intent": "flight_question",
+        "score": 0.89
+    },
+    "1004": {
+        "query": "Hello Claralines, I need some help about the cancellation of my booking",
+        "intent": "flight_canceled",
+        "score": 0.77
+    },
+    "1005": {
+        "query": "Hello, can you find my flight that was canceled a month ago? I would like to check if I can get a refund.",
+        "intent": "flight_ticket_refunds",
+        "score": 0.86
+    },
+    "1006": {
+        "query": "Hey. Thanks for being so flexible with changing my flight. when do I get credit?",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.83
+    },
+    "1007": {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": null,
+        "score": null
+    },
+    "1008": {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.76
+    },
+    "1009": {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.84
+    },
+    "1010": {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": null,
+        "score": null
+    },
+    "1011": {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.76
+    },
+    "1012": {
+        "query": "My ticket still did not get refunded! How is this possible?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.94
+    },
+    "1013": {
+        "query": "Hi there, can you please help me?",
+        "intent": "flight_question",
+        "score": 0.92
+    },
+    "1014": {
+        "query": "\u23f0Delayed",
+        "intent": null,
+        "score": null
+    },
+    "1015": {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.76
+    },
+    "1016": {
+        "query": "Yes! My flight got cancelled and now I am stuck and I can't return!",
+        "intent": "flight_canceled",
+        "score": 0.87
+    },
+    "1017": {
+        "query": "This is ridiculous!!! I have been trying to reach out to you about this issue for the past few days! I am absolutely infuriated with how poor your customer service has been! I need to get back to chicago!",
+        "intent": "flight_experience_review",
+        "score": 0.7
+    },
+    "1018": {
+        "query": "Change Booking",
+        "intent": "flight_ticket_booking_changes",
+        "score": 1
+    },
+    "1019": {
+        "query": "Hey! Help. I need to cancel my flight due to COVID",
+        "intent": "flight_ticket_cancel",
+        "score": 0.9
+    },
+    "1020": {
+        "query": "Please help...",
+        "intent": "flight_question",
+        "score": 0.81
+    },
+    "1021": {
+        "query": "Hi Claralines, when should I expect my refund?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.87
+    },
+    "1022": {
+        "query": "Hi. I need to cancel my flight- will I be charged a cancel or change fee?",
+        "intent": "flight_ticket_cancel",
+        "score": 0.86
+    },
+    "1023": {
+        "query": "\u23f0Delayed",
+        "intent": null,
+        "score": null
+    },
+    "1024": {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.76
+    },
+    "1025": {
+        "query": "Hello, I have a question about my cancelled flight",
+        "intent": "flight_canceled",
+        "score": 0.9
+    },
+    "1026": {
+        "query": "Hey can I get some help? Delayed indefinitely in Nassau!",
+        "intent": "flight_question",
+        "score": 0.74
+    },
+    "1027": {
+        "query": "Hello Claralines, there is a delay in my flight, could you help me with that?",
+        "intent": "flight_delays",
+        "score": 0.73
+    },
+    "1028": {
+        "query": "Hello, I would like to get information about my refund. I have not receive it until now.",
+        "intent": "flight_ticket_refunds",
+        "score": 0.93
+    },
+    "1029": {
+        "query": "Need to cancel my flight urgently!",
+        "intent": "flight_ticket_cancel",
+        "score": 0.91
+    },
+    "1030": {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.84
+    },
+    "1031": {
+        "query": "Could I get some help cancelling my flight?",
+        "intent": "flight_ticket_cancel",
+        "score": 0.92
+    },
+    "1032": {
+        "query": "Could I get some assistance cancelling my flight, please?",
+        "intent": "flight_ticket_cancel",
+        "score": 0.9
+    },
+    "1033": {
+        "query": "Hello! Can you please check my ticket? There's a visual issue with it. ",
+        "intent": "flight_ticket_refunds",
+        "score": 0.79
+    },
+    "1034": {
+        "query": "I need to cancel my flight ASAP, please can you help????\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+        "intent": "flight_ticket_cancel",
+        "score": 0.87
+    },
+    "1035": {
+        "query": "Hey, I was thinking about cancelling my flight to Korea on May in case the COVID-19 situation gets extended. Whats your latest cancellation policy?",
+        "intent": "flight_canceled",
+        "score": 0.75
+    },
+    "1036": {
+        "query": "Hey threre, whats your latest Refunds\/ Cancellations policy in regards to COVID-19?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.82
+    },
+    "1037": {
+        "query": "Hey there, I was wondering if you are giving refunds for flights happening after April? I am not sure if cancelling my trip in May due to the COVID-19 situation....",
+        "intent": "flight_ticket_refunds",
+        "score": 0.83
+    },
+    "1038": {
+        "query": "Hi Claralines, are all flights canceled now?",
+        "intent": "flight_canceled",
+        "score": 0.92
+    },
+    "1039": {
+        "query": "Hi Claralines, I still haven't had the money from the flight refund reimbursed into my account. Whats the hold up?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.86
+    },
+    "1040": {
+        "query": "cancel booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.84
+    },
+    "1041": {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.84
+    },
+    "1042": {
+        "query": "And if it will be cancelled, will get a cancellation fee similar to what GoAir does? Thanks!",
+        "intent": "flight_food_information",
+        "score": 0.72
+    },
+    "1043": {
+        "query": "Hi guys! Is my flight still scheduled or will it be cancelled due to the Corona virus? Thanks!",
+        "intent": "flight_canceled",
+        "score": 0.84
+    },
+    "1044": {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.84
+    },
+    "1045": {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.84
+    },
+    "1046": {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": null,
+        "score": null
+    },
+    "1047": {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.76
+    },
+    "1048": {
+        "query": "My flight number is 3246 and I wan to cancel my trip to NYC.",
+        "intent": "flight_number",
+        "score": 0.88
+    },
+    "1049": {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": null,
+        "score": null
+    },
+    "1050": {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.76
+    },
+    "1051": {
+        "query": "Please help",
+        "intent": "flight_question",
+        "score": 0.91
+    },
+    "1052": {
+        "query": "\u23f0Delayed",
+        "intent": null,
+        "score": null
+    },
+    "1053": {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.76
+    },
+    "1054": {
+        "query": "My flight got canceled due to coronavirus! Where can I get my refund?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.75
+    },
+    "1055": {
+        "query": "Change Booking",
+        "intent": "flight_ticket_booking_changes",
+        "score": 1
+    },
+    "1056": {
+        "query": "Change Booking",
+        "intent": "flight_ticket_booking_changes",
+        "score": 1
+    },
+    "1057": {
+        "query": "Hello my flight was delayed. Need some help.",
+        "intent": "flight_delays",
+        "score": 0.87
+    },
+    "1058": {
+        "query": "RT @clara_lines: Don't miss out on a trip to the Caribbean! Enter our new contest below and you could be 1 of 3 winners who gets a free flight.",
+        "intent": "flight_ticket_booking",
+        "score": 0.76
+    },
+    "1059": {
+        "query": "Hi, can you help me find my bags please??",
+        "intent": "flight_baggage_lost",
+        "score": 0.8
+    },
+    "1060": {
+        "query": "Hi there is a delay in my flight!",
+        "intent": "flight_delays",
+        "score": 0.77
+    }
+}{
+    "1000": {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": null,
+        "score": null
+    },
+    "1001": {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.76
+    },
+    "1002": {
+        "query": "Hello! I love flying with ClaraLines",
+        "intent": "small_talk",
+        "score": 0.8
+    },
+    "1003": {
+        "query": "Hello! Can you please help me? I don't know where I am. Do you?",
+        "intent": "flight_question",
+        "score": 0.89
+    },
+    "1004": {
+        "query": "Hello Claralines, I need some help about the cancellation of my booking",
+        "intent": "flight_canceled",
+        "score": 0.77
+    },
+    "1005": {
+        "query": "Hello, can you find my flight that was canceled a month ago? I would like to check if I can get a refund.",
+        "intent": "flight_ticket_refunds",
+        "score": 0.86
+    },
+    "1006": {
+        "query": "Hey. Thanks for being so flexible with changing my flight. when do I get credit?",
+        "intent": "flight_ticket_booking_changes",
+        "score": 0.83
+    },
+    "1007": {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": null,
+        "score": null
+    },
+    "1008": {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.76
+    },
+    "1009": {
+        "query": "Cancel Booking",
+        "intent": "flight_ticket_cancel",
+        "score": 0.84
+    },
+    "1010": {
+        "query": "\ud83d\ude21Cancelled",
+        "intent": null,
+        "score": null
+    },
+    "1011": {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.76
+    },
+    "1012": {
+        "query": "My ticket still did not get refunded! How is this possible?",
+        "intent": "flight_ticket_refunds",
+        "score": 0.94
+    },
+    "1013": {
+        "query": "Hi there, can you please help me?",
+        "intent": "flight_question",
+        "score": 0.92
+    },
+    "1014": {
+        "query": "\u23f0Delayed",
+        "intent": null,
+        "score": null
+    },
+    "1015": {
+        "query": "\ud83d\udc94Delay\/Cancellation",
+        "intent": "flight_canceled",
+        "score": 0.76
+    },
+    "1016": {
+        "query": "Yes! My flight got cancelled and now I am stuck and I can't return!",
+        "intent": "flight_canceled",
+        "score": 0.87
+    },
+    "1017": {
+        "query": "This is ridiculous!!! I have been trying to reach out to you about this issue for the past few days! I am absolutely infuriated with how poor your customer service has been! I need to get back to chicago!",
+        "intent": "flight_experience_review",
+        "score": 0.7
+    },
+    "1018": {
+        "query": "Change Booking",
+        "intent": "flight_ticket_booking_changes",
+        "score": 1
+    },
+    "1019": {
+        "query": "Hey! Help. I need to cancel my flight due to COVID",
+        "intent": "flight_ticket_cancel",
+        "score": 0.9
+    },
+    "1020": {
+        "query": "Please help...",
+        "intent": "flight_question",
+        "score": 0.81
+    }
+}

@@ -1,0 +1,975 @@
+userinput;choosen Intent;confidence
+I'm angry with your service;flight_experience_review;0.8752183
+Change Booking;flight_ticket_booking_changes;1
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+My flight number is 00918452;flight_number;0.7116337
+Are cats allowed in the cabin?;flight_pets;0.7288886
+The riyadh flight is canceled?;flight_canceled;0.7832012
+Can you check the flight to Riyadh please?;flight_checkin;0.52083266
+Hey there, I've lost my luggage.... I need it ASAP as I'm on holiday and have no clothes here..;flight_baggage_lost;0.64515936
+@clara_lines Hi there, can you help me?;flight_question;0.68148166
+NULL;intent_empty;0
+مرحبا هل يمكنك مساعدتي في الحجز؟;Default Fallback Intent;1
+🇬🇧 English;Default Fallback Intent;1
+Get Started;flight_booking_information_delay;0.49773383
+Hello?;small_talk;1
+1234FGH;Default Fallback Intent;1
+I need to rebook my flight from TX to FL;flight_ticket_booking_changes;0.41407686
+Hi! I need help;flight_question;1
+Hi there! I have a question about my flight to Hungary;Default Fallback Intent;1
+Hey, do you fly to japan?;flight_question;0.575005
+Hi;small_talk;1
+Hola Claralines, estoy intentando reservar en vuestra página web pero no funciona!;Default Fallback Intent;1
+3456;Default Fallback Intent;1
+😡Cancelled;flight_canceled;0.55182946
+ClaraLines;Default Fallback Intent;1
+💔Delay/Cancellation;flight_canceled;0.6584799
+NULL;intent_empty;0
+Hi Claralines, I'm trying to book a flight through your website but I can´t!;flight_ticket_online_problem;0.6290864
+4567;Default Fallback Intent;1
+😡Cancelled;flight_canceled;0.55182946
+ClaraLines;Default Fallback Intent;1
+💔Delay/Cancellation;flight_canceled;0.6584799
+Hi;small_talk;1
+Hello!;small_talk;1
+Roscamlaura1@gmail.com;Default Fallback Intent;1
+My order is lost;Default Fallback Intent;1
+Hallo;Default Fallback Intent;1
+Het;Default Fallback Intent;1
+NULL;intent_empty;0
+Hello;small_talk;1
+Hi there, I haven't received my booking information??;flight_booking_information_delay;0.69564044
+Talk to Human;Default Fallback Intent;1
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+NULL;intent_empty;0
+45283;Default Fallback Intent;1
+Hello;small_talk;1
+Hey there, I still haven't received my booking information and I paid for my flight last week..;flight_ticket_booking_changes;0.49619162
+Thanks;small_talk;1
+Are you still serving food on the flights?;flight_food_information;1
+I don't know yet;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+Time to fly again???;flight_question;0.6024059
+Heeey;Default Fallback Intent;1
+NULL;intent_empty;0
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.915421
+hello i have a question;small_talk;1
+Hello, this is a tes message from Rozhin.;small_talk;0.89520663
+Flying out from Netherlands to Jamaica, do you need a pcr test to onboard?;flight_question;0.7428255
+What are the rules for flying with your dog? I would like to have him with me in the cabin;flight_question;0.4000896
+🌍 Find Destination;flight_ticket_booking;0.5886889
+🇬🇧 English;Default Fallback Intent;1
+NULL;intent_empty;0
+Hi Claralines;small_talk;0.8687374
+NULL;intent_empty;0
+Hello! I have flights for next Sunday but I have to be in quarentine, how can I change them?;flight_ticket_booking_changes;0.6630011
+Hi there;small_talk;1
+Hi there;small_talk;1
+12345 and my destination was Barcelona;Default Fallback Intent;1
+😡Cancelled;flight_canceled;0.55182946
+ClaraLines;Default Fallback Intent;1
+💔Delay/Cancellation;flight_canceled;0.6584799
+NULL;intent_empty;0
+Hi Claralines - can you send me my refund for the previous flights cancellation? Thanks.;flight_canceled;0.6716508
+2pm please. thanks;Default Fallback Intent;1
+I am flying from DC;flight_question;0.50255734
+I am hoping to leave tomorrow afternoon;Default Fallback Intent;1
+Hello. I need flight times to get to Dallas;Default Fallback Intent;1
+Get Started;flight_booking_information_delay;0.49773383
+hello;small_talk;1
+Delayed;flight_delays;0.70570576
+NULL;intent_empty;0
+Hi.. my flight number is 123ABC and I was flying to Miami;flight_number;0.63257974
+😡Cancelled;flight_canceled;0.55182946
+ClaraLines;Default Fallback Intent;1
+💔Delay/Cancellation;flight_canceled;0.6584799
+🇬🇧 English;Default Fallback Intent;1
+Get Started;flight_booking_information_delay;0.49773383
+Hello!;small_talk;1
+Hi there, can you help me?;flight_question;1
+Hi there, can you help me?;flight_question;1
+Hey I need some help!;flight_question;0.8002132
+12345;Default Fallback Intent;1
+Change Booking;flight_ticket_booking_changes;1
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+🇬🇧 English;Default Fallback Intent;1
+Hi Claralines. I wanted to cancel my upcoming flight. How do I do that?;flight_ticket_cancel;0.64856184
+Hello, I need help changing a flight!;flight_question;0.6114755
+NULL;intent_empty;0
+Thanks;small_talk;1
+LAX;Default Fallback Intent;1
+🌍 Find Destination;flight_ticket_booking;0.5886889
+🇬🇧 English;Default Fallback Intent;1
+Test;small_talk;1
+Get Started;flight_booking_information_delay;0.49773383
+Test;small_talk;1
+test request;small_talk;0.9848192
+Get Started;flight_booking_information_delay;0.49773383
+⏰Delayed;flight_delays;0.68264437
+ਆਰਡਰ ਵਿੱਚ ਦੇਰੀ ਹੋਈ ਪਰ ਪੀਜ਼ਾ ਸ਼ਾਨਦਾਰ ਸੀ!;Default Fallback Intent;1
+Test;small_talk;1
+NULL;intent_empty;0
+Pizza was okay;flight_food_experience_review;0.5776512
+Order is delayed but pizza was awesome!;flight_booking_information_delay;0.5752028
+Hey do you fly to dubai?;flight_question;0.575005
+Yemeğim çok geç geldi çok acıktım;Default Fallback Intent;1
+My flight number is 9274;flight_number;0.7116337
+My food came so delayed on the flight! I was starving..;flight_food_delayed;0.6385592
+can you fix the food on the flight its horrible!;flight_food_information;0.568059
+I need some help!;flight_question;0.8243926
+1123;Default Fallback Intent;1
+Change Booking;flight_ticket_booking_changes;1
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+🇬🇧 English;Default Fallback Intent;1
+NULL;intent_empty;0
+Beware, Claralines gave me such a difficult time with changing my flight time! Make sure you know before booking with them. ;flight_ticket_booking_changes;0.7475384
+Cool! Amazing Claralines. I loveeee flying with you guys. ;flight_question;0.43298373
+NULL;intent_empty;0
+Hello ;small_talk;1
+When will you fly again?;flight_question;0.7166039
+Hi Claralines, when will you fly again?;flight_question;0.7091098
+Puedes ayudarme?;Default Fallback Intent;1
+Tengo una pregunta sobre sus ventas al Caribe;Default Fallback Intent;1
+Hola;small_talk;1
+Do you fly to Dubai still?;flight_question;0.58236843
+you can help me by switching back to how it used to be..;flight_question;0.67207694
+The food on the plane was so bad!! 😟;flight_food_experience_review;0.71747035
+Hello! With the new restrictions, do I need a negative test to fly to Spain?;flight_question;0.69345313
+Hello there, - is it true that you have a flexible booking policy due to Covid?;flight_booking_information_delay;0.4790536
+NULL;intent_empty;0
+Hello;small_talk;1
+NULL;intent_empty;0
+123ABC;Default Fallback Intent;1
+Hi Claralines! I need to cancel my flight;flight_ticket_cancel;0.69848233
+🇬🇧 English;Default Fallback Intent;1
+hello;small_talk;1
+Get Started;flight_booking_information_delay;0.49773383
+Hi, can you help me?;flight_question;1
+I have a question;small_talk;1
+Hey!;small_talk;1
+Hi Claralines!;small_talk;0.9670314
+Thanks;small_talk;1
+Can you help;flight_question;1
+Hello;small_talk;1
+Hi;small_talk;1
+Hello;small_talk;1
+NULL;intent_empty;0
+NULL;intent_empty;0
+NULL;intent_empty;0
+Sorry I now need to change this to Miami!;flight_ticket_booking_changes;0.5365867
+Hi Claralines - your phone number has been unreachable every time ive tried to call. Can you help change my flight to Panama City? ;flight_ticket_booking_changes;0.63685507
+Are there any covid measures I should be careful of?;small_talk;0.7691092
+Thanks do you fly to KSA?;flight_question;0.58236843
+Hi, can you help me with a flight detail please?;flight_question;0.6471482
+Hello, can you please reply?;Default Fallback Intent;1
+NULL;intent_empty;0
+4567;Default Fallback Intent;1
+😡Cancelled;flight_canceled;0.55182946
+ClaraLines;Default Fallback Intent;1
+💔Delay/Cancellation;flight_canceled;0.6584799
+NULL;intent_empty;0
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+Very happy with this;small_talk;0.63756204
+🤚🏻Carry-On Baggage;flight_baggage;0.793789
+🧳 Baggage Question;flight_baggage_lost;0.6370402
+NULL;intent_empty;0
+Awesome work!;small_talk;0.85181105
+Hi Claralines! I have a couple of questions for you;flight_question;0.7749385
+NULL;intent_empty;0
+Okay, perfect! Thank you for the quick response;Default Fallback Intent;1
+Hi 👋🏼 Do you fly to Jordan during the holidays? Thanks!;flight_question;0.57407355
+Thank you for your support;flight_end_conversation;0.6264175
+Hi! Do you fly to Barcelona?;flight_question;0.50997466
+Hello, and do you fly to Brussels?;flight_question;0.575005
+Do you fly to switzerland?;flight_question;0.58236843
+Do you fly from Amsterdam to Istanbul?;flight_question;0.58236843
+Thanks;small_talk;1
+Hey 👋 my product smells bad;small_talk;0.6090648
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+Any christmas campaigns for 2021?;Default Fallback Intent;1
+Are there flights from Amsterdam now that there is a stricter lockdown situation?;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.915421
+Tengo una problema;Default Fallback Intent;1
+Hola Claralines!!;small_talk;0.8547183
+6547;Default Fallback Intent;1
+😡Cancelled;flight_canceled;0.55182946
+ClaraLines;Default Fallback Intent;1
+💔Delay/Cancellation;flight_canceled;0.6584799
+NULL;intent_empty;0
+Hello, is there a flight tomorrow t Brussels?;Default Fallback Intent;1
+You are there;small_talk;1
+Help;flight_question;0.7418101
+Hey;small_talk;1
+مرحبا كيف الحال;Default Fallback Intent;1
+Are you flying to Barcelona?;Default Fallback Intent;1
+45678;Default Fallback Intent;1
+⏰Delayed;flight_delays;0.68264437
+ClaraLines;Default Fallback Intent;1
+💔Delay/Cancellation;flight_canceled;0.6584799
+NULL;intent_empty;0
+NULL;intent_empty;0
+Hello;small_talk;1
+Hello!;small_talk;1
+Hey;small_talk;1
+45654;Default Fallback Intent;1
+😡Cancelled;flight_canceled;0.55182946
+ClaraLines;Default Fallback Intent;1
+💔Delay/Cancellation;flight_canceled;0.6584799
+NULL;intent_empty;0
+NULL;intent_empty;0
+NULL;intent_empty;0
+NULL;intent_empty;0
+Hi ClaraLines team! I just found out I am sitting next to someone on my flight to Boston. I find that unacceptable in these covid-19 times! I'd like to request a refund! 😡;flight_ticket_refunds;0.50983214
+Do you fly to cuba?;flight_question;0.58236843
+ClaraLines;Default Fallback Intent;1
+💔Delay/Cancellation;flight_canceled;0.6584799
+Hey, can you help me?;flight_question;1
+🤙🏻 Start Over;small_talk;0.92350125
+🤙🏻 Start Over;small_talk;0.92350125
+Japan please;Default Fallback Intent;1
+Still trying to find my lost bag! Convinced your employees stole it at this point.;Default Fallback Intent;1
+👩🏼‍💼 Human Agent;Default Fallback Intent;1
+Hey! What kind of drinks do you offer onboard?;flight_food_information;0.74262786
+I want to cancel my flight!!!;flight_ticket_cancel;0.7030428
+🇬🇧 English;Default Fallback Intent;1
+I need help rebooking my flight;flight_question;0.6898675
+Hello;small_talk;1
+Get Started;flight_booking_information_delay;0.49773383
+Are middle seats booked?;flight_seats;0.70382935
+Hello! I was just wondering about your refund policy regarding Covid ?;flight_ticket_refunds;0.63137317
+Get Started;flight_booking_information_delay;0.49773383
+Hello! I have a question about my upcoming flight with Claralines;Default Fallback Intent;1
+Are you keeping the middle seats open??;flight_seats;0.75570333
+@clara_lines I just tested positive for covid_19. Can I get a refund if I can proof this with a medical statement from my doctor?;flight_ticket_refunds;0.69819725
+Are you flying to Brussels in December 16th?;Default Fallback Intent;1
+hi! I'm hoping you can help me obtain a refund?;flight_ticket_refunds;0.6079368
+OMG! Is this what I think it is?? A giveaway?? 🤩🥳;Default Fallback Intent;1
+Hey!!!;small_talk;1
+When is this campaign? 🥳;Default Fallback Intent;1
+New Booking;flight_booking_information_delay;0.60572785
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+Hey can someone help me very quickly;flight_question;0.7573532
+اقول بس موصلينها بارده والبيبسي حار والفرايز بارد سلاماات !!!!!! جوعانين ترا وش هالتوصيل الفاشل;Default Fallback Intent;1
+Hello?;small_talk;1
+just wanted to say thank you for your support last time;small_talk;0.74755055
+Hey your colleague chris has helped me last time can he help me again?;flight_question;0.59779584
+No he recibido todavía el reembolso de mi compra;Default Fallback Intent;1
+Is this offer still available?;Default Fallback Intent;1
+Hello;small_talk;1
+123;Default Fallback Intent;1
+Hi;small_talk;1
+Amazing, is this the VIP lounge area? 🤩;Default Fallback Intent;1
+😮;Default Fallback Intent;1
+I want to travel again!!;small_talk;0.6572189
+💯;Default Fallback Intent;1
+Hi Claralines - i'm trying to rebook my flight through the website, but i'm getting an error message in the process. What should I do?;flight_ticket_online_problem;0.52696633
+👩🏼‍💼 Talk to a Human;Default Fallback Intent;1
+👩🏼‍💼 Talk to a Human;Default Fallback Intent;1
+🤙🏻 Start Over;small_talk;0.92350125
+🤙🏻 Start Over;small_talk;0.92350125
+Hi Claralines - i'm trying to rebook my flight through the website, but i'm getting an error message in the process. What should I do?;flight_ticket_online_problem;0.52696633
+Get Started;flight_booking_information_delay;0.49773383
+Or should I just check the website?;flight_ticket_online_problem;0.62058043
+thanks - will I be notified if there are any further delays?;flight_delays;0.6524466
+CL29480 to the Bahamas;Default Fallback Intent;1
+⏰Delayed;flight_delays;0.68264437
+ClaraLines;Default Fallback Intent;1
+💔Delay/Cancellation;flight_canceled;0.6584799
+NULL;intent_empty;0
+Cool;small_talk;1
+Can I finally use my voucher now?;Default Fallback Intent;1
+Helloooo;Default Fallback Intent;1
+NULL;intent_empty;0
+🙏🏻;Default Fallback Intent;1
+Hi! I still have not received the refund of my booking GHY5FD;flight_ticket_refunds;0.5619165
+Has Claralines started flying abroad now? I need a holiday!!! 🏝;flight_question;0.69511396
+4456;Default Fallback Intent;1
+Cancel Booking;flight_ticket_cancel;0.47645587
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+🇬🇧 English;Default Fallback Intent;1
+🤙🏻 Start Over;small_talk;0.92350125
+Talk to Human;Default Fallback Intent;1
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+🇬🇧 English;Default Fallback Intent;1
+🤙🏻 Start Over;small_talk;0.92350125
+مرحبا;Default Fallback Intent;1
+Hello;small_talk;1
+I'm trying to check in from the app but it isn't working.. 😫;flight_checkin;0.6671285
+Are flights to Riyad enabled now?;Default Fallback Intent;1
+Hi! are you still running flights to San Diego?;Default Fallback Intent;1
+NULL;intent_empty;0
+Do you organize hotel stay as well or only flights?;Default Fallback Intent;1
+NULL;intent_empty;0
+🧳 Baggage Question;flight_baggage_lost;0.6370402
+🇬🇧 English;Default Fallback Intent;1
+🤙🏻 Start Over;small_talk;0.92350125
+I can't believe it;flight_ticket_online_problem;0.5023943
+NULL;intent_empty;0
+NULL;intent_empty;0
+I would like to make a complaint! My seat was soooo dirty I was disgusted;flight_seats;0.54877263
+Do you fly to lebanon?;flight_question;0.58236843
+ERER484;Default Fallback Intent;1
+Cancel Booking;flight_ticket_cancel;0.47645587
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+NULL;intent_empty;0
+Do you offer discounts for students?;flight_ticket_discount;0.76772654
+I am having issues with your online booking system 🙈;flight_ticket_booking;0.5506502
+NULL;intent_empty;0
+Thanks;small_talk;1
+Why is no one responding?;Default Fallback Intent;1
+Hey;small_talk;1
+NULL;intent_empty;0
+Can I report this?;Default Fallback Intent;1
+I don't think it's appropriate;Default Fallback Intent;1
+Yes. I was wondering about the recent advertising you made for Claralines;flight_food_experience_review;0.46878734
+Oh hey!;small_talk;1
+NULL;intent_empty;0
+Automated quick help was amazing;flight_question;0.5812217
+🤚🏻Carry-On Baggage;flight_baggage;0.793789
+🧳 Baggage Question;flight_baggage_lost;0.6370402
+NULL;intent_empty;0
+But can we travel? With COVID?;Default Fallback Intent;1
+Hey there! Cool! Yes. Seems you have promotions going on but i was curious if there will be black friday sales?;flight_food_experience_review;0.4046383
+NULL;intent_empty;0
+Could someone please help me out with my request to cancel my flight?;flight_ticket_cancel;0.7008419
+Hello!;small_talk;1
+👩🏼‍💼Transfer;Default Fallback Intent;1
+Contact Agent 🤓;Default Fallback Intent;1
+I still didn't receive my refund from my summer holiday that got cancelled? What's going on?;flight_ticket_refunds;0.5861206
+Hi Claralines!;small_talk;0.9670314
+👩🏼‍💼Transfer;Default Fallback Intent;1
+👩🏼‍💼 Human Agent;Default Fallback Intent;1
+🇬🇧 English;Default Fallback Intent;1
+NULL;intent_empty;0
+I saw on your page discounts for ski trips during Christmas break?;flight_ticket_discount;0.7780202
+Hi;small_talk;1
+NULL;intent_empty;0
+Does everyone have to wear masks on the flight?;flight_food_information;0.40804234
+Talk to Human;Default Fallback Intent;1
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+🇬🇧 English;Default Fallback Intent;1
+NULL;intent_empty;0
+5555;Default Fallback Intent;1
+Cancel Booking;flight_ticket_cancel;0.47645587
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+🇬🇧 English;Default Fallback Intent;1
+NULL;intent_empty;0
+🤓 Booking Question;small_talk;0.915421
+🇬🇧 English;Default Fallback Intent;1
+🤙🏻 Start Over;small_talk;0.92350125
+Please help;flight_question;0.7168394
+NULL;intent_empty;0
+445615;Default Fallback Intent;1
+Cancel Booking;flight_ticket_cancel;0.47645587
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+🇬🇧 English;Default Fallback Intent;1
+NULL;intent_empty;0
+Hello;small_talk;1
+Help???;flight_question;0.7418101
+Hello;small_talk;1
+Hello;small_talk;1
+NULL;intent_empty;0
+hallo;Default Fallback Intent;1
+You guys have amaziiiiing support 🥰👯‍♀️;Default Fallback Intent;1
+Hey;small_talk;1
+NULL;intent_empty;0
+Önümüzdeki hafta uçuşum iptal edilecek mi?;Default Fallback Intent;1
+NULL;intent_empty;0
+👩🏼‍💼Transfer;Default Fallback Intent;1
+👩🏼‍💼 Human Agent;Default Fallback Intent;1
+🇬🇧 English;Default Fallback Intent;1
+Get Started;flight_booking_information_delay;0.49773383
+Get Started;flight_booking_information_delay;0.49773383
+516848;Default Fallback Intent;1
+Cancel Booking;flight_ticket_cancel;0.47645587
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+🇬🇧 English;Default Fallback Intent;1
+NULL;intent_empty;0
+"Δεν έχω ακούσει ακόμα για την πτήση μου, ακυρώνεται;";flight_question;0.4817748
+Claralines when will you start flying to Cuba again?;flight_question;0.5320843
+This is so cool, keep creating awesome content like this! Makes me proud to be a customer. ;small_talk;0.64660245
+@clara_lines Hello;small_talk;0.80844307
+Wow so cool!;small_talk;1
+Hello, what's the status of my refund?;flight_ticket_refunds;0.7505245
+any thanksgiving discounts?;flight_ticket_discount;0.77916324
+Hey please help me;flight_question;0.7110594
+👩🏼‍💼Transfer;Default Fallback Intent;1
+👩🏼‍💼 Human Agent;Default Fallback Intent;1
+🇬🇧 English;Default Fallback Intent;1
+NULL;intent_empty;0
+Southeastern;Default Fallback Intent;1
+Hey;small_talk;1
+Hello! Can I buy miniature planes?;Default Fallback Intent;1
+سلام عليكم;Default Fallback Intent;1
+Hello I really need help and you have been avoiding me in every channel!;flight_question;0.83203965
+سلام عليكم منتجع شاطئ الدانة;Default Fallback Intent;1
+No problem;small_talk;1
+awesome job!;small_talk;0.8814661
+Hey thank you for the help;flight_end_conversation;1
+hey;small_talk;1
+Hallloo;Default Fallback Intent;1
+Hey;small_talk;1
+NULL;intent_empty;0
+Thank you!;flight_end_conversation;0.5767755
+Hi there, can you help me?;flight_question;1
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+On another note, do you fly to India or are the borders closed?;flight_question;0.55804396
+Cancel Booking;flight_ticket_cancel;0.47645587
+Hello! Awesome pictures. Which is that? And any idea when I can spot it?;Default Fallback Intent;1
+Hello are you there?;small_talk;1
+Ready to get out of the US!  Where shall I go!;flight_booking_information_delay;0.40420452
+Thank you!;flight_end_conversation;0.5767755
+🧳Checked Baggage;flight_baggage_lost;0.65266746
+🧳 Baggage Question;flight_baggage_lost;0.6370402
+🇬🇧 English;Default Fallback Intent;1
+🤙🏻 Start Over;small_talk;0.92350125
+NULL;intent_empty;0
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+NULL;intent_empty;0
+"Hi Selin, 
+This is Isa from Dr. Mohammad Alfagih Hospital";small_talk;0.6244627
+Hello, do you fly to KSA?;flight_question;0.575005
+NULL;intent_empty;0
+Oh! Great! Tomorrow;Default Fallback Intent;1
+Can you help;flight_question;1
+Yes! I'm trying to leave Belgium and get to Sweden for the winter;Default Fallback Intent;1
+Hi;small_talk;1
+NULL;intent_empty;0
+I need a refund asap!;flight_ticket_refunds;0.81851417
+Hey!;small_talk;1
+NULL;intent_empty;0
+I need urgent help! Someone speaks Dutch? ;flight_question;0.66773593
+Hey;small_talk;1
+NULL;intent_empty;0
+NULL;intent_empty;0
+I want to cancel my flight!!;flight_ticket_cancel;0.7030428
+Hey Claralines!;small_talk;0.903576
+NULL;intent_empty;0
+flight;flight_ticket_booking_changes;0.4876441
+I want to cancel my fight;flight_ticket_cancel;0.63273853
+HEy;small_talk;1
+NULL;intent_empty;0
+Ik wil graag mijn vlucht cancellen!;Default Fallback Intent;1
+Halllo;Default Fallback Intent;1
+I would like to rebook my flight!;flight_ticket_booking_changes;0.4498322
+Hey there!;small_talk;1
+NULL;intent_empty;0
+Need help quickly! I want to upgrade my seat with my Clarapoints.;flight_reservation_upgrade;0.722528
+Hello there!;small_talk;1
+Send me a GIF :-D ;Default Fallback Intent;1
+Hello!!;small_talk;1
+NULL;intent_empty;0
+Hey there!;small_talk;1
+NULL;intent_empty;0
+I want to cancel my flight for next year already;flight_ticket_cancel;0.6932548
+I need a refund;flight_ticket_refunds;0.81851417
+i need help with my ticket!;flight_question;0.63904405
+can you help me?;flight_question;1
+hi there;small_talk;1
+"Location shared:
+https://maps.google.com/maps?q=24.7069113,46.7005701";Default Fallback Intent;1
+H2;Default Fallback Intent;1
+Good;small_talk;1
+Do you have new corona measures?;flight_corona;0.7683831
+Hi;small_talk;1
+هاي;Default Fallback Intent;1
+NULL;intent_empty;0
+🤓 Booking Question;small_talk;0.91466963
+🇬🇧 English;Default Fallback Intent;1
+🤙🏻 Start Over;small_talk;0.92350125
+Hi. I need to cancel my flight;flight_ticket_cancel;0.69848233
+Thanks! It's 1234FGH;Default Fallback Intent;1
+Hi- I need to cancel my flight;flight_ticket_cancel;0.69848233
+I should have gotten more advanced notice on its cancellation;flight_canceled;0.7513786
+Hey, kind of irritated on how you handled my flight.;Default Fallback Intent;1
+Cancel Booking;flight_ticket_cancel;0.47645587
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.915421
+🇬🇧 English;Default Fallback Intent;1
+NULL;intent_empty;0
+NULL;intent_empty;0
+1848948;Default Fallback Intent;1
+Cancel Booking;flight_ticket_cancel;0.47645587
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+🇬🇧 English;Default Fallback Intent;1
+NULL;intent_empty;0
+🤓 Booking Question;small_talk;0.91466963
+🇬🇧 English;Default Fallback Intent;1
+ClaraSun;Default Fallback Intent;1
+NULL;intent_empty;0
+🤓 Booking Question;small_talk;0.91466963
+🇬🇧 English;Default Fallback Intent;1
+NULL;intent_empty;0
+Bonjour;Default Fallback Intent;1
+🇬🇧 English;Default Fallback Intent;1
+NULL;intent_empty;0
+Soy Laura!;Default Fallback Intent;1
+Hola!;small_talk;1
+NULL;intent_empty;0
+Hey;small_talk;1
+NULL;intent_empty;0
+NULL;intent_empty;0
+Hi there;small_talk;1
+Great service;flight_experience_review;0.83237123
+Hello, I've got a question on a flight;Default Fallback Intent;1
+🇬🇧 English;Default Fallback Intent;1
+🤙🏻 Start Over;small_talk;0.92350125
+🤙🏻 Start Over;small_talk;0.92350125
+Hey can you help me?;flight_question;1
+I need urgent help with my delayed flight;flight_delays;0.6359384
+Hey;small_talk;1
+I like the new plane! ✈️;small_talk;0.68759805
+NULL;intent_empty;0
+5848;Default Fallback Intent;1
+Cancel Booking;flight_ticket_cancel;0.47645587
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+🇬🇧 English;Default Fallback Intent;1
+NULL;intent_empty;0
+I need help;flight_question;1
+Hey;small_talk;1
+🧳Checked Baggage;flight_baggage_lost;0.65266746
+NULL;intent_empty;0
+NULL;intent_empty;0
+مرحبا ، احتاج المساعده لطلب الخدمه !;Default Fallback Intent;1
+Talk to Human;Default Fallback Intent;1
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+My flight number is ABC123 and I'm flying to Miami!;flight_number;0.67836523
+😡Cancelled;flight_canceled;0.55182946
+ClaraLines;Default Fallback Intent;1
+💔Delay/Cancellation;flight_canceled;0.6584799
+🇬🇧 English;Default Fallback Intent;1
+🤙🏻 Start Over;small_talk;0.92350125
+🇬🇧 English;Default Fallback Intent;1
+Unbelievable. That's not right. I never got a voicemail. Well whatever, I'll go get my luggage now.;flight_baggage_lost;0.6336813
+Ok no need to interrogate me.....and how would I know where it's lost? Flight was 1224 from Chicago to Houston;flight_question;0.44016227
+Hello, my luggage is still lost! Can someone help!;flight_baggage_lost;0.7299577
+🤙🏻 Start Over;small_talk;0.92350125
+👍;Default Fallback Intent;1
+Great;flight_food_experience_review;0.62179714
+I want to ask something about your software.;Default Fallback Intent;1
+Hi can you help me;flight_question;1
+Hi;small_talk;1
+1234;Default Fallback Intent;1
+Change Booking;flight_ticket_booking_changes;1
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+🇬🇧 English;Default Fallback Intent;1
+🤙🏻 Start Over;small_talk;0.92350125
+Hello, I've been waiting for more information!;small_talk;0.84920615
+Hi can you help me?;flight_question;1
+Hi, can you help me I don't know what happened to my luggage?;flight_baggage_lost;0.6552539
+🤙🏻 Start Over;small_talk;0.92350125
+NULL;intent_empty;0
+I have a question, can you help please?;Default Fallback Intent;1
+Why isn't hand luggage allowed? I don't like the attitude of your colleagues at the check-in desk. They didn't help one bit! ☹️;flight_checkin;0.44838628
+Hello, can someone answer?;small_talk;0.88410056
+thanks;small_talk;1
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.915421
+لقد فقدت أمتعتي ، كيف أستعيدها؟;Default Fallback Intent;1
+the flight is frh 3475;flight_canceled;0.40784988
+Hey, where can I see my star alliance membership on the website?;flight_ticket_online_problem;0.5718735
+Hi Claralines, could you please confirm whether my flight is still going ahead as planned?;small_talk;0.6108337
+Do you take hand luggage on the plane?;flight_baggage;0.5954218
+Can you check if my flight is on time, please?;flight_checkin;0.48310024
+NULL;intent_empty;0
+🇬🇧 English;Default Fallback Intent;1
+🤙🏻 Start Over;small_talk;0.92350125
+Nothing of the above is what I want! Please let me talk to a human!!!;Default Fallback Intent;1
+Talk to Human;Default Fallback Intent;1
+ClaraLines;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+NULL;intent_empty;0
+Hello! I have a question;small_talk;1
+NULL;intent_empty;0
+NULL;intent_empty;0
+🤓 Booking Question;small_talk;0.91466963
+NULL;intent_empty;0
+Hey;small_talk;1
+NULL;intent_empty;0
+NULL;intent_empty;0
+Hey Claralines;small_talk;0.74445504
+NULL;intent_empty;0
+Ok;small_talk;1
+Hey!;small_talk;1
+NULL;intent_empty;0
+Hi;small_talk;1
+Help;flight_question;0.7418101
+Is there a change with my flight schedule again???;flight_ticket_booking_changes;0.7192961
+Hey, has cuba opened up their borders?;Default Fallback Intent;1
+🤓 Booking Question;small_talk;0.91466963
+🇬🇧 English;Default Fallback Intent;1
+NULL;intent_empty;0
+arerez;Default Fallback Intent;1
+Salve, ho bisogno di aiuto per il mio volo per Portorico. È cancellato e ho bisogno di un rimborso. Sono così delusa che non ricevo risposta.;Default Fallback Intent;1
+thanks;small_talk;1
+Hello, this is selin. Can you help me with a question please?;Default Fallback Intent;1
+Hi, need help finding luggage;flight_question;0.60586214
+Hi Claralines is my flight delayed?;flight_delays;0.8086585
+Hi, I purchased a plane ticket on 10/2 that also had a rental car booking included. I can't find a confirmation of that rental car booking anywhere! Can you verify?;Default Fallback Intent;1
+Thank u 😊;flight_end_conversation;0.45761856
+ممكن سؤال;Default Fallback Intent;1
+مساء الخير;Default Fallback Intent;1
+Hi, is there a flight to Berlin and do we need to do a corona test before?;flight_corona;0.5351048
+🌍 Choose Language;Default Fallback Intent;1
+🤙🏻 Start Over;small_talk;0.92350125
+🇬🇧 English;Default Fallback Intent;1
+🤙🏻 Start Over;small_talk;0.92350125
+Is the code working? I want to book my Ibizaaa flight?;Default Fallback Intent;1
+I wish this trip still existed! 😫😫😫;Default Fallback Intent;1
+Everything with the flight was great but what happened to the food served???;flight_food_experience_review;0.5471685
+Can we still fly to Japan from NL as a tourist?;flight_question;0.59085065
+🤙🏻 Start Over;small_talk;0.92350125
+seriously - your support is getting worse..;flight_booking_information_delay;0.46146658
+🤙🏻 Start Over;small_talk;0.92350125
+🇬🇧 English;Default Fallback Intent;1
+🤙🏻 Start Over;small_talk;0.92350125
+🤙🏻 Start Over;small_talk;0.92350125
+Hellloooo! Good morning. Any updates on this? ;Default Fallback Intent;1
+What am I doing wrong?;small_talk;0.68093604
+But the promo code is not working?;flight_ticket_discount;0.40626913
+I just saw a promotion to travel to Ibiza;Default Fallback Intent;1
+Hello!;small_talk;1
+Hello Claralines - I just flew you from DC to Siberia and I have to say, the flight was a pleasure. How can I leave a review of my experience?;Default Fallback Intent;1
+NULL;intent_empty;0
+Hey there! 👋 I have an issue with my Claralines ticket. Can you help?;flight_question;0.54709923
+OK! I'm stuck at Zurich airport :-( ;small_talk;0.74882543
+Hello!;small_talk;1
+NULL;intent_empty;0
+NULL;intent_empty;0
+Hello, urgently need help. I need to cancel my flight due to COVID related issues. How can I get a refund?;flight_question;0.58827627
+well this time it didn't seem so. Can I make an official complaint about this?;flight_ticket_booking_changes;0.57086265
+🤙🏻 Start Over;small_talk;0.92350125
+NULL;intent_empty;0
+NULL;intent_empty;0
+NULL;intent_empty;0
+NULL;intent_empty;0
+Here's the info;Default Fallback Intent;1
+Hi there, I want to cancel my flight;flight_ticket_cancel;0.69425124
+Hi! How can I get a refund for my cancelled flight?;flight_ticket_refunds;0.7933122
+Hi! How can I get a refund for my cancelled flight?;flight_ticket_refunds;0.7933122
+Hi! How can I get a refund for my cancelled flight?;flight_ticket_refunds;0.7933122
+hi there;small_talk;1
+Thanks was helpful;flight_food_experience_review;0.5503925
+I would like to complain about the seats on the flight. They were so dirty! Don't you clean the plane before flying new people?;flight_seats;0.49176756
+Do you fly to Dubai now?;flight_question;0.5697708
+👩🏼‍💼Transfer;Default Fallback Intent;1
+👩🏼‍💼 Talk to a Human;Default Fallback Intent;1
+🤚🏻Carry-On Baggage;flight_baggage;0.793789
+🧳Baggage Question;flight_baggage_lost;0.6370402
+🇬🇧 English;Default Fallback Intent;1
+🤙🏻 Start Over;small_talk;0.92350125
+Wow! Great!!!;flight_food_experience_review;0.62179714
+I want HUMANS! ;Default Fallback Intent;1
+NULL;intent_empty;0
+NULL;intent_empty;0
+NULL;intent_empty;0
+Great work!;small_talk;1
+Hi there!;small_talk;1
+🤓Booking Question;small_talk;0.9266173
+NULL;intent_empty;0
+Neen hoor ik typ ;Default Fallback Intent;1
+NULL;intent_empty;0
+vraag;Default Fallback Intent;1
+NULL;intent_empty;0
+Hallo;Default Fallback Intent;1
+NULL;intent_empty;0
+NULL;intent_empty;0
+ClaraLines;Default Fallback Intent;1
+💔Delay/Cancellation;flight_canceled;0.6584799
+🇬🇧 English;Default Fallback Intent;1
+🤙🏻Start Over;small_talk;0.7696495
+NULL;intent_empty;0
+This was no help at all! Please let me know how I can get my luggage back! 😠;flight_baggage_lost;0.534867
+Hello, my luggage was lost on my flight to Paris. Can you please help me?;flight_baggage_lost;0.5521914
+Hello, my luggage was lost on my flight to Paris. Can you please help me?;flight_baggage_lost;0.5521914
+🇳🇱 Dutch;Default Fallback Intent;1
+Get Started;flight_booking_information_delay;0.49773383
+Hello, my luggage was lost on my flight to Paris. Can you please help me?;flight_baggage_lost;0.5521914
+THIS IS HORRIBLE! I can't wait forever and you keep sending me CSAT surveys!!! 😠;flight_food_experience_review;0.43539026
+Your app is not working! I cannot access my reservation for whatever reason;flight_ticket_online_problem;0.5768093
+Hello? I have not received my refund!;flight_ticket_refunds;0.7599183
+October 3rd;Default Fallback Intent;1
+Thanks! It's ABC123;Default Fallback Intent;1
+Change Booking;flight_ticket_booking_changes;1
+ClaraLines;Default Fallback Intent;1
+🤓Booking Question;small_talk;0.9266173
+🇬🇧 English;Default Fallback Intent;1
+🤙🏻Start Over;small_talk;0.7696495
+Hey do you fly to the us now?;flight_question;0.5620085
+👩🏼‍💼Transfer;Default Fallback Intent;1
+👩🏼‍💼Talk to a Human;Default Fallback Intent;1
+🤚🏻Carry-On Baggage;flight_baggage;0.793789
+🧳Baggage Question;flight_baggage_lost;0.6370402
+🇬🇧 English;Default Fallback Intent;1
+Get Started;flight_booking_information_delay;0.49773383
+🤚🏻Carry-On Baggage;flight_baggage;0.793789
+🧳Baggage Question;flight_baggage_lost;0.6370402
+🇬🇧 English;Default Fallback Intent;1
+Get Started;flight_booking_information_delay;0.49773383
+🇬🇧 English;Default Fallback Intent;1
+🤙🏻Start Over;small_talk;0.7696495
+🤚🏻Carry-On Baggage;flight_baggage;0.793789
+🧳Baggage Question;flight_baggage_lost;0.6370402
+are you there??;small_talk;1
+Hi Claraline- my flight is delayed. help!;flight_delays;0.6267271
+Nevermind;small_talk;0.8922
+Can you help me;flight_question;1
+Hello;small_talk;1
+@_claralines Hey tes;small_talk;0.61077607
+NULL;intent_empty;0
+مرحبا كيف الحال;Default Fallback Intent;1
+Hey, I've been trying on hold for over an hour and no one has been able to help me. I'm having trouble making online changes to my flights!;Default Fallback Intent;1
+Do you fly to Japan?;flight_question;0.58236843
+Hello, my luggage was lost in Chicago. Who can help me with this?;flight_baggage_lost;0.65182304
+Hello, it's me again! My flight was canceled and I'm awaiting a refund. Can an agent contact me direct?;flight_canceled;0.6261062
+ClaraSun;Default Fallback Intent;1
+🤓Booking Question;small_talk;0.9266173
+🇬🇧 English;Default Fallback Intent;1
+🤙🏻Start Over;small_talk;0.7696495
+Have you started to fly internationally or are the flights still domestic ones?;Default Fallback Intent;1
+I didn't hear back from you;Default Fallback Intent;1
+Do you fly to Japan?;flight_question;0.58236843
+Can someone help?;flight_question;0.6984569
+Hello, I need to book a flight to New York;Default Fallback Intent;1
+Out of Austin, TX. My bag got lost on the Houston leg I believe;Default Fallback Intent;1
+1111;Default Fallback Intent;1
+Hello, I need some help finding a lsot bag;flight_question;0.6835768
+🤓Booking Question;small_talk;0.9266173
+Hey, can you help. me?;flight_question;1
+Do you fly to Namibia?;flight_question;0.58236843
+Hi! I need your help. ;flight_question;0.71491396
+Contact Agent 🤓;Default Fallback Intent;1
+Support in English 🇬🇧;Default Fallback Intent;1
+🤓Booking Question;small_talk;0.9266173
+🇬🇧 English;Default Fallback Intent;1
+Hello;small_talk;1
+NULL;intent_empty;0
+Hello. I am waiting for an update on flight 71616?;flight_ticket_booking_changes;0.6123628
+Nice;small_talk;1
+Oelalala _claralines;Default Fallback Intent;1
+Meeee!! I will be travelling with @_claralines;Default Fallback Intent;1
+Hey;small_talk;1
+Sorry, but I want to speak to an agent now?;Default Fallback Intent;1
+NULL;intent_empty;0
+OK, look forward to hearing from you;Default Fallback Intent;1
+👩🏼‍💼Transfer;Default Fallback Intent;1
+👩🏼‍💼Human Agent;Default Fallback Intent;1
+🇬🇧 English;Default Fallback Intent;1
+NULL;intent_empty;0
+Hi Claralines, I need help with my booking.;flight_question;0.74894184
+yooo whaddup! my flight booking failed?;flight_ticket_booking_changes;0.60047394
+Claralines I am SO angry!!;small_talk;0.9744373
+I need to change my flight for Friday afternoon. Confirmation number 454GFC;flight_ticket_booking_changes;0.58994716
+I have another question- can you help?;Default Fallback Intent;1
+🧳Checked Baggage;flight_baggage_lost;0.65266746
+🧳Baggage Question;flight_baggage_lost;0.6370402
+🇬🇧 English;Default Fallback Intent;1
+🤙🏻Start Over;small_talk;0.7696495
+Can you help me with my ticket please, urgently;flight_ticket_cancel;0.41843465
+Helleuuw??;Default Fallback Intent;1
+Talk to Human;Default Fallback Intent;1
+ClaraLines;Default Fallback Intent;1
+🤓Booking Question;small_talk;0.9266173
+Hi!;small_talk;1
+It is, thanks for your help. Any new deals?;flight_end_conversation;0.44148785
+I take that as a no?;small_talk;0.9554458
+Hello! Could I PLEASE get an update on my tickets issue (40048336621 case number);flight_ticket_booking_changes;0.42373496
+Hey Claralines, any update on this?;flight_ticket_booking_changes;0.7209775
+Hi really need some help from you guys!;flight_question;0.8281985
+Hello really need some help!;flight_question;0.8281985
+Get Started;flight_booking_information_delay;0.49773383
+Hello I need some help;flight_question;0.8002132
+Support in English 🇬🇧;Default Fallback Intent;1
+Hi. Are you allowing people to sit in the middle?;flight_pets;0.40224427
+⏎ Go Back;Default Fallback Intent;1
+👩🏼‍💼Transfer;Default Fallback Intent;1
+👩🏼‍💼Human Agent;Default Fallback Intent;1
+Support in English 🇬🇧;Default Fallback Intent;1
+ClaraLines;Default Fallback Intent;1
+🤓Booking Question;small_talk;0.9266173
+great;flight_food_experience_review;0.62179714
+I've been having a problem with my transport. can someone help?;Default Fallback Intent;1
+Do you fly to Cuba?;flight_question;0.58236843
+Hi Claralines - any new flight deals?;flight_ticket_booking_changes;0.4568666
+1234;Default Fallback Intent;1
+😡Cancelled;flight_canceled;0.55182946
+ClaraLines;Default Fallback Intent;1
+💔Delay/Cancellation;flight_canceled;0.6584799
+Support in English 🇬🇧;Default Fallback Intent;1
+this me Rifas;Default Fallback Intent;1
+hi;small_talk;1
+I would love to go to Figi 😍;Default Fallback Intent;1
+New Booking;flight_booking_information_delay;0.60572785
+ClaraLines;Default Fallback Intent;1
+🤓Booking Question;small_talk;0.9266173
+🇬🇧 English;Default Fallback Intent;1
+Hi! I need to rebook my flight to Miami. ;flight_ticket_booking_changes;0.4058829
+NULL;intent_empty;0
+Hello I need help;flight_question;1
+Hello, I still need help! I lost my carry on on the last flight!;flight_question;0.5650648
+Hello Claralines - I have still not received my Nice refund. Whats the status with this?;flight_ticket_refunds;0.67455786
+Can you check my delay please;flight_checkin;0.65375274
+I have a delay;flight_delays;0.6814834
+🤙🏻Start Over;small_talk;0.7696495
+🤚🏻Carry-On Baggage;flight_baggage;0.793789
+🧳Baggage Question;flight_baggage_lost;0.6370402
+🇬🇧 English;Default Fallback Intent;1
+🤙🏻Start Over;small_talk;0.7696495
+hello;small_talk;1
+🤓Booking Question;small_talk;0.9266173
+🇬🇧 English;Default Fallback Intent;1
+Get Started;flight_booking_information_delay;0.49773383
+Hi, is this offer still available?? Really need to getaway during this pandemic;flight_question;0.45699224
+Fast response;Default Fallback Intent;1
+NULL;intent_empty;0
+And hope the weather is good there in August;Default Fallback Intent;1
+NULL;intent_empty;0
+@_claralines has this status changed? You guys should really onboard to star member group!;Default Fallback Intent;1
+Do you fly to Milan as well?;flight_question;0.58236843
+Are you. there?;small_talk;1
+Hey there!;small_talk;1
+Do you fly to Singapore directly?;flight_question;0.58236843
+I want to change my order;flight_ticket_booking_changes;0.5265829
+Hi again;small_talk;0.9931504
+Hello!!!!;small_talk;1
+No?;small_talk;1
+Please! I am still waiting for a response;small_talk;0.7544655
+NULL;intent_empty;0
+مرحبا;Default Fallback Intent;1
+Hi;small_talk;1
+ClaraLines;Default Fallback Intent;1
+🤓Booking Question;small_talk;0.9266173
+Hi Can you help me?;flight_question;1
+Are you the correct person to ask?;Default Fallback Intent;1
+What do you think?;Default Fallback Intent;1
+So my luggage did not appear but it might be due to the transfer?;flight_baggage_lost;0.79038024
+Hi;small_talk;1
+Do you have direct flights to Kuwait?;Default Fallback Intent;1
+Hi! I'm currently in Brussels and my luggage is lost! Help.;flight_baggage_lost;0.6852664
+ https://twitter.com/messages/media/1283117307821199364;Default Fallback Intent;1
+Can I please get some help? I really need to get back to Chicago!;flight_question;0.74098593
+Hello I have had some issues with a cancelled flight!;flight_canceled;0.4336249
+NULL;intent_empty;0
+Hello hello;small_talk;1
+I was thinking August 22nd. ;Default Fallback Intent;1
+Hi- I need to book a flight for August to Miami. ;Default Fallback Intent;1
+NULL;intent_empty;0
+help;flight_question;0.7418101
+info;Default Fallback Intent;1
+hello;small_talk;1
+Get Started;flight_booking_information_delay;0.49773383
+This is a test message from the Facebook team. Please respond from your app within 2 days to confirm that the integration is functioning.;Default Fallback Intent;1
+This is a test message from the Facebook team. Please respond from your app within 2 days to confirm that the integration is functioning.;Default Fallback Intent;1
+3c;Default Fallback Intent;1
+3c;Default Fallback Intent;1
+3c;Default Fallback Intent;1
+3c;Default Fallback Intent;1
+2D;Default Fallback Intent;1
+2d;Default Fallback Intent;1
+2d;Default Fallback Intent;1
+2d;Default Fallback Intent;1
+2d;Default Fallback Intent;1
+1b;Default Fallback Intent;1
+1c;Default Fallback Intent;1
+1c;Default Fallback Intent;1
+1c;Default Fallback Intent;1
+1c;Default Fallback Intent;1
+This is a test message from the Facebook team. Please respond from your app within 2 days to confirm that the integration is functioning.;Default Fallback Intent;1
+NULL;intent_empty;0
+Who can I reach out to over the weekend? I would like to know when I will be able to fly to Mozambique again.;flight_question;0.472247
+This is a test message from the Facebook team. Please respond from your app within 2 days to confirm that the integration is functioning.;Default Fallback Intent;1
+NULL;intent_empty;0
+@clara_lines Is this still a valid promotion?;Default Fallback Intent;1
+Thanks;small_talk;1
+Hello Claralines;small_talk;0.84479904
+my booking number is 345678;flight_number;0.55337673
+Hi Claralines I need help with my flight;flight_question;0.7968638
+2b;Default Fallback Intent;1
+3 B;Default Fallback Intent;1
+2 C;Default Fallback Intent;1
+1:00 AM;Default Fallback Intent;1
+Hello Claralines, I need help with my booking.;flight_question;0.74894184
+Delay;flight_delays;0.73470134
+Help! Crisis;flight_question;0.6070378
+COVID;Default Fallback Intent;1
+1251595;Default Fallback Intent;1
+😡Cancelled;flight_canceled;0.55182946
+ClaraLines;Default Fallback Intent;1
+💔Delay/Cancellation;flight_canceled;0.6584799
+🇬🇧 English;Default Fallback Intent;1
+🤙🏻Start Over;small_talk;0.7696495
+🧳Baggage Question;flight_baggage_lost;0.6370402
+🇬🇧 English;Default Fallback Intent;1
+🤙🏻Start Over;small_talk;0.7696495
+Also, love how I can get connected through Whatsapp! ♥️;Default Fallback Intent;1
+Hi Claralines, looking forward to flying with you again soon!;Default Fallback Intent;1
+3c;Default Fallback Intent;1
+3b;Default Fallback Intent;1
+2d;Default Fallback Intent;1
+2b;Default Fallback Intent;1
+1a;Default Fallback Intent;1
+1c;Default Fallback Intent;1
+I have heard you don't support via whatsapp any more? Or why are you not getting back to me?;Default Fallback Intent;1
+I would like to formally escalate my refund request and talk to a line manager, please!;flight_ticket_refunds;0.62704945
+That's unfortunate...I am still waiting for my refund and have not heard back from customer service in over 2 weeks!;flight_experience_review;0.6549426
+Hello my luggage was lost on my last flight! Really need some guidance on getting it back!;flight_baggage_lost;0.6291512
+I have a question regarding this live chat;Default Fallback Intent;1
+Hi guys! Long time no speak;small_talk;0.9170292
+Awesome help;flight_question;0.7418101
+HOW LONG CAN SOMEONE WAIT?;small_talk;0.7211029
+Of spreken jullie ook Nederlands?;Default Fallback Intent;1
+I have a question with regards to these  buttons. Can I also talk to an agent?;Default Fallback Intent;1
+Hello;small_talk;1
+Oops. I meant hello;small_talk;0.9105285
+Hell!;Default Fallback Intent;1
+Do we have to be at the airport 3 hours before now? it is just an EU flight;flight_question;0.41629598
+Is the check-in for hang luggage a must now?;flight_checkin;0.7132823
+Do you have flights from Amsterdam to Sweden?;Default Fallback Intent;1
+1c;Default Fallback Intent;1
+1b;Default Fallback Intent;1
+1b;Default Fallback Intent;1
+1a;Default Fallback Intent;1
+Hello I really need some help!;flight_question;0.85906065
+A;Default Fallback Intent;1
+You*;small_talk;1
+Thank tou;flight_end_conversation;0.5190979
+🤓Booking Question;small_talk;0.9266173
+Can you help me?;flight_question;1
+Hi Claralines, do you fly directly to Oman now?;flight_question;0.5627799
+Brilliant!;small_talk;1
+Hi there, I've forgotten what CSAT surveys look like, could you please remind me?;Default Fallback Intent;1
+🧳Checked Baggage;flight_baggage_lost;0.65266746
+🧳Baggage Question;flight_baggage_lost;0.6370402
+🇬🇧 English;Default Fallback Intent;1
+🤙🏻Start Over;small_talk;0.7696495
+Hi, do you know when flights to Portugal will resume?;Default Fallback Intent;1
+Did you see my question?;small_talk;0.8792182
+Talk to Human;Default Fallback Intent;1
+ClaraLines;Default Fallback Intent;1
+🤓Booking Question;small_talk;0.9266173
+Hi can you help me please?;flight_question;1
+ClaraLines;Default Fallback Intent;1
+🤓Booking Question;small_talk;0.9266173
+I am angry with how you have handled my case. Everything is lost and gone..;Default Fallback Intent;1
+Did flights to Jeddah start?;Default Fallback Intent;1

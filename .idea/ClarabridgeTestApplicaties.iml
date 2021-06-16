@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/firebase/php-jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/google/auth" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/google/cloud" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/google/common-protos" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/google/crc32" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/google/gax" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/google/grpc-gcp" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/google/protobuf" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/grpc/grpc" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/rize/uri-template" />
+      <excludeFolder url="file://$MODULE_DIR$/Dialogflow/vendor/symfony/polyfill-ctype" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,160 @@
+[{
+  "text": "I live in the US but want to get a card",
+  "intent": "country_support"
+},
+{
+"text": "Are your cards available in Europe?",
+"intent": "country_support"
+},
+{
+"text": "Can I use your app if I am from the EU?",
+"intent": "country_support"
+},
+{
+"text": "What countries are supported?",
+"intent": "country_support"
+},
+{
+"text": "i live in the US can i still get a card?",
+"intent": "country_support"
+},
+{
+"text": "Can I get a card outside the UK?",
+"intent": "country_support"
+},
+{
+"text": "I'm not in the UK, can I still get a card?",
+"intent": "country_support"
+},
+{
+"text": "I'm not in the UK, is it possible for me to still get a card?",
+"intent": "country_support"
+},
+{
+"text": "Now that I live in the US how can I get a card?",
+"intent": "country_support"
+},
+{
+"text": "Can I get one of your cards in the EU",
+"intent": "country_support"
+},
+{
+"text": "Can I get a card despite the fact I'm not in the UK?",
+"intent": "country_support"
+},
+{
+"text": "Where do I need to live to get support?",
+"intent": "country_support"
+},
+{
+"text": "Do you support the EU?",
+"intent": "country_support"
+},
+{
+"text": "how do i get a card if i am in the usa",
+"intent": "country_support"
+},
+{
+"text": "Please help me get a new card, I reside in the United States.",
+"intent": "country_support"
+},
+{
+"text": "Is it possible to get a card if I'm not in the UK?",
+"intent": "country_support"
+},
+{
+"text": "Is my country supported",
+"intent": "country_support"
+},
+{
+"text": "From what countries can I use this product?",
+"intent": "country_support"
+},
+{
+"text": "Where can I find your locations?",
+"intent": "country_support"
+},
+{
+"text": "Can I get a card even if I live outside the UK?",
+"intent": "country_support"
+},
+{
+"text": "I am from the EU, can I sign up?",
+"intent": "country_support"
+},
+{
+"text": "I would like to receive and use the card in Europe, is that possible?",
+"intent": "country_support"
+},
+{
+"text": "What countries do you support?",
+"intent": "country_support"
+},
+{
+"text": "What countries are you currently in?",
+"intent": "country_support"
+},
+{
+"text": "What locations are you in?",
+"intent": "country_support"
+},
+{
+"text": "Can you tell me what countries you operate in?",
+"intent": "country_support"
+},
+{
+"text": "I need a card, but I'm in the US at the moment.",
+"intent": "country_support"
+},
+{
+"text": "What countries will my card be supported in?",
+"intent": "country_support"
+},
+{
+"text": "Do you have a list of countries you operate in?",
+"intent": "country_support"
+},
+{
+"text": "In what countries do you do business?",
+"intent": "country_support"
+},
+{
+"text": "I don't live in the UK.  Can I still get a card?",
+"intent": "country_support"
+},
+{
+"text": "Where do you support?",
+"intent": "country_support"
+},
+{
+"text": "Am I able to get a card in EU?",
+"intent": "country_support"
+},
+{
+"text": "What countries do you currently do business in?",
+"intent": "country_support"
+},
+{
+"text": "I'm not in the UK, can I get a card?",
+"intent": "country_support"
+},
+{
+"text": "If i'm not in the UK, can I still get a card?",
+"intent": "country_support"
+},
+{
+"text": "How many countries do you support?",
+"intent": "country_support"
+},
+{
+"text": "What countries do you do business in?",
+"intent": "country_support"
+},
+{
+"text": "What are the countries you operate in.",
+"intent": "country_support"
+},
+{
+"text": "Can the card be mailed and used in Europe?",
+"intent": "country_support"
+}]

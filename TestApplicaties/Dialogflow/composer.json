@@ -1,0 +1,7 @@
+{
+    "require": {
+        "google/cloud": "^0.149.0",
+      "ext-json": "*",
+        "johnathanmiller/secure-env-php": "^2.0"
+    }
+}

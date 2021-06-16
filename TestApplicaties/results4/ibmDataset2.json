@@ -1,0 +1,2652 @@
+[
+    {
+        "intent": "order_physical_card",
+        "query": "How do I locate my card?",
+        "score": 0.4607146501541138
+    },
+    {
+        "intent": "card_arrival",
+        "query": "I still have not received my new card, I ordered over a week ago.",
+        "score": 0.9448783874511719
+    },
+    {
+        "intent": "card_arrival",
+        "query": "I ordered a card but it has not arrived. Help please!",
+        "score": 0.464021635055542
+    },
+    {
+        "intent": "card_arrival",
+        "query": "Is there a way to know when my card will arrive?",
+        "score": 0.5296332120895386
+    },
+    {
+        "intent": "card_arrival",
+        "query": "My card has not arrived yet.",
+        "score": 0.49827558994293214
+    },
+    {
+        "intent": "card_delivery_estimate",
+        "query": "When will I get my card?",
+        "score": 0.7946990489959718
+    },
+    {
+        "intent": "card_arrival",
+        "query": "Do you know if there is a tracking number for the new card you sent me?",
+        "score": 0.9654989242553711
+    },
+    {
+        "intent": "activate_my_card",
+        "query": "I would like to reactivate my card.",
+        "score": 0.6614602565765382
+    },
+    {
+        "intent": "card_linking",
+        "query": "Where do I link the new card?",
+        "score": 0.8740561485290528
+    },
+    {
+        "intent": "card_linking",
+        "query": "I have received my card, can you help me put it in the app?",
+        "score": 0.6330203533172607
+    },
+    {
+        "intent": "card_linking",
+        "query": "How do I link a card that I already have?",
+        "score": 0.9169191360473634
+    },
+    {
+        "intent": "card_linking",
+        "query": "I received my new card, but I dont see it in the app anywhere.  What do I do?",
+        "score": 0.44152154922485354
+    },
+    {
+        "intent": "card_linking",
+        "query": "How do I re-add a card to the app?",
+        "score": 0.9528432846069337
+    },
+    {
+        "intent": "supported_cards_and_currencies",
+        "query": "How do I add the card to my account?",
+        "score": 0.328462815284729
+    },
+    {
+        "intent": "exchange_rate",
+        "query": "How did you come up with your exchange rates?",
+        "score": 0.91927227973938
+    },
+    {
+        "intent": "exchange_rate",
+        "query": "Where do you guys acquire your exchange rate?",
+        "score": 0.866390371322632
+    },
+    {
+        "intent": "exchange_rate",
+        "query": "How do I find the exchange rate?",
+        "score": 0.8667255878448488
+    },
+    {
+        "intent": "exchange_rate",
+        "query": "What are your international exchange rates?",
+        "score": 0.9007243633270263
+    },
+    {
+        "intent": "exchange_rate",
+        "query": "How often do your exchange rates change",
+        "score": 0.822062397003174
+    },
+    {
+        "intent": "exchange_rate",
+        "query": "Please advise what is the exchange rate",
+        "score": 0.6516489028930664
+    },
+    {
+        "intent": "exchange_rate",
+        "query": "How are exchange rates calculated?",
+        "score": 0.9561677932739259
+    },
+    {
+        "intent": "card_payment_wrong_exchange_rate",
+        "query": "The exchange rate was wrong when I bought something outside the country.",
+        "score": 0.572271466255188
+    },
+    {
+        "intent": "card_payment_wrong_exchange_rate",
+        "query": "The exchange rate on my purchase is wrong.",
+        "score": 0.8811583518981934
+    },
+    {
+        "intent": "card_payment_wrong_exchange_rate",
+        "query": "This rate is too low. Are you sure your using the right exchange rate.",
+        "score": 0.7888980865478517
+    },
+    {
+        "intent": "card_payment_wrong_exchange_rate",
+        "query": "I bought something, but the exchange rate looks wrong.",
+        "score": 0.847511386871338
+    },
+    {
+        "intent": "card_payment_wrong_exchange_rate",
+        "query": "The rate applied to my foreign purchase was incorrect",
+        "score": 0.5266043186187744
+    },
+    {
+        "intent": "wrong_exchange_rate_for_cash_withdrawal",
+        "query": "I bought something in a foreign currency but the rate applied is wrong!",
+        "score": 0.4938934564590454
+    },
+    {
+        "intent": "card_payment_wrong_exchange_rate",
+        "query": "My exchange went wrong. I swapped Russian Ruble for UK pounds and was charged too much.",
+        "score": 0.7951125144958497
+    },
+    {
+        "intent": "card_payment_not_recognised",
+        "query": "There is a fee I dont recognize on my statement.",
+        "score": 0.8080166339874268
+    },
+    {
+        "intent": "Refund_not_showing_up",
+        "query": "I would like a refund on the extra pound I was charged.",
+        "score": 0.39111672639846806
+    },
+    {
+        "intent": "extra_charge_on_statement",
+        "query": "Can you explain what this random $1 charge is?",
+        "score": 0.25563655288301845
+    },
+    {
+        "intent": "extra_charge_on_statement",
+        "query": "What is this $1 charge on my statement?",
+        "score": 0.9763537406921388
+    },
+    {
+        "intent": "extra_charge_on_statement",
+        "query": "Why does my statement have these extra charges?",
+        "score": 0.6583247661590577
+    },
+    {
+        "intent": "result_not_found",
+        "query": "I do not remember purchasing anything for 1\u00a3, and it is on my statement. Can you please tell me what that is about?",
+        "score": null
+    },
+    {
+        "intent": "extra_charge_on_statement",
+        "query": "I can see an extra 1\u00a3 charge on my app. Why did you charge me extra?",
+        "score": 0.7793861389160157
+    },
+    {
+        "intent": "pending_cash_withdrawal",
+        "query": "Why is it taking so long for my cash withdrawal to no longer show as pending?",
+        "score": 0.965634536743164
+    },
+    {
+        "intent": "pending_cash_withdrawal",
+        "query": "I tried taking money from the ATM but no money came out, but the transaction is still pending? How is this possible?",
+        "score": 0.6296762466430664
+    },
+    {
+        "intent": "pending_cash_withdrawal",
+        "query": "I got some cash of an ATM earlier but this shows up as pending in the app. How can this be still pending, Ive got the cash already?",
+        "score": 0.9410157680511475
+    },
+    {
+        "intent": "pending_cash_withdrawal",
+        "query": "Why is my withdrawal still pending?",
+        "score": 0.899064302444458
+    },
+    {
+        "intent": "result_not_found",
+        "query": "Are you sure when the withdrawal will show?",
+        "score": null
+    },
+    {
+        "intent": "pending_cash_withdrawal",
+        "query": "Hi! I was wondering if you can help me. I used the city centre ATM to get some cash, but the machine declined my card. My account shows that transaction is still pending. I didnt receive the money, so please cancel that transaction.",
+        "score": 0.8795485973358155
+    },
+    {
+        "intent": "pending_cash_withdrawal",
+        "query": "Why is a transaction showing as pending when I recieved cash from an ATM?",
+        "score": 0.3878049731254578
+    },
+    {
+        "intent": "reverted_card_payment",
+        "query": "There is an incoming payment into my account, but it is deactivated. Will they still be processed?",
+        "score": 0.284007066488266
+    },
+    {
+        "intent": "fiat_currency_support",
+        "query": "What currencies do you do exchanges for?",
+        "score": 0.6419568538665772
+    },
+    {
+        "intent": "fiat_currency_support",
+        "query": "In terms of holding and exchange, what fiat currencies do you use.",
+        "score": 0.9155651092529298
+    },
+    {
+        "intent": "fiat_currency_support",
+        "query": "What fiat currencies are used for holding transactions?",
+        "score": 0.9222049236297607
+    },
+    {
+        "intent": "fiat_currency_support",
+        "query": "Where can I exchange my money for EUR?",
+        "score": 0.48352885246276855
+    },
+    {
+        "intent": "fiat_currency_support",
+        "query": "Is it permissible to hold money in multiple currencies?",
+        "score": 0.897151803970337
+    },
+    {
+        "intent": "fiat_currency_support",
+        "query": "Can I exchange to EUR?",
+        "score": 0.6386983394622803
+    },
+    {
+        "intent": "card_delivery_estimate",
+        "query": "I live in the US, how long will it take for delivery?",
+        "score": 0.8648634433746338
+    },
+    {
+        "intent": "card_delivery_estimate",
+        "query": "When can I expect my card to be delivered to the US?",
+        "score": 0.9826170444488527
+    },
+    {
+        "intent": "card_delivery_estimate",
+        "query": "I need my card quickly",
+        "score": 0.8922472953796388
+    },
+    {
+        "intent": "card_delivery_estimate",
+        "query": "Does delivery to the US take long?",
+        "score": 0.7841608047485351
+    },
+    {
+        "intent": "card_delivery_estimate",
+        "query": "How long will it take to arrive?",
+        "score": 0.7796195507049561
+    },
+    {
+        "intent": "card_delivery_estimate",
+        "query": "Can I have my card delivered on a specific day?",
+        "score": 0.9327295303344727
+    },
+    {
+        "intent": "result_not_found",
+        "query": "What is the difference between standard and express delivery?",
+        "score": null
+    },
+    {
+        "intent": "automatic_top_up",
+        "query": "Can I have it add money at certain time intervals when I travel?",
+        "score": 0.7613635540008545
+    },
+    {
+        "intent": "automatic_top_up",
+        "query": "Im going to be away for awhile, can I have it add money automatically in certain intervals?",
+        "score": 0.9499082565307617
+    },
+    {
+        "intent": "automatic_top_up",
+        "query": "Where can I find the \"auto-top\" feature?",
+        "score": 0.3599730873228424
+    },
+    {
+        "intent": "automatic_top_up",
+        "query": "I just activated auto top-up, but it is not letting me enable it. Why not?",
+        "score": 0.6515158653259278
+    },
+    {
+        "intent": "automatic_top_up",
+        "query": "Is there an auto top-up option?",
+        "score": 0.9914078712463379
+    },
+    {
+        "intent": "result_not_found",
+        "query": "where is theft-top option?",
+        "score": null
+    },
+    {
+        "intent": "automatic_top_up",
+        "query": "Are there limits on auto top-up?",
+        "score": 0.9327218532562256
+    },
+    {
+        "intent": "card_not_working",
+        "query": "My card does not work",
+        "score": 0.9693822383880615
+    },
+    {
+        "intent": "order_physical_card",
+        "query": "How can I get my physical card to work?",
+        "score": 0.6024409294128419
+    },
+    {
+        "intent": "card_not_working",
+        "query": "Can someone assist me by explaining why my card is not working?",
+        "score": 0.41114938259124756
+    },
+    {
+        "intent": "card_not_working",
+        "query": "Help me.  My card doesnt work.",
+        "score": 0.8433816432952881
+    },
+    {
+        "intent": "card_not_working",
+        "query": "Can a card stop working?",
+        "score": 0.33931220769882203
+    },
+    {
+        "intent": "card_not_working",
+        "query": "I think my card is broken",
+        "score": 0.8738131999969483
+    },
+    {
+        "intent": "card_not_working",
+        "query": "Why isnt my card working?",
+        "score": 0.7111231327056886
+    },
+    {
+        "intent": "exchange_via_app",
+        "query": "What all currencies can be exchanged?",
+        "score": 0.6236938953399658
+    },
+    {
+        "intent": "exchange_via_app",
+        "query": "What is the best way to exchange currency between USD and GBP using your app?",
+        "score": 0.9521498680114746
+    },
+    {
+        "intent": "exchange_via_app",
+        "query": "If I wanted to make a change from GBP to AUD what is the process?",
+        "score": 0.5177233934402465
+    },
+    {
+        "intent": "exchange_via_app",
+        "query": "Can I get some money exchanged?",
+        "score": 0.33710944652557373
+    },
+    {
+        "intent": "exchange_via_app",
+        "query": "Is it possible to change to another currency?",
+        "score": 0.9787362098693848
+    },
+    {
+        "intent": "exchange_via_app",
+        "query": "How do I exchange my GBP to AUD?",
+        "score": 0.91358323097229
+    },
+    {
+        "intent": "country_support",
+        "query": "How would I use my money in a different country?",
+        "score": 0.3637444615364075
+    },
+    {
+        "intent": "lost_or_stolen_card",
+        "query": "How do I report my card stolen?",
+        "score": 0.9460490226745606
+    },
+    {
+        "intent": "lost_or_stolen_card",
+        "query": "My card is gone I think it was stolen",
+        "score": 0.8879449367523193
+    },
+    {
+        "intent": "result_not_found",
+        "query": "Is a copy of the police report necessary for completing the report process?",
+        "score": null
+    },
+    {
+        "intent": "lost_or_stolen_card",
+        "query": "I lost my wallet today with all my credit cards. Will you please block the card and send a replacement?",
+        "score": 0.7202346324920654
+    },
+    {
+        "intent": "lost_or_stolen_card",
+        "query": "How do I deal with a stolen card?",
+        "score": 0.8382359981536867
+    },
+    {
+        "intent": "lost_or_stolen_card",
+        "query": "Can you freeze my card it was stolen",
+        "score": 0.9795907497406007
+    },
+    {
+        "intent": "lost_or_stolen_card",
+        "query": "Help!  I cant find my card.",
+        "score": 0.8387014865875244
+    },
+    {
+        "intent": "age_limit",
+        "query": "I am only 17. Can I make an account?",
+        "score": 0.6356611728668213
+    },
+    {
+        "intent": "age_limit",
+        "query": "Could I open an account for my children?",
+        "score": 0.9597341060638429
+    },
+    {
+        "intent": "age_limit",
+        "query": "What is the age to open an account?",
+        "score": 0.952874803543091
+    },
+    {
+        "intent": "age_limit",
+        "query": "How do I open up an account for my child?",
+        "score": 0.9695562839508056
+    },
+    {
+        "intent": "age_limit",
+        "query": "Can I open a bank account for my newborn baby?",
+        "score": 0.733583402633667
+    },
+    {
+        "intent": "age_limit",
+        "query": "How old do I have to be to open an account?",
+        "score": 0.9520602703094483
+    },
+    {
+        "intent": "age_limit",
+        "query": "Do you offer services for children to have money saving experience?",
+        "score": 0.3310987820066913
+    },
+    {
+        "intent": "pin_blocked",
+        "query": "How can I unblock a blocked pin number for my account?",
+        "score": 0.943033790588379
+    },
+    {
+        "intent": "pin_blocked",
+        "query": "What do I do if the bank machine wont accept my PIN attempts anymore?",
+        "score": 0.5663781881332397
+    },
+    {
+        "intent": "pin_blocked",
+        "query": "Can you unlock my pin? I think I entered the wrong pin too many times.",
+        "score": 0.9809943199157716
+    },
+    {
+        "intent": "pin_blocked",
+        "query": "How do I deal with a blocked PIN?",
+        "score": 0.3273117285543776
+    },
+    {
+        "intent": "declined_card_payment",
+        "query": "I attempted to use my card while I was intoxicated, and I failed to input my PIN, and the machine kept my card. How soon can I have it back?",
+        "score": 0.5403046607971191
+    },
+    {
+        "intent": "pin_blocked",
+        "query": "Can I unblock my card using the app?",
+        "score": 0.6202377319335938
+    },
+    {
+        "intent": "pin_blocked",
+        "query": "Iv exhausted all the of times I can try my PIN",
+        "score": 0.2559285531213931
+    },
+    {
+        "intent": "contactless_not_working",
+        "query": "How do I check my security settings to allow contactless pay?",
+        "score": 0.7172977924346924
+    },
+    {
+        "intent": "contactless_not_working",
+        "query": "What can I do if contactless doesnt work?",
+        "score": 0.9344645500183106
+    },
+    {
+        "intent": "contactless_not_working",
+        "query": "Fix my contactless",
+        "score": 0.9905879020690918
+    },
+    {
+        "intent": "contactless_not_working",
+        "query": "How can I make my contactless work for the metro?",
+        "score": 0.9804565906524658
+    },
+    {
+        "intent": "contactless_not_working",
+        "query": "My contactless is not working",
+        "score": 0.9791638851165771
+    },
+    {
+        "intent": "contactless_not_working",
+        "query": "Can you help my fix my contactless?",
+        "score": 0.9698562622070312
+    },
+    {
+        "intent": "contactless_not_working",
+        "query": "For some reason my contactless wont work for me.",
+        "score": 0.9398666381835938
+    },
+    {
+        "intent": "top_up_by_bank_transfer_charge",
+        "query": "Are there charges for receiving a SEPA transfer?",
+        "score": 0.980799674987793
+    },
+    {
+        "intent": "transfer_into_account",
+        "query": "If I transfer money from my bank to top-up my account will I be charged?",
+        "score": 0.5674206256866455
+    },
+    {
+        "intent": "top_up_by_bank_transfer_charge",
+        "query": "Will I be charged if someone needs to send me money?",
+        "score": 0.645814323425293
+    },
+    {
+        "intent": "top_up_by_bank_transfer_charge",
+        "query": "What are the fees for top-ups?",
+        "score": 0.40495617389678956
+    },
+    {
+        "intent": "top_up_by_bank_transfer_charge",
+        "query": "Will topping up by transfer lead to a charge on my account?",
+        "score": 0.5682965278625489
+    },
+    {
+        "intent": "top_up_by_bank_transfer_charge",
+        "query": "What are the charges for receiving money?",
+        "score": 0.902235746383667
+    },
+    {
+        "intent": "top_up_by_bank_transfer_charge",
+        "query": "What is the fee to receive money?",
+        "score": 0.8141807556152345
+    },
+    {
+        "intent": "pending_top_up",
+        "query": "why hasnt my top up gone through yet",
+        "score": 0.5276627302169801
+    },
+    {
+        "intent": "topping_up_by_card",
+        "query": "top-up is slow to process",
+        "score": 0.4578220367431641
+    },
+    {
+        "intent": "pending_top_up",
+        "query": "Is there something wrong with your website? I tried topping up my account and its been close to two hours now and its still at \"pending\" for some reason. I just joined with you guys and this is the first attempt at this, so maybe Im wrong, but shouldnt this be instant?",
+        "score": 0.59769926071167
+    },
+    {
+        "intent": "pending_top_up",
+        "query": "I topped up by card a while ago and its still pending, surely it should be done by now?",
+        "score": 0.46045999526977544
+    },
+    {
+        "intent": "pending_top_up",
+        "query": "Why hasnt my top-up been completed?",
+        "score": 0.5916337966918945
+    },
+    {
+        "intent": "pending_top_up",
+        "query": "top up did not complete",
+        "score": 0.5924539566040039
+    },
+    {
+        "intent": "card_linking",
+        "query": "So I just put my top-up into the card and it hasnt changed.",
+        "score": 0.31921478509902956
+    },
+    {
+        "intent": "cancel_transfer",
+        "query": "Is there a way to revert my transaction from this morning?",
+        "score": 0.963892650604248
+    },
+    {
+        "intent": "cancel_transfer",
+        "query": "Id like to cancel a transfer",
+        "score": 0.8714219570159913
+    },
+    {
+        "intent": "cancel_transfer",
+        "query": "Can I cancel a transfer if is already processed?",
+        "score": 0.6600091457366943
+    },
+    {
+        "intent": "cancel_transfer",
+        "query": "I transferred the wrong amount and would like to cancel the transaction.",
+        "score": 0.8426136016845704
+    },
+    {
+        "intent": "cancel_transfer",
+        "query": "I made a mistake when I did a transfer so now what can I do to fix that?",
+        "score": 0.5633697986602784
+    },
+    {
+        "intent": "cancel_transfer",
+        "query": "I need to cancel an incorrect transaction.",
+        "score": 0.8773349761962892
+    },
+    {
+        "intent": "cancel_transfer",
+        "query": "How do I cancel my transfer?",
+        "score": 0.7976834774017334
+    },
+    {
+        "intent": "top_up_limits",
+        "query": "Is there a limit to top-ups?",
+        "score": 0.36392489153462576
+    },
+    {
+        "intent": "top_up_limits",
+        "query": "Can I top-up as much as I want?",
+        "score": 0.877713680267334
+    },
+    {
+        "intent": "top_up_limits",
+        "query": "Can you tell me the limits for top ups?",
+        "score": 0.2735027610424993
+    },
+    {
+        "intent": "top_up_limits",
+        "query": "When I top up what are the amoutn limits.",
+        "score": 0.8683318614959716
+    },
+    {
+        "intent": "top_up_limits",
+        "query": "Is there a limit on top-ups?",
+        "score": 0.4163302661242909
+    },
+    {
+        "intent": "top_up_limits",
+        "query": "What is the top-ups limit?",
+        "score": 0.2792191858362799
+    },
+    {
+        "intent": "result_not_found",
+        "query": "Are there limits to top-ups?",
+        "score": null
+    },
+    {
+        "intent": "wrong_amount_of_cash_received",
+        "query": "I tried to get $100 but I just got $20",
+        "score": 0.84056396484375
+    },
+    {
+        "intent": "wrong_amount_of_cash_received",
+        "query": "I have not received the amount of cash i was supposed to.",
+        "score": 0.5734281539916992
+    },
+    {
+        "intent": "wrong_amount_of_cash_received",
+        "query": "I asked for $100 cash but only got $20?",
+        "score": 0.9896364212036133
+    },
+    {
+        "intent": "wrong_amount_of_cash_received",
+        "query": "Where is the money that I asked for? I asked for more than I got!",
+        "score": 0.4216270632571195
+    },
+    {
+        "intent": "wrong_amount_of_cash_received",
+        "query": "I withdrew money but the full amount wasnt dispensed.",
+        "score": 0.4510490894317627
+    },
+    {
+        "intent": "wrong_amount_of_cash_received",
+        "query": "Something went wrong with my withdrawal. The amount of money isnt right.",
+        "score": 0.5097543478012085
+    },
+    {
+        "intent": "wrong_amount_of_cash_received",
+        "query": "I have got out the wrong amount from an ATM. Please tell me the process to get the cash back as in app its showing the amount i have been actually received.",
+        "score": 0.8193969249725341
+    },
+    {
+        "intent": "card_payment_fee_charged",
+        "query": "Will I always be charged a fee for using my card?",
+        "score": 0.5343393564224244
+    },
+    {
+        "intent": "card_payment_not_recognised",
+        "query": "Can I check somewhere if there will be a fee on my payment or not? Seems you are charging in some cases, whats the pattern there?",
+        "score": 0.26586480140686036
+    },
+    {
+        "intent": "card_payment_fee_charged",
+        "query": "Paying in card resulted in a fee",
+        "score": 0.7725057601928711
+    },
+    {
+        "intent": "card_payment_fee_charged",
+        "query": "I paid with card and I think there was a fee applied.",
+        "score": 0.6625208854675293
+    },
+    {
+        "intent": "extra_charge_on_statement",
+        "query": "So what items  actually come  with  extra  fees",
+        "score": 0.40476739406585693
+    },
+    {
+        "intent": "card_payment_fee_charged",
+        "query": "How do I avoid getting charged a fee on my card?",
+        "score": 0.5432285308837891
+    },
+    {
+        "intent": "card_payment_fee_charged",
+        "query": "Is there a fee when you pay with your card?",
+        "score": 0.8173907756805421
+    },
+    {
+        "intent": "transfer_not_received_by_recipient",
+        "query": "The day before yesterday, I performed a transfer which was within this country. It still hasnt gone through. Can you check on that? The account number is definitely correct, as Ive checked and double checked.",
+        "score": 0.7850377559661865
+    },
+    {
+        "intent": "transfer_not_received_by_recipient",
+        "query": "Im having a problem with a money transfer.  I sent some money to a friend a couple of hours ago, and they havent received it yet.  Why hasnt it gotten to them? How long do transfers need to go through?",
+        "score": 0.9460067272186279
+    },
+    {
+        "intent": "balance_not_updated_after_bank_transfer",
+        "query": "I transferred some money but the receiver cant pick it up for some reason.",
+        "score": 0.3601943254470825
+    },
+    {
+        "intent": "transfer_not_received_by_recipient",
+        "query": "Where is the transaction I made to a friend?",
+        "score": 0.9121031284332275
+    },
+    {
+        "intent": "transfer_not_received_by_recipient",
+        "query": "My friend still hasnt gotten a transaction I made.",
+        "score": 0.7790827274322509
+    },
+    {
+        "intent": "wrong_amount_of_cash_received",
+        "query": "Im waiting for my transaction to go through.",
+        "score": 0.27950946092605594
+    },
+    {
+        "intent": "pending_card_payment",
+        "query": "I made a transaction and it is taking a very long time to go through.",
+        "score": 0.415875506401062
+    },
+    {
+        "intent": "supported_cards_and_currencies",
+        "query": "Are US credit cards accepted?",
+        "score": 0.8239537239074708
+    },
+    {
+        "intent": "supported_cards_and_currencies",
+        "query": "I want to add money but dont know what currencies you accept, can you tell me?",
+        "score": 0.7720706462860107
+    },
+    {
+        "intent": "result_not_found",
+        "query": "why wouldnt you support american express? its a card i like and use often and i dont want to get a different one",
+        "score": null
+    },
+    {
+        "intent": "supported_cards_and_currencies",
+        "query": "Tell me which cards and what currency is supported.",
+        "score": 0.6138284206390381
+    },
+    {
+        "intent": "fiat_currency_support",
+        "query": "Do you support all cards and currencies?",
+        "score": 0.6241217136383057
+    },
+    {
+        "intent": "supported_cards_and_currencies",
+        "query": "Which credit or debit cards can I use to top up?",
+        "score": 0.7055119514465333
+    },
+    {
+        "intent": "card_payment_not_recognised",
+        "query": "What options do I have in regards to payment?",
+        "score": 0.27927708625793457
+    },
+    {
+        "intent": "getting_virtual_card",
+        "query": "Are virtual cards available to get?",
+        "score": 0.6113232135772706
+    },
+    {
+        "intent": "getting_virtual_card",
+        "query": "Can you help me sign up for a virtual card?",
+        "score": 0.8392478466033937
+    },
+    {
+        "intent": "country_support",
+        "query": "Can I get a copy of the card by email?",
+        "score": 0.36076951026916504
+    },
+    {
+        "intent": "getting_virtual_card",
+        "query": "Where do I find the virtual card?",
+        "score": 0.8959901332855225
+    },
+    {
+        "intent": "getting_virtual_card",
+        "query": "why do i not have a virtual card",
+        "score": 0.8830574989318849
+    },
+    {
+        "intent": "getting_virtual_card",
+        "query": "How do I order a virtual card?",
+        "score": 0.9565806865692139
+    },
+    {
+        "intent": "getting_virtual_card",
+        "query": "I thought I was going to get a virtual card but I havent received it yet, how can we resolve this?",
+        "score": 0.48817472457885747
+    },
+    {
+        "intent": "card_acceptance",
+        "query": "Is it acceptable to use my card anywhere?",
+        "score": 0.8327878952026369
+    },
+    {
+        "intent": "card_acceptance",
+        "query": "Can I use my card everywhere?",
+        "score": 0.6718457221984864
+    },
+    {
+        "intent": "card_acceptance",
+        "query": "Where is my card accepted?",
+        "score": 0.76345796585083
+    },
+    {
+        "intent": "card_acceptance",
+        "query": "Where can I pay with my debit or credit card?",
+        "score": 0.9051072597503662
+    },
+    {
+        "intent": "card_acceptance",
+        "query": "Where should my card work?",
+        "score": 0.5941744565963745
+    },
+    {
+        "intent": "card_acceptance",
+        "query": "areas card is accpeted",
+        "score": 0.5066955089569092
+    },
+    {
+        "intent": "card_acceptance",
+        "query": "places i can use the card",
+        "score": 0.583838939666748
+    },
+    {
+        "intent": "reverted_card_payment",
+        "query": "I tryed to make a top-up with cryptocurrency but the payment was referted.",
+        "score": 0.2706940948963166
+    },
+    {
+        "intent": "top_up_reverted",
+        "query": "The app reverted my top off.",
+        "score": 0.5873242139816284
+    },
+    {
+        "intent": "top_up_reverted",
+        "query": "The app reverted my action when I topped up.",
+        "score": 0.49545836448669434
+    },
+    {
+        "intent": "top_up_reverted",
+        "query": "Was my top up reversed?",
+        "score": 0.6862963199615479
+    },
+    {
+        "intent": "top_up_reverted",
+        "query": "I see my top-up was canceled, but why?",
+        "score": 0.8567407131195068
+    },
+    {
+        "intent": "top_up_reverted",
+        "query": "Do you know if my top-up has been cancelled?",
+        "score": 0.9718949794769287
+    },
+    {
+        "intent": "top_up_reverted",
+        "query": "has my top-up has been cancelled",
+        "score": 0.9793801784515381
+    },
+    {
+        "intent": "balance_not_updated_after_cheque_or_cash_deposit",
+        "query": "Why hasnt my balance increased after depositing a check?",
+        "score": 0.8058207035064697
+    },
+    {
+        "intent": "balance_not_updated_after_cheque_or_cash_deposit",
+        "query": "Why does my account not accept cash deposits?",
+        "score": 0.8517859935760499
+    },
+    {
+        "intent": "balance_not_updated_after_cheque_or_cash_deposit",
+        "query": "What happened to the cash that I tried to deposit into my account? Its gone!",
+        "score": 0.6610305786132813
+    },
+    {
+        "intent": "balance_not_updated_after_cheque_or_cash_deposit",
+        "query": "I had a cheque deposited, but I still havent seen the cash.",
+        "score": 0.8044538497924805
+    },
+    {
+        "intent": "balance_not_updated_after_cheque_or_cash_deposit",
+        "query": "A cheque deposit hasnt posted to my account, when will my balance update?",
+        "score": 0.9409852027893066
+    },
+    {
+        "intent": "balance_not_updated_after_cheque_or_cash_deposit",
+        "query": "I submitted a cash deposit to my account but it hasnt posted yet.",
+        "score": 0.9386077880859376
+    },
+    {
+        "intent": "top_up_by_cash_or_cheque",
+        "query": "I sent a cheque  a few days ago and nothing has happened to my account yet. Can you please check on this for me?",
+        "score": 0.4767460346221924
+    },
+    {
+        "intent": "extra_charge_on_statement",
+        "query": "I have an unauthorized transaction on my statement",
+        "score": 0.39976885318756106
+    },
+    {
+        "intent": "card_payment_not_recognised",
+        "query": "There is a payment in the App that is not mine.",
+        "score": 0.6366345882415771
+    },
+    {
+        "intent": "transfer_not_received_by_recipient",
+        "query": "I dont know where this transaction came from?",
+        "score": 0.5957754850387573
+    },
+    {
+        "intent": "compromised_card",
+        "query": "I see a charge on my account that I dont recall making. I feel like my account may have been compromised.",
+        "score": 0.42602760791778566
+    },
+    {
+        "intent": "card_payment_not_recognised",
+        "query": "I know I didnt make this payment showing up on my card, I dont remember this person at all.",
+        "score": 0.9039846420288087
+    },
+    {
+        "intent": "compromised_card",
+        "query": "Somebody used my card to make a purchase",
+        "score": 0.5534618616104126
+    },
+    {
+        "intent": "card_payment_not_recognised",
+        "query": "Theres a recent charge on my card that I know I didnt make because Ive never seen the name before. Can we investigate this?",
+        "score": 0.5153326988220215
+    },
+    {
+        "intent": "edit_personal_details",
+        "query": "I need to change my name since I got married",
+        "score": 0.36306870812611575
+    },
+    {
+        "intent": "edit_personal_details",
+        "query": "I want to change my address.",
+        "score": 0.9502432823181153
+    },
+    {
+        "intent": "edit_personal_details",
+        "query": "how to change name",
+        "score": 0.43701643819884173
+    },
+    {
+        "intent": "edit_personal_details",
+        "query": "Can I change my information?",
+        "score": 0.629271411895752
+    },
+    {
+        "intent": "edit_personal_details",
+        "query": "I need to update my current address",
+        "score": 0.8037157535552979
+    },
+    {
+        "intent": "edit_personal_details",
+        "query": "I have moved.  Where can I update my details?",
+        "score": 0.36063777670986497
+    },
+    {
+        "intent": "edit_personal_details",
+        "query": "I want to change my name.",
+        "score": 0.3422934831066811
+    },
+    {
+        "intent": "unable_to_verify_identity",
+        "query": "I do not wish to verify my identity.",
+        "score": 0.5700183868408204
+    },
+    {
+        "intent": "verify_my_identity",
+        "query": "Why do I have to verify my identity?",
+        "score": 0.5414955615997314
+    },
+    {
+        "intent": "verify_my_identity",
+        "query": "what is the identity check?",
+        "score": 0.7820798873901367
+    },
+    {
+        "intent": "verify_my_identity",
+        "query": "What other methods are there to verify my identity?",
+        "score": 0.8635669708251954
+    },
+    {
+        "intent": "verify_my_identity",
+        "query": "Do I need to verify my identity?",
+        "score": 0.8399482250213623
+    },
+    {
+        "intent": "verify_my_identity",
+        "query": "Do I need to verify my identity each time I wish to use my account?",
+        "score": 0.4465570211410523
+    },
+    {
+        "intent": "why_verify_identity",
+        "query": "Can I use my account if the identity verification is not complete?",
+        "score": 0.8449814796447754
+    },
+    {
+        "intent": "verify_my_identity",
+        "query": "How long will it take for my ID to verify?",
+        "score": 0.48880059719085694
+    },
+    {
+        "intent": "unable_to_verify_identity",
+        "query": "Why am I not able to verify my id?",
+        "score": 0.8553266525268555
+    },
+    {
+        "intent": "unable_to_verify_identity",
+        "query": "It doesnt let me verify my identity.",
+        "score": 0.8242981910705567
+    },
+    {
+        "intent": "unable_to_verify_identity",
+        "query": "app doesnt think its me",
+        "score": 0.5554518938064575
+    },
+    {
+        "intent": "unable_to_verify_identity",
+        "query": "Why am I having trouble verifying my id?",
+        "score": 0.9031988620758058
+    },
+    {
+        "intent": "unable_to_verify_identity",
+        "query": "I am having issues with identity verification",
+        "score": 0.592471981048584
+    },
+    {
+        "intent": "unable_to_verify_identity",
+        "query": "The app wont let me log in as myself.",
+        "score": 0.3471694111824036
+    },
+    {
+        "intent": "get_physical_card",
+        "query": "When do I receive my PIN",
+        "score": 0.814577054977417
+    },
+    {
+        "intent": "lost_or_stolen_card",
+        "query": "Help me find my card pin!",
+        "score": 0.6810604095458985
+    },
+    {
+        "intent": "get_physical_card",
+        "query": "Is PIN delivered separately?",
+        "score": 0.7892839431762695
+    },
+    {
+        "intent": "get_physical_card",
+        "query": "I can not find my card pin.",
+        "score": 0.6413401126861573
+    },
+    {
+        "intent": "change_pin",
+        "query": "What do I need to do for a PIN?",
+        "score": 0.25567897255852046
+    },
+    {
+        "intent": "get_physical_card",
+        "query": "Why cant I find my PIN?",
+        "score": 0.8231583118438721
+    },
+    {
+        "intent": "get_physical_card",
+        "query": "Where is the card PIN?",
+        "score": 0.9632441043853761
+    },
+    {
+        "intent": "visa_or_mastercard",
+        "query": "I would rather the Mastercard.",
+        "score": 0.8655107498168946
+    },
+    {
+        "intent": "visa_or_mastercard",
+        "query": "Please give me both a visa and a master card.",
+        "score": 0.9115170955657959
+    },
+    {
+        "intent": "visa_or_mastercard",
+        "query": "Is it possible to receive a Visa and a MasterCard?",
+        "score": 0.9429796695709229
+    },
+    {
+        "intent": "supported_cards_and_currencies",
+        "query": "What major card payments are accepted?",
+        "score": 0.49794857501983647
+    },
+    {
+        "intent": "visa_or_mastercard",
+        "query": "Is Visa or Mastercard available?",
+        "score": 0.934261178970337
+    },
+    {
+        "intent": "visa_or_mastercard",
+        "query": "Can you let me know if Visa is among the card scheme assignments?",
+        "score": 0.5507206439971923
+    },
+    {
+        "intent": "visa_or_mastercard",
+        "query": "Do you use Mastercard or Visa?",
+        "score": 0.974350881576538
+    },
+    {
+        "intent": "topping_up_by_card",
+        "query": "My friends want to top up my account",
+        "score": 0.9903481483459473
+    },
+    {
+        "intent": "verify_source_of_funds",
+        "query": "Who can top up my accounts?",
+        "score": 0.396016263961792
+    },
+    {
+        "intent": "topping_up_by_card",
+        "query": "show me how to top up with my card",
+        "score": 0.6713455677032472
+    },
+    {
+        "intent": "topping_up_by_card",
+        "query": "I topped up my card but the money disappeared.",
+        "score": 0.8958386421203615
+    },
+    {
+        "intent": "topping_up_by_card",
+        "query": "Why dont I see my top up in my wallet?",
+        "score": 0.8947534561157227
+    },
+    {
+        "intent": "top_up_failed",
+        "query": "Why cant I see the top-up amount I just added to my account?",
+        "score": 0.4118471384048462
+    },
+    {
+        "intent": "topping_up_by_card",
+        "query": "Are my friends able to top up my account?",
+        "score": 0.9479636669158935
+    },
+    {
+        "intent": "get_disposable_virtual_card",
+        "query": "What can I use a virtual disposable card for?",
+        "score": 0.8966862201690675
+    },
+    {
+        "intent": "disposable_card_limits",
+        "query": "Do you know what the restriction of the disposable cards are?",
+        "score": 0.8218986511230468
+    },
+    {
+        "intent": "disposable_card_limits",
+        "query": "What are the limits for disposable virtual cards?",
+        "score": 0.6135127067565918
+    },
+    {
+        "intent": "disposable_card_limits",
+        "query": "What are the limits to using disposable virtual cards?",
+        "score": 0.778470230102539
+    },
+    {
+        "intent": "disposable_card_limits",
+        "query": "How many transactions can I do with one disposable card?",
+        "score": 0.9365465641021729
+    },
+    {
+        "intent": "disposable_card_limits",
+        "query": "How many times can I use the disposable virtual card I have?",
+        "score": 0.9142930984497071
+    },
+    {
+        "intent": "compromised_card",
+        "query": "I think someone is using my card to make transactions I dont remember.",
+        "score": 0.7185570240020753
+    },
+    {
+        "intent": "compromised_card",
+        "query": "What do I do if I think someone managed to get my card information?",
+        "score": 0.604304838180542
+    },
+    {
+        "intent": "compromised_card",
+        "query": "I think someone copied the numbers on my card and is using them.",
+        "score": 0.31885504326261016
+    },
+    {
+        "intent": "compromised_card",
+        "query": "What should I do if I think someone is using my card.",
+        "score": 0.9182820796966553
+    },
+    {
+        "intent": "compromised_card",
+        "query": "Can I use app to freeze my card and dispute fraud?",
+        "score": 0.5239075422286987
+    },
+    {
+        "intent": "compromised_card",
+        "query": "Someone else is using my card, freeze it.",
+        "score": 0.8626312732696533
+    },
+    {
+        "intent": "atm_support",
+        "query": "Do all ATMs take this card?",
+        "score": 0.9265576839447023
+    },
+    {
+        "intent": "atm_support",
+        "query": "Which ATMs accept this card?",
+        "score": 0.951989793777466
+    },
+    {
+        "intent": "atm_support",
+        "query": "Do you know the closest ATM?",
+        "score": 0.2001386399681678
+    },
+    {
+        "intent": "atm_support",
+        "query": "Can I use this card at an ATM?",
+        "score": 0.8786130428314209
+    },
+    {
+        "intent": "atm_support",
+        "query": "Is there places where I cant withdraw money?",
+        "score": 0.7594916343688964
+    },
+    {
+        "intent": "atm_support",
+        "query": "locations to withdraw money",
+        "score": 0.9843072414398193
+    },
+    {
+        "intent": "direct_debit_payment_not_recognised",
+        "query": "Help me.  There is a Direct Debit that I didnt make.",
+        "score": 0.9353905200958252
+    },
+    {
+        "intent": "direct_debit_payment_not_recognised",
+        "query": "There is a direct debit thats not mine.",
+        "score": 0.9538129806518556
+    },
+    {
+        "intent": "direct_debit_payment_not_recognised",
+        "query": "I have a strange direct debit in my statement",
+        "score": 0.8820366382598877
+    },
+    {
+        "intent": "compromised_card",
+        "query": "I was charged on my account that shouldnt be there.",
+        "score": 0.3308796525001526
+    },
+    {
+        "intent": "direct_debit_payment_not_recognised",
+        "query": "Theres a direct debit I wish to dispute",
+        "score": 0.911638355255127
+    },
+    {
+        "intent": "direct_debit_payment_not_recognised",
+        "query": "Why was my account deducted from a seller when I didnt approve of it?",
+        "score": 0.6697086334228516
+    },
+    {
+        "intent": "passcode_forgotten",
+        "query": "What do I do if I forget my passcode?  Because I did.",
+        "score": 0.9157931327819824
+    },
+    {
+        "intent": "passcode_forgotten",
+        "query": "I cant find my password",
+        "score": 0.9631028175354004
+    },
+    {
+        "intent": "passcode_forgotten",
+        "query": "How do I retrieve my passcode?",
+        "score": 0.9391498565673828
+    },
+    {
+        "intent": "passcode_forgotten",
+        "query": "My passcode doesnt seem to be working",
+        "score": 0.927079725265503
+    },
+    {
+        "intent": "passcode_forgotten",
+        "query": "Can you tell me what to do to reset my passcode?",
+        "score": 0.9588490009307862
+    },
+    {
+        "intent": "passcode_forgotten",
+        "query": "What is the code I need to get into the app?",
+        "score": 0.4170348882675171
+    },
+    {
+        "intent": "get_physical_card",
+        "query": "Can you tell me why you wont let me get my own money out of the money machine? I know I used the right PIN.",
+        "score": 0.346201491355896
+    },
+    {
+        "intent": "top_up_reverted",
+        "query": "My withdrawal was cancelled.",
+        "score": 0.22422698578920972
+    },
+    {
+        "intent": "top_up_failed",
+        "query": "This is very frustrating. I cant get my card to work on any ATM I try and Ive tried 3 of them so far. Whats going on? Can you please fix this issue immediately?",
+        "score": 0.3614160180091858
+    },
+    {
+        "intent": "atm_support",
+        "query": "The ATM did not allow me to withdraw",
+        "score": 0.5791388034820557
+    },
+    {
+        "intent": "declined_cash_withdrawal",
+        "query": "Why was my ATM transaction cancelled?",
+        "score": 0.6097522258758545
+    },
+    {
+        "intent": "declined_cash_withdrawal",
+        "query": "atm would not give me cash",
+        "score": 0.5163276433944702
+    },
+    {
+        "intent": "declined_card_payment",
+        "query": "My card payment is still on hold, why is it so?",
+        "score": 0.39044328927993777
+    },
+    {
+        "intent": "pending_card_payment",
+        "query": "Why is my payment pending?",
+        "score": 0.9126049995422363
+    },
+    {
+        "intent": "pending_card_payment",
+        "query": "My card payment is still pending.",
+        "score": 0.8065240859985352
+    },
+    {
+        "intent": "reverted_card_payment",
+        "query": "How do i finalize a card payment",
+        "score": 0.3199236035346985
+    },
+    {
+        "intent": "pending_card_payment",
+        "query": "Why is my card payment showing as pending?",
+        "score": 0.9240888118743897
+    },
+    {
+        "intent": "pending_card_payment",
+        "query": "Why has my payment not gone through?",
+        "score": 0.8495060920715332
+    },
+    {
+        "intent": "lost_or_stolen_phone",
+        "query": "My phone was stolen",
+        "score": 0.9655682563781738
+    },
+    {
+        "intent": "lost_or_stolen_phone",
+        "query": "My phone was stolen yesterday.  What should I do?",
+        "score": 0.980644702911377
+    },
+    {
+        "intent": "lost_or_stolen_phone",
+        "query": "If my phone is missing, can I block someone from using the app?",
+        "score": 0.8725791454315186
+    },
+    {
+        "intent": "lost_or_stolen_phone",
+        "query": "I think my phone is either lost or stolen.",
+        "score": 0.9381090164184571
+    },
+    {
+        "intent": "lost_or_stolen_phone",
+        "query": "If I was mugged and lost everything, how do I access my account and app?",
+        "score": 0.6511673927307129
+    },
+    {
+        "intent": "lost_or_stolen_phone",
+        "query": "I cant find my phone.",
+        "score": 0.9672836780548095
+    },
+    {
+        "intent": "lost_or_stolen_phone",
+        "query": "Ive lost track of my phone or someone stole it.",
+        "score": 0.9174211502075196
+    },
+    {
+        "intent": "request_refund",
+        "query": "Can I receive a refund for my item?",
+        "score": 0.7223793029785157
+    },
+    {
+        "intent": "request_refund",
+        "query": "Get an item refund",
+        "score": 0.3051033351901112
+    },
+    {
+        "intent": "request_refund",
+        "query": "Would I be able to get a refund for something I bought?",
+        "score": 0.8709463119506837
+    },
+    {
+        "intent": "Refund_not_showing_up",
+        "query": "I need to do a refund",
+        "score": 0.7283443450927736
+    },
+    {
+        "intent": "request_refund",
+        "query": "I need a refund on an item I have not received.  Am I able to simply cancel the payment?  I dont know how to do this.",
+        "score": 0.42881217002868655
+    },
+    {
+        "intent": "request_refund",
+        "query": "I would like a refund for something I bought",
+        "score": 0.9231224536895752
+    },
+    {
+        "intent": "request_refund",
+        "query": "I want to return an item.",
+        "score": 0.6245458126068115
+    },
+    {
+        "intent": "failed_transfer",
+        "query": "I am getting continuous failure for all my transfers. I have cross checked each recipient detail again and again and everything is correct.",
+        "score": 0.33539786338806155
+    },
+    {
+        "intent": "declined_transfer",
+        "query": "why was my transfer declined",
+        "score": 0.9610918521881104
+    },
+    {
+        "intent": "result_not_found",
+        "query": "What would make a decline message show up during a transfer?",
+        "score": null
+    },
+    {
+        "intent": "declined_transfer",
+        "query": "Why do you keep declining my transfers?it was always been working really well so far but when I tried to buy something just now the card got declined . I tried couple of times already  but same thing is happening.",
+        "score": 0.948471975326538
+    },
+    {
+        "intent": "transaction_charged_twice",
+        "query": "How can I fix my card, it got declined twice.",
+        "score": 0.826857328414917
+    },
+    {
+        "intent": "declined_transfer",
+        "query": "Why did a transfer get declined?",
+        "score": 0.959291410446167
+    },
+    {
+        "intent": "declined_transfer",
+        "query": "My transfers are being declined. IT has always worked for me but now its declining my card. Ive tried several times.",
+        "score": 0.8709897518157959
+    },
+    {
+        "intent": "Refund_not_showing_up",
+        "query": "I was supposed to get a purchase refunded but I dont see the money in my account",
+        "score": 0.45293841361999515
+    },
+    {
+        "intent": "Refund_not_showing_up",
+        "query": "Theres a refund missing from my statement",
+        "score": 0.8124117374420166
+    },
+    {
+        "intent": "Refund_not_showing_up",
+        "query": "I need help. I asked for a refund from a merchant a while ago, but I have not gotten my money back. I keep checking my account, but nothing is showing up. What should I do now?",
+        "score": 0.6995446681976318
+    },
+    {
+        "intent": "Refund_not_showing_up",
+        "query": "I am awaiting my refund",
+        "score": 0.9164992809295656
+    },
+    {
+        "intent": "Refund_not_showing_up",
+        "query": "How long does it take for a refund?",
+        "score": 0.7282129287719727
+    },
+    {
+        "intent": "Refund_not_showing_up",
+        "query": "Help! I keep checking my account, but my refund is not showing. I requested that a seller refund my money a while back, but there is no money showing in my account. What can you do for me?",
+        "score": 0.9502750873565675
+    },
+    {
+        "intent": "Refund_not_showing_up",
+        "query": "Can you tell me why my refund is not showing in my statement?",
+        "score": 0.9582258701324464
+    },
+    {
+        "intent": "declined_card_payment",
+        "query": "My payment has been declined, I thought this issue was fixed!",
+        "score": 0.574812936782837
+    },
+    {
+        "intent": "declined_card_payment",
+        "query": "My card was declined in a shop",
+        "score": 0.6767361640930176
+    },
+    {
+        "intent": "declined_card_payment",
+        "query": "Why did it decline my payment?",
+        "score": 0.76771297454834
+    },
+    {
+        "intent": "declined_card_payment",
+        "query": "My card declined",
+        "score": 0.8094905853271486
+    },
+    {
+        "intent": "declined_card_payment",
+        "query": "Can you look at my account ans see why my card was declined",
+        "score": 0.49171340465545654
+    },
+    {
+        "intent": "declined_card_payment",
+        "query": "I was out today looking forward to pay with my new card, turns out the payment just kept getting declined. This is really sad, whats going on?",
+        "score": 0.9371060848236084
+    },
+    {
+        "intent": "declined_card_payment",
+        "query": "Why was a transaction on my card declined?",
+        "score": 0.4391731977462769
+    },
+    {
+        "intent": "result_not_found",
+        "query": "i transfered however its still pending",
+        "score": null
+    },
+    {
+        "intent": "pending_transfer",
+        "query": "I have a transfer thats pending and wanted to know how long it is going to take to process?",
+        "score": 0.6582278251647949
+    },
+    {
+        "intent": "pending_transfer",
+        "query": "So the transfer finally worked but now its been pending for quite a long time. How long do you expect me to wait for it? Its quite urgent",
+        "score": 0.3691603183746338
+    },
+    {
+        "intent": "pending_transfer",
+        "query": "I had made a transfer but its still pending.",
+        "score": 0.5021457433700562
+    },
+    {
+        "intent": "pending_transfer",
+        "query": "I submitted my transfer but it has been pending for quite a while and I was wondering what takes so long? why hasnt it completed",
+        "score": 0.4261671304702759
+    },
+    {
+        "intent": "pending_transfer",
+        "query": "How can I speed up a transfer?  Mine is pending.",
+        "score": 0.6154967784881592
+    },
+    {
+        "intent": "transfer_timing",
+        "query": "How long can an EU transfer take?",
+        "score": 0.7484021186828613
+    },
+    {
+        "intent": "terminate_account",
+        "query": "Please delete my account right now!",
+        "score": 0.9549047946929932
+    },
+    {
+        "intent": "terminate_account",
+        "query": "I want to close my account",
+        "score": 0.959963321685791
+    },
+    {
+        "intent": "terminate_account",
+        "query": "unhappy with you, how to delete account",
+        "score": 0.9539913654327392
+    },
+    {
+        "intent": "terminate_account",
+        "query": "I would like to delete my account.",
+        "score": 0.9763495445251464
+    },
+    {
+        "intent": "terminate_account",
+        "query": "I am highly unsatisfied with this company and want to delete my account!",
+        "score": 0.9070168495178224
+    },
+    {
+        "intent": "terminate_account",
+        "query": "I dont like your company. Delete my account.",
+        "score": 0.9687632560729982
+    },
+    {
+        "intent": "terminate_account",
+        "query": "I would like to close my account.",
+        "score": 0.951858139038086
+    },
+    {
+        "intent": "card_swallowed",
+        "query": "I think the atm ate my card.",
+        "score": 0.7294311046600341
+    },
+    {
+        "intent": "card_swallowed",
+        "query": "The ATM didnt give me the card back!",
+        "score": 0.9448461532592773
+    },
+    {
+        "intent": "card_swallowed",
+        "query": "How can I get my card out of the damn ATM?",
+        "score": 0.7029315471649171
+    },
+    {
+        "intent": "card_swallowed",
+        "query": "The atm wont give my card back!",
+        "score": 0.9081078052520752
+    },
+    {
+        "intent": "card_swallowed",
+        "query": "How can I get my card back out?",
+        "score": 0.7927070140838623
+    },
+    {
+        "intent": "card_swallowed",
+        "query": "The ATM machine stole my card.",
+        "score": 0.916932249069214
+    },
+    {
+        "intent": "card_swallowed",
+        "query": "The ATM at Metro bank on High St. Kensington swallowed my card. How do I get it back?",
+        "score": 0.9240920543670654
+    },
+    {
+        "intent": "transaction_charged_twice",
+        "query": "Why would I be charged more than once for the same transaction?",
+        "score": 0.32092878818511966
+    },
+    {
+        "intent": "request_refund",
+        "query": "I was wondering how I could have two charges for the same item happen more than once in a 7 day period. Is there anyway I could get this corrected asap.",
+        "score": 0.40180363655090334
+    },
+    {
+        "intent": "transaction_charged_twice",
+        "query": "Can you please check if I was charged twice?",
+        "score": 0.8699092864990234
+    },
+    {
+        "intent": "transaction_charged_twice",
+        "query": "I have been charged twice",
+        "score": 0.9635568141937256
+    },
+    {
+        "intent": "transaction_charged_twice",
+        "query": "It appears that I am being double charged for some items that I have purchased this past week.  Please review and correct.",
+        "score": 0.5616416931152344
+    },
+    {
+        "intent": "transaction_charged_twice",
+        "query": "It looks like this week I was double charged for a couple things. Is there any way that you can look into this for me and return the double charged items back to my card?",
+        "score": 0.7777898788452149
+    },
+    {
+        "intent": "transaction_charged_twice",
+        "query": "I noticed after looking over my transactions that I have been charged twice from an earlier restaurant visit this week. Is it possible that one of these can be removed so I get the money back for the one that is not accurate?",
+        "score": 0.786138153076172
+    },
+    {
+        "intent": "verify_source_of_funds",
+        "query": "How can I check the source of funds?",
+        "score": 0.9310890674591066
+    },
+    {
+        "intent": "verify_source_of_funds",
+        "query": "How can I tell where my funds came from?",
+        "score": 0.9823223590850831
+    },
+    {
+        "intent": "verify_source_of_funds",
+        "query": "What is the source of my available funds?",
+        "score": 0.9648702144622803
+    },
+    {
+        "intent": "verify_source_of_funds",
+        "query": "Can I find the origination of my funds?",
+        "score": 0.5440346240997315
+    },
+    {
+        "intent": "verify_source_of_funds",
+        "query": "My source of funds need verified.",
+        "score": 0.9643820762634279
+    },
+    {
+        "intent": "verify_source_of_funds",
+        "query": "What information do you need to verify my Source of Funds?",
+        "score": 0.935645341873169
+    },
+    {
+        "intent": "verify_source_of_funds",
+        "query": "I need the source of my funds verified. How do I do this?",
+        "score": 0.7666443347930909
+    },
+    {
+        "intent": "transfer_timing",
+        "query": "How long until the money is in my account?",
+        "score": 0.5014173030853272
+    },
+    {
+        "intent": "transfer_timing",
+        "query": "When will a transfer reach my account?",
+        "score": 0.9493578910827638
+    },
+    {
+        "intent": "transfer_timing",
+        "query": "When should I expect to see my transfer hit my account?",
+        "score": 0.5536208629608155
+    },
+    {
+        "intent": "transfer_timing",
+        "query": "Will my transfer immediately show up in my account?",
+        "score": 0.520726490020752
+    },
+    {
+        "intent": "transfer_timing",
+        "query": "If I need to do a quick transfer from China, how long should I expect the transfer to take?",
+        "score": 0.8966456413269044
+    },
+    {
+        "intent": "transfer_timing",
+        "query": "When does the money get transferred to my account",
+        "score": 0.6618978023529053
+    },
+    {
+        "intent": "transfer_timing",
+        "query": "How long do i have to wait for a transfer to reach my account?",
+        "score": 0.9465152740478515
+    },
+    {
+        "intent": "direct_debit_payment_not_recognised",
+        "query": "Im not sure why my account has been refunded a payment for an item Ive already received about 2 weeks ago. Can you please tell me what is going on?",
+        "score": 0.39690059423446655
+    },
+    {
+        "intent": "declined_card_payment",
+        "query": "My card is being declined for a purchase. I bought items before and the card worked. Do you know what the problem is?",
+        "score": 0.4466707229614258
+    },
+    {
+        "intent": "reverted_card_payment",
+        "query": "Can you tell my why my card payment has been reverted.",
+        "score": 0.9138513565063477
+    },
+    {
+        "intent": "card_payment_not_recognised",
+        "query": "why did the app refuse to make an approved payment",
+        "score": 0.3181527256965637
+    },
+    {
+        "intent": "reverted_card_payment",
+        "query": "Do you know why my card payment was reverted?",
+        "score": 0.8352382183074951
+    },
+    {
+        "intent": "reverted_card_payment",
+        "query": "My credit card cancelled a payment for a purchase.",
+        "score": 0.5712373733520508
+    },
+    {
+        "intent": "reverted_card_payment",
+        "query": "Why was my payment reversed?",
+        "score": 0.8843338489532471
+    },
+    {
+        "intent": "change_pin",
+        "query": "In what ATM can I change my pin?",
+        "score": 0.954149627685547
+    },
+    {
+        "intent": "result_not_found",
+        "query": "Id like to make a new PIN selection.",
+        "score": null
+    },
+    {
+        "intent": "get_physical_card",
+        "query": "How do I set a new pin?",
+        "score": 0.5830795049667359
+    },
+    {
+        "intent": "change_pin",
+        "query": "How do I update my PIN to a new number?",
+        "score": 0.9018338680267335
+    },
+    {
+        "intent": "change_pin",
+        "query": "How can I change my Tholepin ?",
+        "score": 0.5018261671066284
+    },
+    {
+        "intent": "result_not_found",
+        "query": "My new pin needs to be set.",
+        "score": null
+    },
+    {
+        "intent": "change_pin",
+        "query": "I want to choose a different PIN.",
+        "score": 0.35020806112841285
+    },
+    {
+        "intent": "beneficiary_not_allowed",
+        "query": "Why isnt my transfer not going through? I keep getting an error message.",
+        "score": 0.8620885848999025
+    },
+    {
+        "intent": "beneficiary_not_allowed",
+        "query": "What are the rules for transferring to a beneficiary?",
+        "score": 0.9415754795074462
+    },
+    {
+        "intent": "beneficiary_not_allowed",
+        "query": "Can I transfer money to a beneficiery?",
+        "score": 0.6087500572204589
+    },
+    {
+        "intent": "beneficiary_not_allowed",
+        "query": "I have tried transferring money numerous times.  All I keep getting is an error message.  Can you tell me what is going on and how this van be fixed?",
+        "score": 0.5867787837982178
+    },
+    {
+        "intent": "beneficiary_not_allowed",
+        "query": "I have a cryptocurrency exchange that wont go through. Please help me process it.",
+        "score": 0.2878093779087067
+    },
+    {
+        "intent": "beneficiary_not_allowed",
+        "query": "Why wasnt I able to transfer to another account?",
+        "score": 0.4772939205169678
+    },
+    {
+        "intent": "beneficiary_not_allowed",
+        "query": "The money would not transfer to a beneficiary.",
+        "score": 0.908109998703003
+    },
+    {
+        "intent": "transfer_fee_charged",
+        "query": "Hi,  Please help me, as i have transferred some amount but receiver did not get the same amount. He received a bit less. Due to this again i need to transfer the difference.   I have transferred money but beneficiarys account is credited with less amount. Now i have transfer the difference of the amount. I think there is some issue, could you please look into this.",
+        "score": 0.9047075748443605
+    },
+    {
+        "intent": "top_up_by_card_charge",
+        "query": "Why did I get charged for something I bought online? Even though it was international, I thought it would be covered.",
+        "score": 0.3111243486404419
+    },
+    {
+        "intent": "transfer_fee_charged",
+        "query": "Why were there additional charges when transferring?",
+        "score": 0.34339804429791915
+    },
+    {
+        "intent": "transfer_fee_charged",
+        "query": "I was charged more when I transferred!",
+        "score": 0.6894528865814209
+    },
+    {
+        "intent": "top_up_by_bank_transfer_charge",
+        "query": "Is there a transfer fee?",
+        "score": 0.706017255783081
+    },
+    {
+        "intent": "transfer_fee_charged",
+        "query": "Im not sure why I was charged an extra fee for transferring funds.",
+        "score": 0.9533888339996339
+    },
+    {
+        "intent": "transfer_fee_charged",
+        "query": "I thought transfers were free, why was I charged a fee?",
+        "score": 0.9072868824005127
+    },
+    {
+        "intent": "receiving_money",
+        "query": "How do i get my salary in the account?",
+        "score": 0.9133644104003906
+    },
+    {
+        "intent": "receiving_money",
+        "query": "What are the ways for others to transfer me money?",
+        "score": 0.5406642198562622
+    },
+    {
+        "intent": "receiving_money",
+        "query": "What different ways are there for someone to send me money?",
+        "score": 0.6356998443603517
+    },
+    {
+        "intent": "transfer_into_account",
+        "query": "What do I need to do to transfer my paycheck to my account?",
+        "score": 0.47846052646636966
+    },
+    {
+        "intent": "receiving_money",
+        "query": "How can my friend send me money?",
+        "score": 0.9634529113769532
+    },
+    {
+        "intent": "receiving_money",
+        "query": "Can I directly transfer my salary onto here?",
+        "score": 0.9686406612396241
+    },
+    {
+        "intent": "receiving_money",
+        "query": "Can this be used to receive my salary?",
+        "score": 0.963684368133545
+    },
+    {
+        "intent": "failed_transfer",
+        "query": "My transfer will not go through.",
+        "score": 0.6987339496612549
+    },
+    {
+        "intent": "failed_transfer",
+        "query": "My transfer keeps failing and I just want to transfer the money can you please make it work?",
+        "score": 0.8006321907043457
+    },
+    {
+        "intent": "failed_transfer",
+        "query": "The transfer keeps failing , I tried to transfer some money to friends this morning but it keeps getting rejected for some reason, Would you please check the issue ?",
+        "score": 0.8330430030822755
+    },
+    {
+        "intent": "failed_transfer",
+        "query": "Why would a transfer fail?",
+        "score": 0.901561975479126
+    },
+    {
+        "intent": "lost_or_stolen_card",
+        "query": "What are your policies for card transfers?",
+        "score": 0.2649327695369721
+    },
+    {
+        "intent": "failed_transfer",
+        "query": "Is the system down? Ive been trying to do a transfer and have failed?",
+        "score": 0.7241811752319336
+    },
+    {
+        "intent": "failed_transfer",
+        "query": "I tried to make a transfer but it failed",
+        "score": 0.8900623321533203
+    },
+    {
+        "intent": "transfer_into_account",
+        "query": "How to I transfer my funds into my account?",
+        "score": 0.8556364536285401
+    },
+    {
+        "intent": "topping_up_by_card",
+        "query": "How do I top up my card?",
+        "score": 0.5269050121307373
+    },
+    {
+        "intent": "transfer_into_account",
+        "query": "How can I transfer money from an outside bank?",
+        "score": 0.7513438224792481
+    },
+    {
+        "intent": "transfer_into_account",
+        "query": "How can I fund my top-up account using my bank account?",
+        "score": 0.8989439964294434
+    },
+    {
+        "intent": "supported_cards_and_currencies",
+        "query": "What methods can I use to add money to my account?",
+        "score": 0.6172482013702393
+    },
+    {
+        "intent": "transfer_into_account",
+        "query": "I would like to use the bank transfer feature, but I cant find it. Can you please give me the details?",
+        "score": 0.32595630884170534
+    },
+    {
+        "intent": "transfer_into_account",
+        "query": "How can I perform a dual money transferring from one account to another?",
+        "score": 0.5769720792770385
+    },
+    {
+        "intent": "verify_top_up",
+        "query": "Wheres the verification code for the top-up card?",
+        "score": 0.9828844547271729
+    },
+    {
+        "intent": "verify_top_up",
+        "query": "How do I find the verification code for my top-up card?",
+        "score": 0.9553221702575685
+    },
+    {
+        "intent": "verify_top_up",
+        "query": "Why is it important to verify a top-up card?",
+        "score": 0.6742578029632569
+    },
+    {
+        "intent": "verify_top_up",
+        "query": "Why do I have to verify the top-up?",
+        "score": 0.8951684951782226
+    },
+    {
+        "intent": "verify_top_up",
+        "query": "What is the verification code on a top-up?",
+        "score": 0.9612885475158692
+    },
+    {
+        "intent": "verify_top_up",
+        "query": "I cant find the top-up verification code.",
+        "score": 0.9570955276489259
+    },
+    {
+        "intent": "verify_top_up",
+        "query": "How do I go forth verifying my top-up card?",
+        "score": 0.696535301208496
+    },
+    {
+        "intent": "getting_spare_card",
+        "query": "May I have another card?",
+        "score": 0.9027550697326661
+    },
+    {
+        "intent": "getting_spare_card",
+        "query": "Is there a fee for sending out more than one card?",
+        "score": 0.5007951974868774
+    },
+    {
+        "intent": "getting_spare_card",
+        "query": "Can I order extra cards?",
+        "score": 0.9050004482269287
+    },
+    {
+        "intent": "getting_spare_card",
+        "query": "Where can I get a second card?",
+        "score": 0.8580101490020753
+    },
+    {
+        "intent": "getting_spare_card",
+        "query": "I was looking to buy another card today.",
+        "score": 0.4609991550445557
+    },
+    {
+        "intent": "getting_spare_card",
+        "query": "I need a few more physical cards.",
+        "score": 0.9144507408142091
+    },
+    {
+        "intent": "getting_spare_card",
+        "query": "Can i have a second physical card for this account?",
+        "score": 0.8272935390472413
+    },
+    {
+        "intent": "top_up_by_cash_or_cheque",
+        "query": "is there a way to do top up with cash deposit",
+        "score": 0.7777347564697266
+    },
+    {
+        "intent": "top_up_by_cash_or_cheque",
+        "query": "Where are the options to top up with a cheque on my account?",
+        "score": 0.9340375900268556
+    },
+    {
+        "intent": "top_up_by_cash_or_cheque",
+        "query": "Can I use cash to top up my account?",
+        "score": 0.6701807022094727
+    },
+    {
+        "intent": "top_up_by_cash_or_cheque",
+        "query": "How can I top up with cash?",
+        "score": 0.9384867668151855
+    },
+    {
+        "intent": "top_up_by_cash_or_cheque",
+        "query": "Will you accept a cheque to top up my account?",
+        "score": 0.9394784927368165
+    },
+    {
+        "intent": "top_up_by_cash_or_cheque",
+        "query": "How can I top up with this cheque I got?",
+        "score": 0.96799054145813
+    },
+    {
+        "intent": "transfer_into_account",
+        "query": "What methods can I use to top up my account?",
+        "score": 0.3865477800369263
+    },
+    {
+        "intent": "order_physical_card",
+        "query": "How can I get a physical card",
+        "score": 0.9190300941467286
+    },
+    {
+        "intent": "order_physical_card",
+        "query": "Can I get a physical card through this app?",
+        "score": 0.6644030570983888
+    },
+    {
+        "intent": "getting_virtual_card",
+        "query": "can I have a non virtual card?",
+        "score": 0.9321056842803956
+    },
+    {
+        "intent": "order_physical_card",
+        "query": "How do I get a physical card?",
+        "score": 0.9456918239593506
+    },
+    {
+        "intent": "order_physical_card",
+        "query": "What are the fees to get a physical card?",
+        "score": 0.742915964126587
+    },
+    {
+        "intent": "card_delivery_estimate",
+        "query": "Where can my card be delivered?",
+        "score": 0.6147684097290039
+    },
+    {
+        "intent": "order_physical_card",
+        "query": "What will I be charged for a physical card?",
+        "score": 0.5166917324066163
+    },
+    {
+        "intent": "get_disposable_virtual_card",
+        "query": "Is there a trick to get the disposable virtual card to work?",
+        "score": 0.5835596084594727
+    },
+    {
+        "intent": "virtual_card_not_working",
+        "query": "Why cant I get my virtual card to work?",
+        "score": 0.9724795818328857
+    },
+    {
+        "intent": "card_not_working",
+        "query": "My card is just not working at this time.",
+        "score": 0.5656338691711427
+    },
+    {
+        "intent": "card_not_working",
+        "query": "My disposable card seems not to be working am I doing something wrong?",
+        "score": 0.3682307243347168
+    },
+    {
+        "intent": "virtual_card_not_working",
+        "query": "My payments from my virtual card keep getting rejected.",
+        "score": 0.7615529537200929
+    },
+    {
+        "intent": "virtual_card_not_working",
+        "query": "My disposable virtual card is not working when I try to use it at a point of sale transaction. What do I do now?",
+        "score": 0.48667521476745607
+    },
+    {
+        "intent": "virtual_card_not_working",
+        "query": "My transaction was just declined when I was using my disposable virtual card. What can I do?",
+        "score": 0.6524397850036621
+    },
+    {
+        "intent": "wrong_exchange_rate_for_cash_withdrawal",
+        "query": "I need the right foreign money, at the right rate, at ATMs, when I go abroad.",
+        "score": 0.6680306911468505
+    },
+    {
+        "intent": "wrong_exchange_rate_for_cash_withdrawal",
+        "query": "The conversion rate on the ATM that I used with foreign currency was wrong.",
+        "score": 0.803514051437378
+    },
+    {
+        "intent": "wrong_exchange_rate_for_cash_withdrawal",
+        "query": "why is the exchange rate for a Foreign ATM different",
+        "score": 0.7335430145263673
+    },
+    {
+        "intent": "wrong_exchange_rate_for_cash_withdrawal",
+        "query": "My cash withdrawal charged me the wrong exchange rate",
+        "score": 0.6794547080993653
+    },
+    {
+        "intent": "wrong_exchange_rate_for_cash_withdrawal",
+        "query": "I withdrew some cash out of the ATM over the holiday. It seems that I was charged some outrageous fees. I would not have done that had I been aware of these outrageous charges!",
+        "score": 0.8323004245758057
+    },
+    {
+        "intent": "card_payment_wrong_exchange_rate",
+        "query": "The exchange rate for my withdrawal isnt correct and doesnt match the actual exchange rate.",
+        "score": 0.7712028980255128
+    },
+    {
+        "intent": "card_payment_wrong_exchange_rate",
+        "query": "Can you explain your exchange rate policy? I dont think I received the correct amount of cash in my ATM transaction.",
+        "score": 0.2895094990730286
+    },
+    {
+        "intent": "get_disposable_virtual_card",
+        "query": "What does a disposable virtual card do?",
+        "score": 0.9715289115905763
+    },
+    {
+        "intent": "get_disposable_virtual_card",
+        "query": "When can I order a disposable virtual card?",
+        "score": 0.8241471767425537
+    },
+    {
+        "intent": "get_disposable_virtual_card",
+        "query": "Is it possible to also get a disposable virtual card?",
+        "score": 0.7955327987670899
+    },
+    {
+        "intent": "get_disposable_virtual_card",
+        "query": "How do I obtain a disposable virtual card?",
+        "score": 0.9407039165496827
+    },
+    {
+        "intent": "get_disposable_virtual_card",
+        "query": "How would you use a disposable card?",
+        "score": 0.930366897583008
+    },
+    {
+        "intent": "get_disposable_virtual_card",
+        "query": "I need a disposable virtual card, how do I get one?",
+        "score": 0.9603687763214113
+    },
+    {
+        "intent": "get_disposable_virtual_card",
+        "query": "How do disposable cards work?",
+        "score": 0.8921529293060304
+    },
+    {
+        "intent": "top_up_failed",
+        "query": "How did my top-up fail?",
+        "score": 0.8533041477203369
+    },
+    {
+        "intent": "top_up_failed",
+        "query": "My top-up failed, WHY?",
+        "score": 0.9106098651885988
+    },
+    {
+        "intent": "top_up_failed",
+        "query": "I tried to top up. Why was it denied?",
+        "score": 0.4438957691192627
+    },
+    {
+        "intent": "top_up_failed",
+        "query": "Whats the deal? My card was just denied for top up. Why is it not going through?",
+        "score": 0.36537028551101686
+    },
+    {
+        "intent": "top_up_failed",
+        "query": "I dont think my top up is working correctly",
+        "score": 0.6833044528961182
+    },
+    {
+        "intent": "top_up_failed",
+        "query": "The app wont let me top up my account",
+        "score": 0.34408321380615237
+    },
+    {
+        "intent": "top_up_failed",
+        "query": "Im not sure why my top up request was denied",
+        "score": 0.4847623109817505
+    },
+    {
+        "intent": "failed_transfer",
+        "query": "I have completed a transfer but it is not showing up.",
+        "score": 0.5420397996902466
+    },
+    {
+        "intent": "pending_transfer",
+        "query": "I did a transfer to my account but it doesnt show up",
+        "score": 0.35971424579620365
+    },
+    {
+        "intent": "transfer_timing",
+        "query": "How long until my transfer will be available to me",
+        "score": 0.5449961423873901
+    },
+    {
+        "intent": "balance_not_updated_after_bank_transfer",
+        "query": "Why doesnt it show that I did a balance transfer?",
+        "score": 0.8173699378967285
+    },
+    {
+        "intent": "balance_not_updated_after_bank_transfer",
+        "query": "I made a bank transfer a couple of hours ago from my UK account.  It hasnt appeared, can you check to make sure it went through?",
+        "score": 0.8430529594421388
+    },
+    {
+        "intent": "pending_transfer",
+        "query": "My transfer is pending.",
+        "score": 0.8550147056579591
+    },
+    {
+        "intent": "balance_not_updated_after_bank_transfer",
+        "query": "Hey, I try to make a bank transfer from my UK account a few hours ago, but it havent show up yet. Please check my account to make sure everything alright with it?",
+        "score": 0.9390433788299561
+    },
+    {
+        "intent": "cash_withdrawal_not_recognised",
+        "query": "There is an error, the app says I made an ATM withdrawal and I didnt.",
+        "score": 0.6682506084442139
+    },
+    {
+        "intent": "cash_withdrawal_not_recognised",
+        "query": "Can anyone help me, I lost my wallet and theyve started withdrawing from my account.",
+        "score": 0.5429213523864747
+    },
+    {
+        "intent": "result_not_found",
+        "query": "What do I do if I notice a strange withdrawl in my statement?",
+        "score": null
+    },
+    {
+        "intent": "cash_withdrawal_not_recognised",
+        "query": "I dont recognise a cash withdrawal",
+        "score": 0.5570158958435059
+    },
+    {
+        "intent": "cash_withdrawal_not_recognised",
+        "query": "Help!  My wallet was stolen and someone is taking money out.  I need this money!  What can I do?",
+        "score": 0.6841923713684082
+    },
+    {
+        "intent": "pending_cash_withdrawal",
+        "query": "There is a cash withdrawal transaction that I am unsure of.",
+        "score": 0.3654345750808716
+    },
+    {
+        "intent": "cash_withdrawal_not_recognised",
+        "query": "I didnt take out money from an ATM but my app statement shows that I did. How can I fix this?",
+        "score": 0.7509290695190429
+    },
+    {
+        "intent": "exchange_charge",
+        "query": "How much will I pay to exchange foreign currency?",
+        "score": 0.9432781219482422
+    },
+    {
+        "intent": "exchange_charge",
+        "query": "Does it cost money for currency exchange services?",
+        "score": 0.7413311004638672
+    },
+    {
+        "intent": "exchange_charge",
+        "query": "Are there extra charges for exchanging currency?",
+        "score": 0.9286207675933837
+    },
+    {
+        "intent": "exchange_charge",
+        "query": "I will need to exchange currencies frequently, will I be able to get a discount?",
+        "score": 0.736281156539917
+    },
+    {
+        "intent": "exchange_charge",
+        "query": "Is there a charge for a foreign currency exchange?",
+        "score": 0.9332696914672851
+    },
+    {
+        "intent": "exchange_charge",
+        "query": "Is there a discount for frequently exchanging currencies?",
+        "score": 0.8958861827850342
+    },
+    {
+        "intent": "exchange_charge",
+        "query": "What is the cost for an exchange fee?",
+        "score": 0.8852149009704591
+    },
+    {
+        "intent": "top_up_by_card_charge",
+        "query": "Is it okay to use a bank card to top up",
+        "score": 0.6199182987213134
+    },
+    {
+        "intent": "top_up_by_card_charge",
+        "query": "Any fee for topping up?",
+        "score": 0.6344735622406006
+    },
+    {
+        "intent": "top_up_limits",
+        "query": "Are there any fees for top ups?",
+        "score": 0.4130065441131592
+    },
+    {
+        "intent": "top_up_by_card_charge",
+        "query": "What are the fees of using an international card to add money?",
+        "score": 0.9499590396881104
+    },
+    {
+        "intent": "top_up_by_card_charge",
+        "query": "Is there a charge or discount if I use a European bank in a top up?",
+        "score": 0.8945749759674073
+    },
+    {
+        "intent": "top_up_by_bank_transfer_charge",
+        "query": "Is their a fee for top ups?",
+        "score": 0.45295648574829106
+    },
+    {
+        "intent": "top_up_by_card_charge",
+        "query": "Can I top up using an international card",
+        "score": 0.9129107475280762
+    },
+    {
+        "intent": "activate_my_card",
+        "query": "I would like to get help from someone with activating my card.",
+        "score": 0.7302109718322753
+    },
+    {
+        "intent": "activate_my_card",
+        "query": "What is the process for activating my card?",
+        "score": 0.8433631420135499
+    },
+    {
+        "intent": "activate_my_card",
+        "query": "How do I use my new card?",
+        "score": 0.4053391218185425
+    },
+    {
+        "intent": "activate_my_card",
+        "query": "I got my new card but I am not sure if it need s activated and how?",
+        "score": 0.863394594192505
+    },
+    {
+        "intent": "activate_my_card",
+        "query": "What are the steps to activating a new card?",
+        "score": 0.8643929481506347
+    },
+    {
+        "intent": "activate_my_card",
+        "query": "I would like to activate my card to use now, can you help me?",
+        "score": 0.757033920288086
+    },
+    {
+        "intent": "activate_my_card",
+        "query": "How do I activate a new card?",
+        "score": 0.975584363937378
+    },
+    {
+        "intent": "cash_withdrawal_charge",
+        "query": "I have never been charged a fee for cash withdrawal before. When did that change?",
+        "score": 0.7562018871307374
+    },
+    {
+        "intent": "cash_withdrawal_charge",
+        "query": "I was charged for a cash withdrawal.",
+        "score": 0.9275086879730225
+    },
+    {
+        "intent": "cash_withdrawal_charge",
+        "query": "Why did you charge me for a cash withdrawal?",
+        "score": 0.8522553443908691
+    },
+    {
+        "intent": "cash_withdrawal_charge",
+        "query": "I took cash and got charged a fee",
+        "score": 0.7403167724609376
+    },
+    {
+        "intent": "cash_withdrawal_charge",
+        "query": "Was charged an ATM fee despite it being a small withdrawal on the 1st day of the month. I thought I was allowed 200 per month?",
+        "score": 0.3016985416412354
+    },
+    {
+        "intent": "cash_withdrawal_charge",
+        "query": "I had a wrong fee charged at this ATM.",
+        "score": 0.4109000444412232
+    },
+    {
+        "intent": "result_not_found",
+        "query": "When I got cash, Im pretty sure there was a glitch that overcharged me.",
+        "score": null
+    },
+    {
+        "intent": "card_about_to_expire",
+        "query": "I need a new card since my old one is about to expire.",
+        "score": 0.9377072334289551
+    },
+    {
+        "intent": "card_about_to_expire",
+        "query": "My card is about to expire.",
+        "score": 0.9370667934417725
+    },
+    {
+        "intent": "card_about_to_expire",
+        "query": "My card is expiring shortly.  How much will it cost for a replacement, and how soon can I get it?",
+        "score": 0.8682717323303224
+    },
+    {
+        "intent": "card_about_to_expire",
+        "query": "What would the price be for an expired card replacement and how long will it take me to get it?",
+        "score": 0.6367885589599609
+    },
+    {
+        "intent": "card_about_to_expire",
+        "query": "in china, need new card",
+        "score": 0.42697867036096687
+    },
+    {
+        "intent": "card_about_to_expire",
+        "query": "If my card is about to expire, do I need to order a new one?",
+        "score": 0.952350950241089
+    },
+    {
+        "intent": "card_about_to_expire",
+        "query": "My card is about to expire. How do I get a new one?",
+        "score": 0.940437412261963
+    },
+    {
+        "intent": "apple_pay_or_google_pay",
+        "query": "can google pay be used to make a top-up",
+        "score": 0.9329338073730469
+    },
+    {
+        "intent": "apple_pay_or_google_pay",
+        "query": "How do I get the Top Up feature on my apple watch working?",
+        "score": 0.8556288242340089
+    },
+    {
+        "intent": "apple_pay_or_google_pay",
+        "query": "How do I troubleshoot Google pay top up?",
+        "score": 0.8798237800598145
+    },
+    {
+        "intent": "apple_pay_or_google_pay",
+        "query": "How do I top up with Apple Pay?",
+        "score": 0.9717585086822511
+    },
+    {
+        "intent": "apple_pay_or_google_pay",
+        "query": "Why isnt my top up working using my saved American Express in ApplePay?",
+        "score": 0.6780044555664062
+    },
+    {
+        "intent": "apple_pay_or_google_pay",
+        "query": "How do I use the top up app with my apple watch?",
+        "score": 0.9370041370391846
+    },
+    {
+        "intent": "apple_pay_or_google_pay",
+        "query": "Google pay and top up, I want it, can I get it?",
+        "score": 0.9415845394134521
+    },
+    {
+        "intent": "verify_my_identity",
+        "query": "What will I need for identity verification?",
+        "score": 0.6916450500488281
+    },
+    {
+        "intent": "verify_my_identity",
+        "query": "Is there any way to verify who I am?",
+        "score": 0.49710404872894287
+    },
+    {
+        "intent": "verify_my_identity",
+        "query": "Is there any documentation needed for the identity check?",
+        "score": 0.749747133255005
+    },
+    {
+        "intent": "verify_my_identity",
+        "query": "What all am I required to show for the identity check?",
+        "score": 0.786579990386963
+    },
+    {
+        "intent": "verify_my_identity",
+        "query": "What do I do for the identity check?",
+        "score": 0.7377919673919677
+    },
+    {
+        "intent": "verify_my_identity",
+        "query": "What do I need to do to verify my identity?",
+        "score": 0.9527843952178956
+    },
+    {
+        "intent": "country_support",
+        "query": "I live in the US but want to get a card",
+        "score": 0.8999920845031739
+    },
+    {
+        "intent": "country_support",
+        "query": "If im not in the UK, can I still get a card?",
+        "score": 0.90128812789917
+    },
+    {
+        "intent": "country_support",
+        "query": "How many countries do you support?",
+        "score": 0.43570952827203663
+    },
+    {
+        "intent": "country_support",
+        "query": "What countries do you do business in?",
+        "score": 0.9125999927520752
+    },
+    {
+        "intent": "country_support",
+        "query": "What are the countries you operate in.",
+        "score": 0.9738831520080566
+    },
+    {
+        "intent": "country_support",
+        "query": "Can the card be mailed and used in Europe?",
+        "score": 0.9459966182708741
+    }
+]

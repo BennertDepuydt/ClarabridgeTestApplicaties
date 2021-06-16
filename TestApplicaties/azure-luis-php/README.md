@@ -1,0 +1,56 @@
+# Microsoft Azure LUIS PHP SDK
+
+[![Build Status](https://travis-ci.com/goodjun/azure-luis-php-sdk.svg?branch=master)](https://travis-ci.com/goodjun/azure-luis-php-sdk)
+[![Coverage Status](https://coveralls.io/repos/github/goodjun/azure-luis-php-sdk/badge.svg?branch=master&kill_cache=1)](https://coveralls.io/github/goodjun/azure-luis-php-sdk?branch=master)
+[![Packagist Version](https://img.shields.io/packagist/v/goodjun/azure-luis-php-sdk)](https://packagist.org/packages/goodjun/azure-luis-php-sdk)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/goodjun/azure-luis-php-sdk)](https://packagist.org/packages/goodjun/azure-luis-php-sdk)
+[![GitHub](https://img.shields.io/github/license/goodjun/azure-luis-php-sdk)](https://github.com/goodjun/azure-luis-php-sdk)
+[![GitHub issues](https://img.shields.io/github/issues/goodjun/azure-luis-php-sdk)](https://github.com/goodjun/azure-luis-php-sdk)
+
+__Welcome to Microsoft Azure LUIS PHP SDK__. This repository contains Azure LUIS PHP SDK and samples for REST API.
+
+## How to use?
+
+```php
+// from LUIS Profile -> Settings -> Authoring Resources
+$primaryKey = '';
+$location = 'westeurope';
+
+// Luis Client
+$luisClient = new LuisClient($primaryKey, $location);
+
+// create app
+$app = new App();
+$app->setName('app name')->setDescription('app description');
+$appId = $luisClient->createApp($app);
+
+// update app
+$luisClient->app($appId)->update('new name','new description');
+
+// delete app
+$luisClient->app($appId)->delete();
+```
+
+## Prerequisites
+ - PHP 5.5+.
+ - cURL & JSON extension.
+
+## Run a unit test
+
+ - Run `composer install`
+ - Set the environment variable.
+    ```
+    export LUIS_LOCATION=luis-location
+    export LUIS_PRIMARY_KEY=luis-primary
+    export LUIS_APP_ID=app-id 
+    ```
+ - Run `php vendor/bin/phpunit`
+ 
+## License
+
+ - MIT
+
+## LUIS Documentation
+
+ - [What is Language Understanding (LUIS)?](https://docs.microsoft.com/zh-cn/azure/cognitive-services/luis/what-is-luis)
+ - [LUIS Programmatic APIs v2.0](https://westus.dev.cognitive.microsoft.com/docs/services/5890b47c39e2bb17b84a55ff/operations/5890b47c39e2bb052c5b9c2f).
